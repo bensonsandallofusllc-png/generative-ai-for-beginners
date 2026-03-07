@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58953c08b8ba7073b836d4270ea0fe86",
-  "translation_date": "2025-12-19T18:56:06+00:00",
-  "source_file": "08-building-search-applications/README.md",
-  "language_code": "ml"
-}
--->
 # ഒരു സെർച്ച് അപ്ലിക്കേഷനുകൾ നിർമ്മിക്കൽ
 
-[![ജനറേറ്റീവ് എഐയും വലിയ ഭാഷാ മോഡലുകളും പരിചയപ്പെടുത്തൽ](../../../translated_images/08-lesson-banner.8fff48c566dad08a1cbb9f4b4a2c16adfdd288a7bbfffdd30770b466fe08c25c.ml.png)](https://youtu.be/W0-nzXjOjr0?si=GcsqiTTvd7RKbo7V)
+[![ജനറേറ്റീവ് എഐയും വലിയ ഭാഷാ മോഡലുകളും പരിചയപ്പെടുത്തൽ](../../../translated_images/ml/08-lesson-banner.8fff48c566dad08a.webp)](https://youtu.be/W0-nzXjOjr0?si=GcsqiTTvd7RKbo7V)
 
 > > _ഈ പാഠത്തിന്റെ വീഡിയോ കാണാൻ മുകളിൽ ചിത്രത്തിൽ ക്ലിക്ക് ചെയ്യുക_
 
@@ -44,7 +35,7 @@ LLM-കൾ ചാറ്റ്ബോട്ടുകളും ടെക്സ്�
 
 താഴെ 'can you use rstudio with azure ml?' എന്ന ചോദ്യം സംബന്ധിച്ച ഒരു സെമാന്റിക് ക്വറി ഉദാഹരണമാണ്. YouTube URL നോക്കൂ, URL-ൽ ടൈംസ്റ്റാമ്പ് ഉണ്ട്, അത് ചോദ്യം ഉത്തരം ഉള്ള വീഡിയോയിലെ സ്ഥലത്തേക്ക് നിങ്ങളെ കൊണ്ടുപോകും.
 
-!["can you use rstudio with Azure ML" എന്ന ചോദ്യം സംബന്ധിച്ച സെമാന്റിക് ക്വറി](../../../translated_images/query-results.bb0480ebf025fac69c5179ad4d53b6627d643046838c857dc9e2b1281f1cdeb7.ml.png)
+!["can you use rstudio with Azure ML" എന്ന ചോദ്യം സംബന്ധിച്ച സെമാന്റിക് ക്വറി](../../../translated_images/ml/query-results.bb0480ebf025fac6.webp)
 
 ## സെമാന്റിക് സെർച്ച് എന്താണ്?
 
@@ -163,7 +154,7 @@ GitHub Codespaces-ൽ [solution notebook](./python/aoai-solution.ipynb?WT.mc_id=
 
 നോട്ട്‌ബുക്ക് ഓടിക്കുമ്പോൾ, നിങ്ങൾക്ക് ഒരു ക്വറി നൽകാൻ പ്രോംപ്റ്റ് ചെയ്യും. ഇൻപുട്ട് ബോക്സ് ഇങ്ങനെ കാണപ്പെടും:
 
-![ഉപയോക്താവ് ക്വറി നൽകാനുള്ള ഇൻപുട്ട് ബോക്സ്](../../../translated_images/notebook-search.1e320b9c7fcbb0bc1436d98ea6ee73b4b54ca47990a1c952b340a2cadf8ac1ca.ml.png)
+![ഉപയോക്താവ് ക്വറി നൽകാനുള്ള ഇൻപുട്ട് ബോക്സ്](../../../translated_images/ml/notebook-search.1e320b9c7fcbb0bc.webp)
 
 ## മികച്ച ജോലി! നിങ്ങളുടെ പഠനം തുടരുക
 

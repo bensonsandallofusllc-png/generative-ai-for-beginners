@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "238cde5c90363d70ecc939569378da51",
-  "translation_date": "2025-12-19T20:42:10+00:00",
-  "source_file": "09-building-image-applications/README.md",
-  "language_code": "ml"
-}
--->
 # ഇമേജ് ജനറേഷൻ ആപ്ലിക്കേഷനുകൾ നിർമ്മിക്കൽ
 
-[![ഇമേജ് ജനറേഷൻ ആപ്ലിക്കേഷനുകൾ നിർമ്മിക്കൽ](../../../translated_images/09-lesson-banner.906e408c741f44112ff5da17492a30d3872abb52b8530d6506c2631e86e704d0.ml.png)](https://youtu.be/B5VP0_J7cs8?si=5P3L5o7F_uS_QcG9)
+[![ഇമേജ് ജനറേഷൻ ആപ്ലിക്കേഷനുകൾ നിർമ്മിക്കൽ](../../../translated_images/ml/09-lesson-banner.906e408c741f4411.webp)](https://youtu.be/B5VP0_J7cs8?si=5P3L5o7F_uS_QcG9)
 
 LLM-കൾക്ക് ടെക്സ്റ്റ് ജനറേഷനിൽ മാത്രമല്ല, ടെക്സ്റ്റ് വിവരണങ്ങളിൽ നിന്ന് ചിത്രങ്ങൾ സൃഷ്ടിക്കാനും കഴിയും. ചിത്രങ്ങൾ ഒരു മോഡാലിറ്റി ആയി ഉള്ളത് മെഡടെക്, ആർക്കിടെക്ചർ, ടൂറിസം, ഗെയിം ഡെവലപ്പ്മെന്റ് തുടങ്ങിയ പല മേഖലകളിലും വളരെ ഉപകാരപ്രദമാണ്. ഈ അധ്യായത്തിൽ, ഏറ്റവും ജനപ്രിയമായ രണ്ട് ഇമേജ് ജനറേഷൻ മോഡലുകൾ, DALL-Eയും Midjourneyയും പരിചയപ്പെടാം.
 
@@ -43,7 +34,7 @@ LLM-കൾക്ക് ടെക്സ്റ്റ് ജനറേഷനിൽ �
 
 ക്ലാസിൽ സ്മാരകങ്ങളെക്കുറിച്ച് പഠിക്കുമ്പോൾ Edu4All വിദ്യാർത്ഥികൾ സൃഷ്ടിക്കാവുന്ന ഉദാഹരണം:
 
-![Edu4All startup, class on monuments, Eiffel Tower](../../../translated_images/startup.94d6b79cc4bb3f5afbf6e2ddfcf309aa5d1e256b5f30cc41d252024eaa9cc5dc.ml.png)
+![Edu4All startup, class on monuments, Eiffel Tower](../../../translated_images/ml/startup.94d6b79cc4bb3f5a.webp)
 
 പ്രോംപ്റ്റ് ഉപയോഗിച്ച്
 
@@ -272,9 +263,9 @@ Python-ൽ കുറച്ച് വരികളിൽ ചിത്രങ്ങ�
   അടിസ്ഥാന ചിത്രം ലൗഞ്ചും പൂലും മാത്രമാണ് ഉൾക്കൊള്ളുന്നത്, എന്നാൽ അന്തിമ ചിത്രത്തിൽ ഫ്ലാമിംഗോ ഉണ്ടാകും:
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
-  <img src="../../../translated_images/sunlit_lounge.a75a0cb61749db0eddc1820c30a5fa9a3a9f48518cd7c8df4c2073e8c793bbb7.ml.png" style="width: 30%; max-width: 200px; height: auto;">
-  <img src="../../../translated_images/mask.1b2976ccec9e011eaac6cd3697d804a22ae6debba7452da6ba3bebcaa9c54ff0.ml.png" style="width: 30%; max-width: 200px; height: auto;">
-  <img src="../../../translated_images/sunlit_lounge_result.76ae02957c0bbeb860f1efdb42dd7f450ea01c6ae6cd70ad5ade4bab1a545d51.ml.png" style="width: 30%; max-width: 200px; height: auto;">
+  <img src="../../../translated_images/ml/sunlit_lounge.a75a0cb61749db0e.webp" style="width: 30%; max-width: 200px; height: auto;">
+  <img src="../../../translated_images/ml/mask.1b2976ccec9e011e.webp" style="width: 30%; max-width: 200px; height: auto;">
+  <img src="../../../translated_images/ml/sunlit_lounge_result.76ae02957c0bbeb8.webp" style="width: 30%; max-width: 200px; height: auto;">
 </div>
 
 - **വിവിധത്വങ്ങൾ സൃഷ്ടിക്കുക**. നിലവിലുള്ള ഒരു ചിത്രം എടുത്ത് അതിന്റെ വ്യത്യസ്ത പതിപ്പുകൾ സൃഷ്ടിക്കാൻ ആവശ്യപ്പെടാം. വ്യത്യസ്തത സൃഷ്ടിക്കാൻ, ചിത്രം, ടെക്സ്റ്റ് പ്രോംപ്റ്റ് എന്നിവ നൽകുകയും താഴെ കാണുന്ന കോഡ് ഉപയോഗിക്കുകയും ചെയ്യാം:
@@ -298,11 +289,11 @@ Python-ൽ കുറച്ച് വരികളിൽ ചിത്രങ്ങ�
 
 > പ്രോംപ്റ്റ്: "Bunny on horse, holding a lollipop, on a foggy meadow where it grows daffodils"
 
-![Bunny on a horse holding a lollipop, version 1](../../../translated_images/v1-generated-image.a295cfcffa3c13c2432eb1e41de7e49a78c814000fb1b462234be24b6e0db7ea.ml.png)
+![Bunny on a horse holding a lollipop, version 1](../../../translated_images/ml/v1-generated-image.a295cfcffa3c13c2.webp)
 
 ഇപ്പോൾ ആ പ്രോംപ്റ്റ് വീണ്ടും ഓടിച്ച് ഒരേ ചിത്രം രണ്ടുതവണ ഉണ്ടാകില്ലെന്ന് കാണാം:
 
-![Generated image of bunny on horse](../../../translated_images/v2-generated-image.33f55a3714efe61dc19622c869ba6cd7d6e6de562e26e95b5810486187aace39.ml.png)
+![Generated image of bunny on horse](../../../translated_images/ml/v2-generated-image.33f55a3714efe61d.webp)
 
 കാണുന്നത് പോലെ, ചിത്രങ്ങൾ സമാനമാണ്, എന്നാൽ ഒരുപോലെയല്ല. താപനില മൂല്യം 0.1 ആക്കി മാറ്റി നോക്കാം:
 
@@ -331,8 +322,8 @@ generation_response = client.images.create(
 
 ഇപ്പോൾ ഈ കോഡ് ഓടിച്ചാൽ, ഈ രണ്ട് ചിത്രങ്ങൾ ലഭിക്കും:
 
-- ![Temperature 0, v1](../../../translated_images/v1-temp-generated-image.a4346e1d2360a056d855ee3dfcedcce91211747967cb882e7d2eff2076f90e4a.ml.png)
-- ![Temperature 0 , v2](../../../translated_images/v2-temp-generated-image.871d0c920dbfb0f1cb5d9d80bffd52da9b41f83b386320d9a9998635630ec83d.ml.png)
+- ![Temperature 0, v1](../../../translated_images/ml/v1-temp-generated-image.a4346e1d2360a056.webp)
+- ![Temperature 0 , v2](../../../translated_images/ml/v2-temp-generated-image.871d0c920dbfb0f1.webp)
 
 ഇവിടെ ചിത്രങ്ങൾ പരസ്പരം കൂടുതൽ സമാനമാണെന്ന് വ്യക്തമായി കാണാം.
 

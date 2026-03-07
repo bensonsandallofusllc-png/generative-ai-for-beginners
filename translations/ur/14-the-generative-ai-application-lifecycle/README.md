@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T13:12:02+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "ur"
-}
--->
-[![فنکشن کالنگ کے ساتھ انضمام](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.ur.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![فنکشن کالنگ کے ساتھ انضمام](../../../translated_images/ur/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # جنریٹو AI ایپلیکیشن لائف سائیکل
 
@@ -30,7 +21,7 @@ LLMs مصنوعی ذہانت کے ہتھیار میں ایک نیا آلہ ہی�
 
 اس کے ساتھ، ہمیں اس آلے کو متحرک انداز میں، صحیح ترغیبات کے ساتھ اپنانے کے لیے ایک نئی پیراڈائم کی ضرورت ہے۔ ہم پرانی AI ایپس کو "ML ایپس" اور نئی AI ایپس کو "GenAI ایپس" یا صرف "AI ایپس" کے طور پر درجہ بندی کر سکتے ہیں، جو اس وقت استعمال ہونے والی مرکزی دھارے کی ٹیکنالوجی اور تکنیک کی عکاسی کرتی ہیں۔ یہ ہماری کہانی کو کئی طریقوں سے تبدیل کرتا ہے، درج ذیل موازنہ دیکھیں۔
 
-![LLMOps بمقابلہ MLOps موازنہ](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.ur.png)
+![LLMOps بمقابلہ MLOps موازنہ](../../../translated_images/ur/01-llmops-shift.29bc933cb3bb0080.webp)
 
 نوٹ کریں کہ LLMOps میں، ہم ایپ ڈویلپرز پر زیادہ توجہ مرکوز کرتے ہیں، انضمام کو ایک کلیدی نقطہ کے طور پر استعمال کرتے ہیں، "ماڈلز-ایز-اے-سروس" استعمال کرتے ہیں اور میٹرکس کے لیے درج ذیل نکات پر غور کرتے ہیں۔
 
@@ -44,7 +35,7 @@ LLMs مصنوعی ذہانت کے ہتھیار میں ایک نیا آلہ ہی�
 
 سب سے پہلے، لائف سائیکل اور تبدیلیوں کو سمجھنے کے لیے، اگلی انفرافک نوٹ کریں۔
 
-![LLMOps انفرافک](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.ur.png)
+![LLMOps انفرافک](../../../translated_images/ur/02-llmops.70a942ead05a7645.webp)
 
 جیسا کہ آپ نوٹ کر سکتے ہیں، یہ MLOps کے معمول کے لائف سائیکل سے مختلف ہے۔ LLMs کے بہت سے نئے تقاضے ہیں، جیسے پرامپٹنگ، معیار کو بہتر بنانے کی مختلف تکنیکیں (فائن-ٹیوننگ، RAG، میٹا-پرامپٹس)، ذمہ دار AI کے ساتھ مختلف جائزہ اور ذمہ داری، آخر میں، نئے جائزہ میٹرکس (معیار، نقصان، ایمانداری، لاگت اور تاخیر)۔
 
@@ -54,7 +45,7 @@ LLMs مصنوعی ذہانت کے ہتھیار میں ایک نیا آلہ ہی�
 
 ہم ان مراحل کو کیسے دریافت کر سکتے ہیں؟ آئیے تفصیل میں جائیں کہ ہم لائف سائیکل کیسے بنا سکتے ہیں۔
 
-![LLMOps ورک فلو](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.ur.png)
+![LLMOps ورک فلو](../../../translated_images/ur/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 یہ تھوڑا پیچیدہ لگ سکتا ہے، پہلے تین بڑے مراحل پر توجہ مرکوز کرتے ہیں۔
 
@@ -74,11 +65,11 @@ LLMs مصنوعی ذہانت کے ہتھیار میں ایک نیا آلہ ہی�
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) آپ کو [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) استعمال کرنے کی اجازت دیتا ہے۔ AI Studio ایک ویب پورٹل ہے جو آپ کو ماڈلز، نمونے اور ٹولز کو دریافت کرنے کی اجازت دیتا ہے۔ آپ کے وسائل کا انتظام، UI ڈیولپمنٹ فلو اور کوڈ-فرسٹ ڈیولپمنٹ کے لیے SDK/CLI اختیارات۔
 
-![Azure AI امکانات](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.ur.png)
+![Azure AI امکانات](../../../translated_images/ur/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI آپ کو متعدد وسائل استعمال کرنے کی اجازت دیتا ہے، تاکہ آپ اپنے آپریشنز، خدمات، پروجیکٹس، ویکٹر سرچ اور ڈیٹا بیس کی ضروریات کا انتظام کر سکیں۔
 
-![Azure AI کے ساتھ LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.ur.png)
+![Azure AI کے ساتھ LLMOps](../../../translated_images/ur/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 PromptFlow کے ساتھ پروف آف کانسپٹ (POC) سے لے کر بڑے پیمانے پر ایپلیکیشنز تک تعمیر کریں:
 
@@ -86,7 +77,7 @@ PromptFlow کے ساتھ پروف آف کانسپٹ (POC) سے لے کر بڑے 
 - اپنی ایپس کو معیار AI کے لیے آسانی سے ٹیسٹ اور فائن-ٹیون کریں۔
 - Azure AI Studio استعمال کریں تاکہ کلاؤڈ کے ساتھ انضمام اور تکرار کریں، جلدی انضمام کے لیے پش اور تعیناتی کریں۔
 
-![PromptFlow کے ساتھ LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.ur.png)
+![PromptFlow کے ساتھ LLMOps](../../../translated_images/ur/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## بہت خوب! اپنی تعلیم جاری رکھیں!
 

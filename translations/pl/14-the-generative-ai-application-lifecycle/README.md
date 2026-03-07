@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T14:49:03+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "pl"
-}
--->
-[![Integracja z wywoływaniem funkcji](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.pl.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![Integracja z wywoływaniem funkcji](../../../translated_images/pl/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # Cykl życia aplikacji generatywnej AI
 
@@ -30,7 +21,7 @@ LLM to nowe narzędzie w arsenale sztucznej inteligencji, są niezwykle potężn
 
 W związku z tym potrzebujemy nowego paradygmatu, aby dostosować to narzędzie dynamicznie, z odpowiednimi zachętami. Możemy kategoryzować starsze aplikacje AI jako "ML Apps", a nowsze jako "GenAI Apps" lub po prostu "AI Apps", odzwierciedlając dominujące technologie i techniki używane w danym czasie. To zmienia naszą narrację na wiele sposobów, spójrz na poniższe porównanie.
 
-![Porównanie LLMOps vs. MLOps](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.pl.png)
+![Porównanie LLMOps vs. MLOps](../../../translated_images/pl/01-llmops-shift.29bc933cb3bb0080.webp)
 
 Zauważ, że w LLMOps skupiamy się bardziej na deweloperach aplikacji, używając integracji jako kluczowego punktu, korzystając z "Modeli jako usługi" i myśląc o następujących punktach metryk.
 
@@ -44,7 +35,7 @@ Zauważ, że w LLMOps skupiamy się bardziej na deweloperach aplikacji, używaj�
 
 Najpierw, aby zrozumieć cykl życia i modyfikacje, spójrz na następującą infografikę.
 
-![Infografika LLMOps](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.pl.png)
+![Infografika LLMOps](../../../translated_images/pl/02-llmops.70a942ead05a7645.webp)
 
 Jak zauważysz, różni się to od zwykłych cykli życia w MLOps. LLM mają wiele nowych wymagań, takich jak promptowanie, różne techniki poprawy jakości (Fine-Tuning, RAG, Meta-Prompts), różne oceny i odpowiedzialność związana z odpowiedzialną AI, wreszcie nowe metryki oceny (Jakość, Szkoda, Uczciwość, Koszt i Opóźnienie).
 
@@ -54,7 +45,7 @@ Zauważ, że nie jest to proces liniowy, lecz zintegrowane pętle, iteracyjne i 
 
 Jak możemy eksplorować te kroki? Przyjrzyjmy się szczegółowo, jak można zbudować cykl życia.
 
-![Przepływ pracy LLMOps](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.pl.png)
+![Przepływ pracy LLMOps](../../../translated_images/pl/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 Może to wyglądać trochę skomplikowanie, skupmy się najpierw na trzech głównych krokach.
 
@@ -74,11 +65,11 @@ Do narzędzi Microsoft oferuje [Azure AI Platform](https://azure.microsoft.com/s
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) pozwala korzystać z [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys). AI Studio to portal internetowy, który pozwala eksplorować modele, przykłady i narzędzia. Zarządzać zasobami, przepływami UI oraz opcjami SDK/CLI dla rozwoju opartego na kodzie.
 
-![Możliwości Azure AI](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.pl.png)
+![Możliwości Azure AI](../../../translated_images/pl/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI pozwala korzystać z wielu zasobów do zarządzania operacjami, usługami, projektami, wyszukiwaniem wektorowym i potrzebami baz danych.
 
-![LLMOps z Azure AI](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.pl.png)
+![LLMOps z Azure AI](../../../translated_images/pl/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Buduj od Proof-of-Concept (POC) do aplikacji na dużą skalę z PromptFlow:
 
@@ -86,7 +77,7 @@ Buduj od Proof-of-Concept (POC) do aplikacji na dużą skalę z PromptFlow:
 - Testuj i dostrajaj swoje aplikacje dla jakości AI, z łatwością.
 - Używaj Azure AI Studio do integracji i iteracji z chmurą, wypychania i wdrażania dla szybkiej integracji.
 
-![LLMOps z PromptFlow](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.pl.png)
+![LLMOps z PromptFlow](../../../translated_images/pl/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## Świetnie! Kontynuuj naukę!
 

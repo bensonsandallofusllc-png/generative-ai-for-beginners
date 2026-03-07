@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T17:52:33+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "lt"
-}
--->
-[![Atviro kodo modeliai](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.lt.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Atviro kodo modeliai](../../../translated_images/lt/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## Įvadas
 
@@ -41,12 +32,12 @@ Nors LLM kūrimas turi panašumų su programinės įrangos kūrimu, procesas nė
 
 **Kaina** – Kaina už žetoną naudojant ir diegiant šiuos modelius yra mažesnė nei savininkiškų modelių. Kuriant generatyviosios AI programas, svarbu įvertinti našumą ir kainą, dirbant su šiais modeliais savo atveju.
 
-![Modelio kaina](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.lt.png)
+![Modelio kaina](../../../translated_images/lt/model-price.3f5a3e4d32ae00b4.webp)
 Šaltinis: Artificial Analysis
 
 **Lankstumas** – Darbas su atvirais modeliais leidžia būti lanksčiam renkantis skirtingus modelius arba juos derinant. Pavyzdys – [HuggingChat asistentai](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst), kur vartotojas gali tiesiogiai vartotojo sąsajoje pasirinkti naudojamą modelį:
 
-![Pasirinkite modelį](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.lt.png)
+![Pasirinkite modelį](../../../translated_images/lt/choose-model.f095d15bbac92214.webp)
 
 ## Skirtingų atvirų modelių tyrinėjimas
 
@@ -74,7 +65,7 @@ Nėra vieno atsakymo, kaip pasirinkti atvirą modelį. Geras pradžios taškas �
 
 Ieškant LLM palyginimų tarp skirtingų tipų, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) yra dar viena puiki priemonė:
 
-![Modelio kokybė](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.lt.png)
+![Modelio kokybė](../../../translated_images/lt/model-quality.aaae1c22e00f7ee1.webp)
 Šaltinis: Artificial Analysis
 
 Dirbant su konkrečiu atveju, efektyvu ieškoti smulkiai derintų versijų, orientuotų į tą pačią sritį. Eksperimentavimas su keliais atvirais modeliais, siekiant įvertinti jų veikimą pagal jūsų ir vartotojų lūkesčius, taip pat yra gera praktika.

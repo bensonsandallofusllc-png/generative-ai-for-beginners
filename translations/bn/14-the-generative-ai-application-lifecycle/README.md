@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T14:01:51+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "bn"
-}
--->
-[![ফাংশন কলিংয়ের সাথে ইন্টিগ্রেশন](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.bn.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![ফাংশন কলিংয়ের সাথে ইন্টিগ্রেশন](../../../translated_images/bn/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # জেনারেটিভ AI অ্যাপ্লিকেশন লাইফসাইকেল
 
@@ -30,7 +21,7 @@ LLM গুলো কৃত্রিম বুদ্ধিমত্তার ন�
 
 এই জন্য, আমাদের একটি নতুন প্যারাডাইম দরকার যা এই সরঞ্জামটিকে গতিশীলভাবে, সঠিক প্রণোদনার সাথে মানিয়ে নিতে পারে। আমরা পুরনো AI অ্যাপগুলোকে "ML Apps" এবং নতুন AI অ্যাপগুলোকে "GenAI Apps" বা শুধু "AI Apps" হিসেবে শ্রেণীবদ্ধ করতে পারি, যা তখনকার প্রধান প্রযুক্তি এবং কৌশলগুলোকে প্রতিফলিত করে। এটি আমাদের বর্ণনাকে একাধিকভাবে পরিবর্তন করে, নিচের তুলনাটি দেখুন।
 
-![LLMOps বনাম MLOps তুলনা](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.bn.png)
+![LLMOps বনাম MLOps তুলনা](../../../translated_images/bn/01-llmops-shift.29bc933cb3bb0080.webp)
 
 দ্রষ্টব্য যে LLMOps-এ, আমরা অ্যাপ ডেভেলপারদের উপর বেশি ফোকাস করি, ইন্টিগ্রেশনকে একটি মূল পয়েন্ট হিসেবে ব্যবহার করি, "মডেল-অ্যাজ-এ-সার্ভিস" ব্যবহার করি এবং মেট্রিক্সের জন্য নিম্নলিখিত বিষয়গুলো বিবেচনা করি।
 
@@ -44,7 +35,7 @@ LLM গুলো কৃত্রিম বুদ্ধিমত্তার ন�
 
 প্রথমে, লাইফসাইকেল এবং পরিবর্তনগুলো বুঝতে, নিচের ইনফোগ্রাফিকটি লক্ষ্য করুন।
 
-![LLMOps ইনফোগ্রাফিক](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.bn.png)
+![LLMOps ইনফোগ্রাফিক](../../../translated_images/bn/02-llmops.70a942ead05a7645.webp)
 
 আপনি লক্ষ্য করবেন, এটি MLOps-এর সাধারণ লাইফসাইকেল থেকে ভিন্ন। LLM গুলোর অনেক নতুন প্রয়োজনীয়তা আছে, যেমন প্রম্পটিং, গুণমান উন্নত করার বিভিন্ন কৌশল (ফাইন-টিউনিং, RAG, মেটা-প্রম্পটস), দায়িত্বশীল AI সহ বিভিন্ন মূল্যায়ন এবং দায়িত্ব, এবং নতুন মূল্যায়ন মেট্রিক্স (গুণমান, ক্ষতি, সততা, খরচ এবং বিলম্ব)।
 
@@ -54,7 +45,7 @@ LLM গুলো কৃত্রিম বুদ্ধিমত্তার ন�
 
 আমরা কীভাবে এই ধাপগুলো অন্বেষণ করতে পারি? চলুন বিস্তারিত দেখি কীভাবে একটি লাইফসাইকেল তৈরি করা যায়।
 
-![LLMOps ওয়ার্কফ্লো](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.bn.png)
+![LLMOps ওয়ার্কফ্লো](../../../translated_images/bn/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 এটি কিছুটা জটিল মনে হতে পারে, প্রথমে তিনটি বড় ধাপে ফোকাস করি।
 
@@ -74,11 +65,11 @@ LLM গুলো কৃত্রিম বুদ্ধিমত্তার ন�
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) আপনাকে [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) ব্যবহার করার সুযোগ দেয়। AI Studio একটি ওয়েব পোর্টাল যা আপনাকে মডেল, স্যাম্পল এবং টুলস অন্বেষণ করতে দেয়। আপনার রিসোর্স, UI ডেভেলপমেন্ট ফ্লো এবং SDK/CLI বিকল্পগুলি পরিচালনা করতে দেয় কোড-ফার্স্ট ডেভেলপমেন্টের জন্য।
 
-![Azure AI সম্ভাবনা](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.bn.png)
+![Azure AI সম্ভাবনা](../../../translated_images/bn/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI আপনাকে একাধিক রিসোর্স ব্যবহার করতে দেয়, আপনার অপারেশন, সার্ভিস, প্রকল্প, ভেক্টর সার্চ এবং ডেটাবেসের চাহিদা পরিচালনার জন্য।
 
-![Azure AI সহ LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.bn.png)
+![Azure AI সহ LLMOps](../../../translated_images/bn/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 প্রুফ-অফ-কনসেপ্ট (POC) থেকে বড় স্কেল অ্যাপ্লিকেশন পর্যন্ত PromptFlow দিয়ে নির্মাণ করুন:
 
@@ -86,7 +77,7 @@ Azure AI আপনাকে একাধিক রিসোর্স ব্য�
 - সহজে গুণমান AI-এর জন্য আপনার অ্যাপ পরীক্ষা এবং ফাইন-টিউন করুন
 - দ্রুত ইন্টিগ্রেশনের জন্য Azure AI Studio ব্যবহার করে ক্লাউড, পুশ এবং ডিপ্লয়মেন্টের সাথে ইন্টিগ্রেট এবং পুনরাবৃত্তি করুন
 
-![PromptFlow সহ LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.bn.png)
+![PromptFlow সহ LLMOps](../../../translated_images/bn/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## দারুণ! আপনার শেখা চালিয়ে যান!
 

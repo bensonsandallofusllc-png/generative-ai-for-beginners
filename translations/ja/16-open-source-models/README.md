@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T13:41:54+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "ja"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.ja.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/ja/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## はじめに
 
@@ -41,12 +32,12 @@ LLMの開発はソフトウェア開発と似た要素を持ちますが、プ�
 
 **コスト** - これらのモデルの使用および展開にかかるトークンあたりのコストは、プロプライエタリモデルよりも低くなっています。生成AIアプリケーションを構築する際には、これらのモデルを使った場合のパフォーマンスと価格のバランスを検討することが重要です。
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.ja.png)
+![Model Cost](../../../translated_images/ja/model-price.3f5a3e4d32ae00b4.webp)
 出典: Artificial Analysis
 
 **柔軟性** - オープンモデルを使うことで、異なるモデルを使い分けたり組み合わせたりする柔軟性が得られます。例として、[HuggingChatアシスタント](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst)では、ユーザーがUI上で直接使用するモデルを選択できます：
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.ja.png)
+![Choose Model](../../../translated_images/ja/choose-model.f095d15bbac92214.webp)
 
 ## さまざまなオープンモデルの紹介
 
@@ -74,7 +65,7 @@ Falconのファインチューニング版の例には、オープンモデル�
 
 異なるタイプのLLMを比較したい場合は、[Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst)も優れたリソースです：
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.ja.png)
+![Model Quality](../../../translated_images/ja/model-quality.aaae1c22e00f7ee1.webp)
 出典: Artificial Analysis
 
 特定のユースケースに取り組む場合は、同じ分野に特化したファインチューニング版を探すのが効果的です。複数のオープンモデルを試して、自分やユーザーの期待にどのように応えるかを評価するのも良い方法です。
@@ -91,5 +82,5 @@ Falconのファインチューニング版の例には、オープンモデル�
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **免責事項**：  
-本書類はAI翻訳サービス「Co-op Translator」（https://github.com/Azure/co-op-translator）を使用して翻訳されました。正確性の向上に努めておりますが、自動翻訳には誤りや不正確な部分が含まれる可能性があります。原文の言語による文書が正式な情報源とみなされるべきです。重要な情報については、専門の人間による翻訳を推奨します。本翻訳の利用により生じたいかなる誤解や誤訳についても、当方は責任を負いかねます。
+本書類はAI翻訳サービス「[Co-op Translator](https://github.com/Azure/co-op-translator)」を使用して翻訳されました。正確性の向上に努めておりますが、自動翻訳には誤りや不正確な部分が含まれる可能性があります。原文の言語による文書が正式な情報源とみなされるべきです。重要な情報については、専門の人間による翻訳を推奨します。本翻訳の利用により生じたいかなる誤解や誤訳についても、当方は責任を負いかねます。
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

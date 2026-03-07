@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "59021c5f419d3feda19075910a74280a",
-  "translation_date": "2025-12-19T20:48:12+00:00",
-  "source_file": "15-rag-and-vector-databases/data/perceptron.md",
-  "language_code": "te"
-}
--->
 # న్యూరల్ నెట్‌వర్క్స్ పరిచయం: పర్సెప్ట్రాన్
 
 ఆధునిక న్యూరల్ నెట్‌వర్క్‌కు సమానమైన ఏదైనా అమలు చేయడానికి మొదటి ప్రయత్నాలలో ఒకటి 1957లో కార్నెల్ ఏరోనాటికల్ ల్యాబొరేటరీ నుండి ఫ్రాంక్ రోసెన్‌బ్లాట్ చేసినది. ఇది "మార్క్-1" అనే హార్డ్‌వేర్ అమలు, ఇది త్రిభుజాలు, చతురస్రాలు మరియు వృత్తాలు వంటి ప్రాథమిక జ్యామితీయ ఆకారాలను గుర్తించడానికి రూపొందించబడింది.
 
 |      |      |
 |--------------|-----------|
-|<img src='../../../../translated_images/Rosenblatt-wikipedia.1d205667acda28c0f97ad594eb6dadfa0485605f3fb2155eca46a0255e98efac.te.jpg' alt='Frank Rosenblatt'/> | <img src='../../../../translated_images/Mark_I_perceptron_wikipedia.434e46ca39e2be801976110f8b1b75b13d1197f69e3a5f8b7537b43d35413e6f.te.jpg' alt='The Mark 1 Perceptron' />|
+|<img src='../../../../translated_images/te/Rosenblatt-wikipedia.1d205667acda28c0f97ad594eb6dadfa0485605f3fb2155eca46a0255e98efac.jpg' alt='Frank Rosenblatt'/> | <img src='../../../../translated_images/te/Mark_I_perceptron_wikipedia.434e46ca39e2be801976110f8b1b75b13d1197f69e3a5f8b7537b43d35413e6f.jpg' alt='The Mark 1 Perceptron' />|
 
 > చిత్రాలు వికీపీడియా నుండి
 

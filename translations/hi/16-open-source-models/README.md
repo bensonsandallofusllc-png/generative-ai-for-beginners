@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T13:54:39+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "hi"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.hi.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/hi/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## परिचय
 
@@ -41,12 +32,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 **लागत** - इन मॉडल्स का उपयोग और तैनाती करने की प्रति टोकन लागत मालिकाना मॉडल्स की तुलना में कम होती है। जनरेटिव AI अनुप्रयोगों का निर्माण करते समय, अपने उपयोग मामले पर इन मॉडल्स के प्रदर्शन बनाम मूल्य को देखना चाहिए।
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.hi.png)
+![Model Cost](../../../translated_images/hi/model-price.3f5a3e4d32ae00b4.webp)
 स्रोत: Artificial Analysis
 
 **लचीलापन** - ओपन मॉडल्स के साथ काम करने से आप विभिन्न मॉडल्स का उपयोग करने या उन्हें संयोजित करने में लचीले होते हैं। इसका एक उदाहरण [HuggingChat Assistants](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst) है जहां उपयोगकर्ता सीधे यूजर इंटरफेस में उपयोग किए जा रहे मॉडल का चयन कर सकता है:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.hi.png)
+![Choose Model](../../../translated_images/hi/choose-model.f095d15bbac92214.webp)
 
 ## विभिन्न ओपन मॉडल्स का अन्वेषण
 
@@ -74,7 +65,7 @@ Falcon के फाइन-ट्यून किए गए संस्कर�
 
 विभिन्न प्रकारों के बीच LLMs की तुलना करते समय, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) एक और उत्कृष्ट संसाधन है:
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.hi.png)
+![Model Quality](../../../translated_images/hi/model-quality.aaae1c22e00f7ee1.webp)
 स्रोत: Artificial Analysis
 
 यदि आप किसी विशिष्ट उपयोग मामले पर काम कर रहे हैं, तो उसी क्षेत्र पर केंद्रित फाइन-ट्यून किए गए संस्करणों की खोज प्रभावी हो सकती है। कई ओपन मॉडल्स के साथ प्रयोग करना यह देखने के लिए कि वे आपकी और आपके उपयोगकर्ताओं की अपेक्षाओं के अनुसार कैसे प्रदर्शन करते हैं, एक अच्छी प्रथा है।

@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "59021c5f419d3feda19075910a74280a",
-  "translation_date": "2025-12-19T20:49:43+00:00",
-  "source_file": "15-rag-and-vector-databases/data/perceptron.md",
-  "language_code": "kn"
-}
--->
 # ನ್ಯೂರಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳಿಗೆ ಪರಿಚಯ: ಪರ್ಸೆಪ್ಟ್ರಾನ್
 
 ಆಧುನಿಕ ನ್ಯೂರಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಮಾನವಾದ ಏನನ್ನಾದರೂ ಅನುಷ್ಠಾನಗೊಳಿಸುವ ಮೊದಲ ಪ್ರಯತ್ನಗಳಲ್ಲಿ ಒಂದನ್ನು 1957 ರಲ್ಲಿ ಕಾರ್ನೆಲ್ ಏರೋನಾಟಿಕಲ್ ಲ್ಯಾಬೊರೇಟರಿ‌ನ ಫ್ರಾಂಕ್ ರೋಸೆನ್‌ಬ್ಲಾಟ್ ಮಾಡಿದ್ದಾರೆ. ಇದನ್ನು "ಮಾರ್ಕ್-1" ಎಂದು ಕರೆಯುವ ಹಾರ್ಡ್‌ವೇರ್ ಅನುಷ್ಠಾನವಾಗಿತ್ತು, ಇದು ತ್ರಿಭುಜಗಳು, ಚತುರ್ಭುಜಗಳು ಮತ್ತು ವೃತ್ತಗಳಂತಹ ಮೂಲಭೂತ ಜ್ಯಾಮಿತೀಯ ಆಕಾರಗಳನ್ನು ಗುರುತಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಯಿತು.
 
 |      |      |
 |--------------|-----------|
-|<img src='../../../../translated_images/Rosenblatt-wikipedia.1d205667acda28c0f97ad594eb6dadfa0485605f3fb2155eca46a0255e98efac.kn.jpg' alt='Frank Rosenblatt'/> | <img src='../../../../translated_images/Mark_I_perceptron_wikipedia.434e46ca39e2be801976110f8b1b75b13d1197f69e3a5f8b7537b43d35413e6f.kn.jpg' alt='The Mark 1 Perceptron' />|
+|<img src='../../../../translated_images/kn/Rosenblatt-wikipedia.1d205667acda28c0f97ad594eb6dadfa0485605f3fb2155eca46a0255e98efac.jpg' alt='Frank Rosenblatt'/> | <img src='../../../../translated_images/kn/Mark_I_perceptron_wikipedia.434e46ca39e2be801976110f8b1b75b13d1197f69e3a5f8b7537b43d35413e6f.jpg' alt='The Mark 1 Perceptron' />|
 
 > ವಿಕಿಪೀಡಿಯಾದಿಂದ ಚಿತ್ರಗಳು
 

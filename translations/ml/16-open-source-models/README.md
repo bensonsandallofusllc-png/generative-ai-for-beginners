@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T18:38:39+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "ml"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.ml.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/ml/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## പരിചയം
 
@@ -41,12 +32,12 @@ LLM-കളുടെ വികസനം സോഫ്റ്റ്‌വെയർ �
 
 **ചെലവ്** - ഈ മോഡലുകൾ ഉപയോഗിക്കുകയും വിനിയോഗിക്കുകയും ചെയ്യുന്നതിനുള്ള ടോക്കൺ അടിസ്ഥാന ചെലവ് പ്രോപ്രൈറ്ററി മോഡലുകളേക്കാൾ കുറവാണ്. ജനറേറ്റീവ് AI ആപ്ലിക്കേഷനുകൾ നിർമ്മിക്കുമ്പോൾ, നിങ്ങളുടെ ഉപയോഗത്തിനായി ഈ മോഡലുകളുമായി പ്രവർത്തിക്കുമ്പോൾ പ്രകടനവും വിലയും തമ്മിലുള്ള താരതമ്യം പരിശോധിക്കണം.
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.ml.png)
+![Model Cost](../../../translated_images/ml/model-price.3f5a3e4d32ae00b4.webp)
 ഉറവിടം: Artificial Analysis
 
 **ലവചികത** - ഓപ്പൺ മോഡലുകളുമായി പ്രവർത്തിക്കുന്നത് വിവിധ മോഡലുകൾ ഉപയോഗിക്കാനും അവ സംയോജിപ്പിക്കാനും നിങ്ങൾക്ക് ലവചികത നൽകുന്നു. ഉദാഹരണമായി [HuggingChat Assistants](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst) കാണാം, ഇവിടെ ഉപയോക്താവ് നേരിട്ട് യൂസർ ഇന്റർഫേസിൽ ഉപയോഗിക്കുന്ന മോഡൽ തിരഞ്ഞെടുക്കാം:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.ml.png)
+![Choose Model](../../../translated_images/ml/choose-model.f095d15bbac92214.webp)
 
 ## വ്യത്യസ്ത ഓപ്പൺ മോഡലുകൾ അന്വേഷിക്കൽ
 
@@ -74,7 +65,7 @@ Falcon-ന്റെ ഫൈൻ-ട്യൂൺ ചെയ്ത ചില പത�
 
 വിവിധ തരം LLM-കളെ താരതമ്യം ചെയ്യാൻ [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) മറ്റൊരു മികച്ച സ്രോതസ്സാണ്:
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.ml.png)
+![Model Quality](../../../translated_images/ml/model-quality.aaae1c22e00f7ee1.webp)
 ഉറവിടം: Artificial Analysis
 
 ഒരു പ്രത്യേക ഉപയോഗത്തിനായി പ്രവർത്തിക്കുമ്പോൾ, അതേ മേഖലയ്ക്ക് കേന്ദ്രീകരിച്ച ഫൈൻ-ട്യൂൺ ചെയ്ത പതിപ്പുകൾ തിരയുന്നത് ഫലപ്രദമാണ്. നിങ്ങളുടെ പ്രതീക്ഷകൾക്കും ഉപയോക്താക്കളുടെ പ്രതീക്ഷകൾക്കും അനുസരിച്ച് വിവിധ ഓപ്പൺ മോഡലുകൾ പരീക്ഷിച്ച് കാണുന്നത് മറ്റൊരു നല്ല പ്രാക്ടീസാണ്.

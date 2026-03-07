@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T14:01:20+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "bn"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.bn.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/bn/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## পরিচিতি
 
@@ -41,12 +32,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 **খরচ** - এই মডেলগুলি ব্যবহারের এবং ডিপ্লয়মেন্টের জন্য প্রতি টোকেন খরচ প্রোপাইটারি মডেলগুলোর তুলনায় কম। জেনারেটিভ AI অ্যাপ্লিকেশন তৈরি করার সময়, আপনার ব্যবহারের ক্ষেত্রে এই মডেলগুলোর পারফরম্যান্স বনাম মূল্য বিবেচনা করা উচিত।
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.bn.png)
+![Model Cost](../../../translated_images/bn/model-price.3f5a3e4d32ae00b4.webp)
 উৎস: Artificial Analysis
 
 **নমনীয়তা** - ওপেন মডেল নিয়ে কাজ করলে আপনি বিভিন্ন মডেল ব্যবহার বা সংমিশ্রণ করার ক্ষেত্রে নমনীয় হতে পারেন। এর একটি উদাহরণ হলো [HuggingChat Assistants](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst) যেখানে ব্যবহারকারী সরাসরি ইউজার ইন্টারফেসে ব্যবহৃত মডেল নির্বাচন করতে পারেন:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.bn.png)
+![Choose Model](../../../translated_images/bn/choose-model.f095d15bbac92214.webp)
 
 ## বিভিন্ন ওপেন মডেল অন্বেষণ
 
@@ -74,7 +65,7 @@ Falcon এর ফাইন-টিউন করা সংস্করণের �
 
 বিভিন্ন ধরনের LLM তুলনা করার জন্য, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) আরেকটি চমৎকার উৎস:
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.bn.png)
+![Model Quality](../../../translated_images/bn/model-quality.aaae1c22e00f7ee1.webp)
 উৎস: Artificial Analysis
 
 নির্দিষ্ট কোনো ব্যবহারের ক্ষেত্রে কাজ করলে, একই ক্ষেত্রে ফোকাস করা ফাইন-টিউন করা সংস্করণগুলো খোঁজা কার্যকর হতে পারে। একাধিক ওপেন মডেল নিয়ে পরীক্ষা-নিরীক্ষা করে দেখা যে তারা আপনার এবং আপনার ব্যবহারকারীদের প্রত্যাশা অনুযায়ী কেমন পারফর্ম করে, সেটিও একটি ভালো অভ্যাস।

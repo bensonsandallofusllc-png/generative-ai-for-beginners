@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T13:55:05+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "hi"
-}
--->
-[![फंक्शन कॉलिंग के साथ एकीकरण](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.hi.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![फंक्शन कॉलिंग के साथ एकीकरण](../../../translated_images/hi/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # जनरेटिव AI एप्लिकेशन जीवनचक्र
 
@@ -30,7 +21,7 @@ LLM आर्टिफिशियल इंटेलिजेंस के ह�
 
 इसके साथ, हमें इस उपकरण को गतिशील रूप से अनुकूलित करने के लिए एक नया पैरेडाइम चाहिए, सही प्रोत्साहनों के साथ। हम पुराने AI एप्लिकेशन को "ML एप्लिकेशन" और नए AI एप्लिकेशन को "GenAI एप्लिकेशन" या केवल "AI एप्लिकेशन" के रूप में वर्गीकृत कर सकते हैं, जो उस समय उपयोग की जाने वाली मुख्यधारा की तकनीक और तकनीकों को दर्शाता है। यह हमारे कथानक को कई तरीकों से बदल देता है, निम्नलिखित तुलना देखें।
 
-![LLMOps बनाम MLOps तुलना](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.hi.png)
+![LLMOps बनाम MLOps तुलना](../../../translated_images/hi/01-llmops-shift.29bc933cb3bb0080.webp)
 
 ध्यान दें कि LLMOps में, हम एप्लिकेशन डेवलपर्स पर अधिक ध्यान केंद्रित करते हैं, एकीकरण को एक प्रमुख बिंदु के रूप में उपयोग करते हैं, "मॉडल-एज़-ए-सर्विस" का उपयोग करते हैं और मेट्रिक्स के लिए निम्नलिखित बिंदुओं पर विचार करते हैं।
 
@@ -44,7 +35,7 @@ LLM आर्टिफिशियल इंटेलिजेंस के ह�
 
 सबसे पहले, जीवनचक्र और संशोधनों को समझने के लिए, अगली इन्फोग्राफिक देखें।
 
-![LLMOps इन्फोग्राफिक](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.hi.png)
+![LLMOps इन्फोग्राफिक](../../../translated_images/hi/02-llmops.70a942ead05a7645.webp)
 
 जैसा कि आप देख सकते हैं, यह MLOps के सामान्य जीवनचक्र से अलग है। LLMs के कई नए आवश्यकताएं हैं, जैसे प्रॉम्प्टिंग, गुणवत्ता सुधारने के लिए विभिन्न तकनीकें (फाइन-ट्यूनिंग, RAG, मेटा-प्रॉम्प्ट्स), जिम्मेदार AI के साथ अलग मूल्यांकन और जिम्मेदारी, अंत में, नए मूल्यांकन मेट्रिक्स (गुणवत्ता, हानि, ईमानदारी, लागत और विलंबता)।
 
@@ -54,7 +45,7 @@ LLM आर्टिफिशियल इंटेलिजेंस के ह�
 
 हम उन चरणों का पता कैसे लगा सकते हैं? चलिए विस्तार में देखते हैं कि हम जीवनचक्र कैसे बना सकते हैं।
 
-![LLMOps वर्कफ़्लो](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.hi.png)
+![LLMOps वर्कफ़्लो](../../../translated_images/hi/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 यह थोड़ा जटिल लग सकता है, पहले तीन बड़े चरणों पर ध्यान दें।
 
@@ -74,11 +65,11 @@ LLM आर्टिफिशियल इंटेलिजेंस के ह�
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) आपको [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) का उपयोग करने की अनुमति देता है। AI Studio एक वेब पोर्टल है जो आपको मॉडल, नमूने और टूल्स का अन्वेषण करने की अनुमति देता है। आपके संसाधनों का प्रबंधन, UI विकास फ्लो और कोड-प्रथम विकास के लिए SDK/CLI विकल्प।
 
-![Azure AI संभावनाएं](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.hi.png)
+![Azure AI संभावनाएं](../../../translated_images/hi/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI, आपको कई संसाधनों का उपयोग करने की अनुमति देता है, अपने संचालन, सेवाओं, परियोजनाओं, वेक्टर खोज और डेटाबेस आवश्यकताओं का प्रबंधन करने के लिए।
 
-![Azure AI के साथ LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.hi.png)
+![Azure AI के साथ LLMOps](../../../translated_images/hi/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 प्रूफ-ऑफ़-कॉन्सेप्ट (POC) से लेकर बड़े पैमाने के एप्लिकेशन तक PromptFlow के साथ निर्माण करें:
 
@@ -86,7 +77,7 @@ Azure AI, आपको कई संसाधनों का उपयोग �
 - गुणवत्ता AI के लिए अपने ऐप्स का परीक्षण और फाइन-ट्यूनिंग करें, आसानी से।
 - Azure AI Studio का उपयोग करें क्लाउड के साथ एकीकृत करने और पुनरावृत्त करने के लिए, त्वरित एकीकरण के लिए पुश और तैनाती।
 
-![PromptFlow के साथ LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.hi.png)
+![PromptFlow के साथ LLMOps](../../../translated_images/hi/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## शानदार! अपनी सीख जारी रखें!
 

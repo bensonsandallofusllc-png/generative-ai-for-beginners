@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T18:00:53+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "ta"
-}
--->
-[![function calling உடன் ஒருங்கிணைத்தல்](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.ta.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![function calling உடன் ஒருங்கிணைத்தல்](../../../translated_images/ta/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # உருவாக்கும் AI பயன்பாட்டு வாழ்க்கைச் சுழற்சி
 
@@ -30,7 +21,7 @@ LLMகள் செயற்கை நுண்ணறிவின் புத�
 
 இதனால், இந்த கருவியை சரியான ஊக்கங்களுடன், இயக்கமுள்ள முறையில் ஏற்றுக்கொள்ள புதிய பாரடைகம் தேவை. பழைய AI பயன்பாடுகளை "ML பயன்பாடுகள்" என்றும் புதிய AI பயன்பாடுகளை "GenAI பயன்பாடுகள்" அல்லது "AI பயன்பாடுகள்" என்றும் வகைப்படுத்தலாம், அந்த காலத்தில் பயன்படுத்தப்பட்ட முக்கிய தொழில்நுட்பங்கள் மற்றும் முறைகளை பிரதிபலிக்கிறது. இது பல வழிகளில் நமது கதை சொல்லலை மாற்றுகிறது, கீழ்காணும் ஒப்பீட்டை பாருங்கள்.
 
-![LLMOps மற்றும் MLOps ஒப்பீடு](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.ta.png)
+![LLMOps மற்றும் MLOps ஒப்பீடு](../../../translated_images/ta/01-llmops-shift.29bc933cb3bb0080.webp)
 
 LLMOps இல், நாம் பயன்பாட்டு டெவலப்பர்களுக்கு அதிக கவனம் செலுத்துகிறோம், ஒருங்கிணைப்புகளை முக்கிய புள்ளியாக பயன்படுத்துகிறோம், "Models-as-a-Service" ஐ பயன்படுத்துகிறோம் மற்றும் கீழ்காணும் அளவுகோல்களை நினைக்கிறோம்.
 
@@ -44,7 +35,7 @@ LLMOps இல், நாம் பயன்பாட்டு டெவலப்
 
 முதலில், வாழ்க்கைச் சுழற்சியை மற்றும் மாற்றங்களை புரிந்துகொள்ள, அடுத்த தகவல் படத்தை கவனியுங்கள்.
 
-![LLMOps தகவல் படம்](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.ta.png)
+![LLMOps தகவல் படம்](../../../translated_images/ta/02-llmops.70a942ead05a7645.webp)
 
 பார்க்கும் போது, இது MLOps இன் வழக்கமான வாழ்க்கைச் சுழற்சிகளிலிருந்து வேறுபட்டது. LLMகளுக்கு பல புதிய தேவைகள் உள்ளன, உதாரணமாக, ப்ராம்ப்டிங், தரத்தை மேம்படுத்த பல்வேறு தொழில்நுட்பங்கள் (Fine-Tuning, RAG, Meta-Prompts), பொறுப்பான AI உடன் மதிப்பீடு மற்றும் பொறுப்பு, கடைசியில் புதிய மதிப்பீட்டு அளவுகோல்கள் (தரம், தீங்கு, நேர்மை, செலவு மற்றும் தாமதம்).
 
@@ -54,7 +45,7 @@ LLMOps இல், நாம் பயன்பாட்டு டெவலப்
 
 இந்த படிகளை எப்படி ஆராயலாம்? வாழ்க்கைச் சுழற்சியை எப்படி கட்டமைக்கலாம் என்பதை விரிவாக பார்ப்போம்.
 
-![LLMOps பணிச்சூழல்](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.ta.png)
+![LLMOps பணிச்சூழல்](../../../translated_images/ta/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 இது கொஞ்சம் சிக்கலாக தோன்றலாம், முதலில் மூன்று பெரிய படிகளுக்கு கவனம் செலுத்துவோம்.
 
@@ -74,11 +65,11 @@ LLMOps இல், நாம் பயன்பாட்டு டெவலப்
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) மூலம், நீங்கள் [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) ஐ பயன்படுத்தலாம். AI Studio என்பது ஒரு வலை தளம், இது மாதிரிகள், மாதிரிகள் மற்றும் கருவிகளை ஆராய அனுமதிக்கிறது. உங்கள் வளங்களை நிர்வகிக்க, UI மேம்பாட்டு பணிகள் மற்றும் SDK/CLI விருப்பங்களுடன் குறியீடு முதன்மை மேம்பாட்டை செய்ய உதவுகிறது.
 
-![Azure AI வாய்ப்புகள்](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.ta.png)
+![Azure AI வாய்ப்புகள்](../../../translated_images/ta/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI, பல வளங்களை பயன்படுத்தி, உங்கள் செயல்பாடுகள், சேவைகள், திட்டங்கள், வெக்டர் தேடல் மற்றும் தரவுத்தள தேவைகளை நிர்வகிக்க உதவுகிறது.
 
-![Azure AI உடன் LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.ta.png)
+![Azure AI உடன் LLMOps](../../../translated_images/ta/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Proof-of-Concept(POC) முதல் பெரிய அளவிலான பயன்பாடுகள் வரை PromptFlow உடன் கட்டமைக்கவும்:
 
@@ -86,7 +77,7 @@ Proof-of-Concept(POC) முதல் பெரிய அளவிலான ப�
 - உங்கள் பயன்பாடுகளை தரமான AI க்காக சோதித்து நன்கு சரிசெய்யவும்.
 - Azure AI Studio ஐ பயன்படுத்தி மேகத்துடன் ஒருங்கிணைத்து மீண்டும் செயல்படுத்தவும், விரைவான ஒருங்கிணைப்புக்கு Push மற்றும் Deploy செய்யவும்.
 
-![PromptFlow உடன் LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.ta.png)
+![PromptFlow உடன் LLMOps](../../../translated_images/ta/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## அருமை! உங்கள் கற்றலை தொடருங்கள்!
 

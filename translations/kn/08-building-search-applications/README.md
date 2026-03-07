@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58953c08b8ba7073b836d4270ea0fe86",
-  "translation_date": "2025-12-19T18:57:42+00:00",
-  "source_file": "08-building-search-applications/README.md",
-  "language_code": "kn"
-}
--->
 # ಹುಡುಕಾಟ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿರ್ಮಿಸುವುದು
 
-[![ಜನರೇಟಿವ್ AI ಮತ್ತು ದೊಡ್ಡ ಭಾಷಾ ಮಾದರಿಗಳ ಪರಿಚಯ](../../../translated_images/08-lesson-banner.8fff48c566dad08a1cbb9f4b4a2c16adfdd288a7bbfffdd30770b466fe08c25c.kn.png)](https://youtu.be/W0-nzXjOjr0?si=GcsqiTTvd7RKbo7V)
+[![ಜನರೇಟಿವ್ AI ಮತ್ತು ದೊಡ್ಡ ಭಾಷಾ ಮಾದರಿಗಳ ಪರಿಚಯ](../../../translated_images/kn/08-lesson-banner.8fff48c566dad08a.webp)](https://youtu.be/W0-nzXjOjr0?si=GcsqiTTvd7RKbo7V)
 
 > > _ಈ ಪಾಠದ ವೀಡಿಯೋವನ್ನು ನೋಡಲು ಮೇಲಿನ ಚಿತ್ರವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ_
 
@@ -44,7 +35,7 @@ LLM ಗಳು ಚಾಟ್‌ಬಾಟ್‌ಗಳು ಮತ್ತು ಪಠ್�
 
 ಕೆಳಗಿನ ಚಿತ್ರವು 'ನೀವು rstudio ಅನ್ನು ಅಜೂರ್ ML ಜೊತೆಗೆ ಬಳಸಬಹುದೇ?' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಸಾಂದರ್ಭಿಕ ಪ್ರಶ್ನೆಯ ಉದಾಹರಣೆ. YouTube URL ಅನ್ನು ನೋಡಿ, URL ನಲ್ಲಿ ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್ ಇದೆ, ಅದು ಪ್ರಶ್ನೆಗೆ ಉತ್ತರ ಇರುವ ವೀಡಿಯೋ ಭಾಗಕ್ಕೆ ಕರೆದೊಯ್ಯುತ್ತದೆ.
 
-!["ನೀವು rstudio ಅನ್ನು ಅಜೂರ್ ML ಜೊತೆಗೆ ಬಳಸಬಹುದೇ?" ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಸಾಂದರ್ಭಿಕ ಪ್ರಶ್ನೆ](../../../translated_images/query-results.bb0480ebf025fac69c5179ad4d53b6627d643046838c857dc9e2b1281f1cdeb7.kn.png)
+!["ನೀವು rstudio ಅನ್ನು ಅಜೂರ್ ML ಜೊತೆಗೆ ಬಳಸಬಹುದೇ?" ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಸಾಂದರ್ಭಿಕ ಪ್ರಶ್ನೆ](../../../translated_images/kn/query-results.bb0480ebf025fac6.webp)
 
 ## ಸಾಂದರ್ಭಿಕ ಹುಡುಕಾಟ ಎಂದರೆ ಏನು?
 
@@ -163,7 +154,7 @@ GitHub Codespaces ನಲ್ಲಿ [solution notebook](./python/aoai-solution.ipy
 
 ನೀವು ನೋಟ್ಬುಕ್ ಅನ್ನು ಓಡಿಸಿದಾಗ, ಪ್ರಶ್ನೆ ನಮೂದಿಸಲು ಪ್ರಾಂಪ್ಟ್ ಆಗುತ್ತದೆ. ಇನ್ಪುಟ್ ಬಾಕ್ಸ್ ಹೀಗೆ ಕಾಣುತ್ತದೆ:
 
-![ಬಳಕೆದಾರರು ಪ್ರಶ್ನೆ ನಮೂದಿಸಲು ಇನ್ಪುಟ್ ಬಾಕ್ಸ್](../../../translated_images/notebook-search.1e320b9c7fcbb0bc1436d98ea6ee73b4b54ca47990a1c952b340a2cadf8ac1ca.kn.png)
+![ಬಳಕೆದಾರರು ಪ್ರಶ್ನೆ ನಮೂದಿಸಲು ಇನ್ಪುಟ್ ಬಾಕ್ಸ್](../../../translated_images/kn/notebook-search.1e320b9c7fcbb0bc.webp)
 
 ## ಅದ್ಭುತ ಕೆಲಸ! ನಿಮ್ಮ ಕಲಿಕೆಯನ್ನು ಮುಂದುವರೆಸಿ
 

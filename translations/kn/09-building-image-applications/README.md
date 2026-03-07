@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "238cde5c90363d70ecc939569378da51",
-  "translation_date": "2025-12-19T20:43:19+00:00",
-  "source_file": "09-building-image-applications/README.md",
-  "language_code": "kn"
-}
--->
 # ಚಿತ್ರ ರಚನೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿರ್ಮಿಸುವುದು
 
-[![ಚಿತ್ರ ರಚನೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿರ್ಮಿಸುವುದು](../../../translated_images/09-lesson-banner.906e408c741f44112ff5da17492a30d3872abb52b8530d6506c2631e86e704d0.kn.png)](https://youtu.be/B5VP0_J7cs8?si=5P3L5o7F_uS_QcG9)
+[![ಚಿತ್ರ ರಚನೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿರ್ಮಿಸುವುದು](../../../translated_images/kn/09-lesson-banner.906e408c741f4411.webp)](https://youtu.be/B5VP0_J7cs8?si=5P3L5o7F_uS_QcG9)
 
 LLM ಗಳು ಪಠ್ಯ ರಚನೆಗೆ ಮಾತ್ರವಲ್ಲ. ಪಠ್ಯ ವಿವರಣೆಗಳಿಂದ ಚಿತ್ರಗಳನ್ನು ರಚಿಸುವುದೂ ಸಾಧ್ಯ. ಚಿತ್ರಗಳನ್ನು ಮಾಧ್ಯಮವಾಗಿ ಹೊಂದಿರುವುದು ಮೆಡ್‌ಟೆಕ್, ವಾಸ್ತುಶಿಲ್ಪ, ಪ್ರವಾಸೋದ್ಯಮ, ಆಟ ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಇನ್ನಷ್ಟು ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಬಹಳ ಉಪಯುಕ್ತವಾಗಬಹುದು. ಈ ಅಧ್ಯಾಯದಲ್ಲಿ, ನಾವು ಅತ್ಯಂತ ಜನಪ್ರಿಯ ಚಿತ್ರ ರಚನೆ ಮಾದರಿಗಳಾದ DALL-E ಮತ್ತು Midjourney ಅನ್ನು ನೋಡೋಣ.
 
@@ -43,7 +34,7 @@ LLM ಗಳು ಪಠ್ಯ ರಚನೆಗೆ ಮಾತ್ರವಲ್ಲ. ಪ�
 
 ವಿದ್ಯಾರ್ಥಿಗಳು ತರಗತಿಯಲ್ಲಿ ಸ್ಮಾರಕಗಳ ಮೇಲೆ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದರೆ Edu4All ವಿದ್ಯಾರ್ಥಿಗಳು ಉದಾಹರಣೆಗೆ ಏನನ್ನು ರಚಿಸಬಹುದು:
 
-![Edu4All startup, class on monuments, Eiffel Tower](../../../translated_images/startup.94d6b79cc4bb3f5afbf6e2ddfcf309aa5d1e256b5f30cc41d252024eaa9cc5dc.kn.png)
+![Edu4All startup, class on monuments, Eiffel Tower](../../../translated_images/kn/startup.94d6b79cc4bb3f5a.webp)
 
 ಈ ರೀತಿಯ ಪ್ರಾಂಪ್ಟ್ ಬಳಸಿ
 
@@ -273,9 +264,9 @@ Azure OpenAI ಸಂಪನ್ಮೂಲ ಮತ್ತು ಮಾದರಿಯನ್�
   ಮೂಲ ಚಿತ್ರದಲ್ಲಿ ಕೇವಲ ಲಾಂಜ್ ಮತ್ತು ಪೂಲ್ ಇರುತ್ತದೆ ಆದರೆ ಅಂತಿಮ ಚಿತ್ರದಲ್ಲಿ ಫ್ಲಾಮಿಂಗೋ ಇರುತ್ತದೆ:
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
-  <img src="../../../translated_images/sunlit_lounge.a75a0cb61749db0eddc1820c30a5fa9a3a9f48518cd7c8df4c2073e8c793bbb7.kn.png" style="width: 30%; max-width: 200px; height: auto;">
-  <img src="../../../translated_images/mask.1b2976ccec9e011eaac6cd3697d804a22ae6debba7452da6ba3bebcaa9c54ff0.kn.png" style="width: 30%; max-width: 200px; height: auto;">
-  <img src="../../../translated_images/sunlit_lounge_result.76ae02957c0bbeb860f1efdb42dd7f450ea01c6ae6cd70ad5ade4bab1a545d51.kn.png" style="width: 30%; max-width: 200px; height: auto;">
+  <img src="../../../translated_images/kn/sunlit_lounge.a75a0cb61749db0e.webp" style="width: 30%; max-width: 200px; height: auto;">
+  <img src="../../../translated_images/kn/mask.1b2976ccec9e011e.webp" style="width: 30%; max-width: 200px; height: auto;">
+  <img src="../../../translated_images/kn/sunlit_lounge_result.76ae02957c0bbeb8.webp" style="width: 30%; max-width: 200px; height: auto;">
 </div>
 
 - **ವೈವಿಧ್ಯಗಳನ್ನು ರಚಿಸು**. ನೀವು ಈಗಾಗಿರುವ ಚಿತ್ರವನ್ನು ತೆಗೆದುಕೊಂಡು, ವೈವಿಧ್ಯಗಳನ್ನು ರಚಿಸುವಂತೆ ಕೇಳಬಹುದು. ವೈವಿಧ್ಯವನ್ನು ರಚಿಸಲು, ನೀವು ಚಿತ್ರ ಮತ್ತು ಪಠ್ಯ ಪ್ರಾಂಪ್ಟ್ ಒದಗಿಸಿ ಕೆಳಗಿನ ಕೋಡ್ ಅನ್ನು ಬಳಸಬಹುದು:
@@ -299,11 +290,11 @@ Azure OpenAI ಸಂಪನ್ಮೂಲ ಮತ್ತು ಮಾದರಿಯನ್�
 
 > ಪ್ರಾಂಪ್ಟ್ : "ಮೇಡೆಯಲ್ಲಿ ಲಾಲಿಪಾಪ್ ಹಿಡಿದಿರುವ ಕುದುರೆ ಮೇಲೆ ಖರಗಿ, ಅಲ್ಲಿ ಡಾಫೋಡಿಲ್ಸ್ ಬೆಳೆಯುತ್ತವೆ"
 
-![ಲಾಲಿಪಾಪ್ ಹಿಡಿದಿರುವ ಕುದುರೆ ಮೇಲೆ ಖರಗಿ, ಆವೃತ್ತಿ 1](../../../translated_images/v1-generated-image.a295cfcffa3c13c2432eb1e41de7e49a78c814000fb1b462234be24b6e0db7ea.kn.png)
+![ಲಾಲಿಪಾಪ್ ಹಿಡಿದಿರುವ ಕುದುರೆ ಮೇಲೆ ಖರಗಿ, ಆವೃತ್ತಿ 1](../../../translated_images/kn/v1-generated-image.a295cfcffa3c13c2.webp)
 
 ಈಗ ಅದೇ ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಮತ್ತೆ ಚಲಾಯಿಸಿ, ನಾವು ಎರಡು ಬಾರಿ ಅದೇ ಚಿತ್ರವನ್ನು ಪಡೆಯುವುದಿಲ್ಲ ಎಂದು ನೋಡೋಣ:
 
-![ಖರಗಿ ಮೇಲೆ ಕುದುರೆ ಚಿತ್ರ ರಚನೆ](../../../translated_images/v2-generated-image.33f55a3714efe61dc19622c869ba6cd7d6e6de562e26e95b5810486187aace39.kn.png)
+![ಖರಗಿ ಮೇಲೆ ಕುದುರೆ ಚಿತ್ರ ರಚನೆ](../../../translated_images/kn/v2-generated-image.33f55a3714efe61d.webp)
 
 ನೀವು ನೋಡಬಹುದು, ಚಿತ್ರಗಳು ಸಮಾನವಾಗಿವೆ, ಆದರೆ ಒಂದೇ ಅಲ್ಲ. ತಾಪಮಾನ ಮೌಲ್ಯವನ್ನು 0.1 ಗೆ ಬದಲಾಯಿಸಿ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ:
 
@@ -332,8 +323,8 @@ generation_response = client.images.create(
 
 ಈ ಕೋಡ್ ಅನ್ನು ಚಲಾಯಿಸಿದಾಗ, ನೀವು ಈ ಎರಡು ಚಿತ್ರಗಳನ್ನು ಪಡೆಯುತ್ತೀರಿ:
 
-- ![ತಾಪಮಾನ 0, ಆವೃತ್ತಿ 1](../../../translated_images/v1-temp-generated-image.a4346e1d2360a056d855ee3dfcedcce91211747967cb882e7d2eff2076f90e4a.kn.png)
-- ![ತಾಪಮಾನ 0 , ಆವೃತ್ತಿ 2](../../../translated_images/v2-temp-generated-image.871d0c920dbfb0f1cb5d9d80bffd52da9b41f83b386320d9a9998635630ec83d.kn.png)
+- ![ತಾಪಮಾನ 0, ಆವೃತ್ತಿ 1](../../../translated_images/kn/v1-temp-generated-image.a4346e1d2360a056.webp)
+- ![ತಾಪಮಾನ 0 , ಆವೃತ್ತಿ 2](../../../translated_images/kn/v2-temp-generated-image.871d0c920dbfb0f1.webp)
 
 ಇಲ್ಲಿ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಚಿತ್ರಗಳು ಪರಸ್ಪರ ಹೆಚ್ಚು ಹೋಲಿಕೆ ಹೊಂದಿರುವುದನ್ನು ನೋಡಬಹುದು.
 

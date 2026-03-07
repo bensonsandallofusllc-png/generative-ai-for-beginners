@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T18:40:11+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "te"
-}
--->
-[![ఫంక్షన్ కాలింగ్‌తో ఇంటిగ్రేషన్](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.te.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![ఫంక్షన్ కాలింగ్‌తో ఇంటిగ్రేషన్](../../../translated_images/te/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # జనరేటివ్ AI అప్లికేషన్ లైఫ్‌సైకిల్
 
@@ -30,7 +21,7 @@ LLMs అనేవి ఆర్టిఫిషియల్ ఇంటెలిజ�
 
 దీనితో, ఈ సాధనాన్ని డైనమిక్‌గా సరైన ప్రేరణలతో అనుకూలపరచడానికి కొత్త పరివర్తన అవసరం. మేము పాత AI అప్లికేషన్లను "ML Apps" గా మరియు కొత్త AI అప్లికేషన్లను "GenAI Apps" లేదా కేవలం "AI Apps" గా వర్గీకరించవచ్చు, ఆ సమయంలో ఉపయోగించిన ప్రధాన సాంకేతికత మరియు పద్ధతులను ప్రతిబింబిస్తూ. ఇది మన కథనాన్ని అనేక విధాలుగా మార్చుతుంది, క్రింది తులనను చూడండి.
 
-![LLMOps vs. MLOps తులన](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.te.png)
+![LLMOps vs. MLOps తులన](../../../translated_images/te/01-llmops-shift.29bc933cb3bb0080.webp)
 
 LLMOps లో, మేము అప్లికేషన్ డెవలపర్లపై ఎక్కువ దృష్టి సారిస్తున్నాము, ఇంటిగ్రేషన్లను కీలక అంశంగా ఉపయోగిస్తూ, "మోడల్స్-అస్-ఎ-సర్వీస్" ఉపయోగిస్తూ మరియు క్రింది పాయింట్లలో మెట్రిక్స్ గురించి ఆలోచిస్తున్నాము.
 
@@ -44,7 +35,7 @@ LLMOps లో, మేము అప్లికేషన్ డెవలపర్
 
 మొదట, లైఫ్‌సైకిల్ మరియు మార్పులను అర్థం చేసుకోవడానికి, క్రింది ఇన్ఫోగ్రాఫిక్‌ను గమనించండి.
 
-![LLMOps ఇన్ఫోగ్రాఫిక్](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.te.png)
+![LLMOps ఇన్ఫోగ్రాఫిక్](../../../translated_images/te/02-llmops.70a942ead05a7645.webp)
 
 మీరు గమనించవచ్చు, ఇది సాధారణ MLOps లైఫ్‌సైకిళ్ల నుండి భిన్నంగా ఉంది. LLMs కు అనేక కొత్త అవసరాలు ఉన్నాయి, ఉదాహరణకు ప్రాంప్టింగ్, నాణ్యత మెరుగుపరచడానికి వివిధ సాంకేతికతలు (ఫైన్-ట్యూనింగ్, RAG, మెటా-ప్రాంప్ట్స్), బాధ్యతాయుత AI తో వివిధ మూల్యాంకనాలు మరియు బాధ్యత, చివరగా, కొత్త మూల్యాంకన మెట్రిక్స్ (నాణ్యత, హాని, నిజాయితీ, ఖర్చు మరియు ఆలస్యం).
 
@@ -54,7 +45,7 @@ LLMOps లో, మేము అప్లికేషన్ డెవలపర్
 
 ఆ దశలను ఎలా అన్వేషించవచ్చు? లైఫ్‌సైకిల్‌ను ఎలా నిర్మించవచ్చో వివరంగా చూద్దాం.
 
-![LLMOps వర్క్‌ఫ్లో](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.te.png)
+![LLMOps వర్క్‌ఫ్లో](../../../translated_images/te/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 ఇది కొంచెం క్లిష్టంగా కనిపించవచ్చు, మొదట మూడు పెద్ద దశలపై దృష్టి పెట్టుదాం.
 
@@ -74,11 +65,11 @@ LLMOps లో, మేము అప్లికేషన్ డెవలపర్
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) ద్వారా మీరు [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) ఉపయోగించవచ్చు. AI Studio ఒక వెబ్ పోర్టల్, ఇది మోడల్స్, నమూనాలు మరియు టూల్స్ అన్వేషించడానికి అనుమతిస్తుంది. మీ వనరులను నిర్వహించడం, UI అభివృద్ధి వర్క్‌ఫ్లోలు మరియు కోడ్-ఫస్ట్ అభివృద్ధి కోసం SDK/CLI ఎంపికలను అందిస్తుంది.
 
-![Azure AI అవకాశాలు](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.te.png)
+![Azure AI అవకాశాలు](../../../translated_images/te/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI, మీ ఆపరేషన్లు, సేవలు, ప్రాజెక్టులు, వెక్టర్ సెర్చ్ మరియు డేటాబేస్ అవసరాలను నిర్వహించడానికి అనేక వనరులను ఉపయోగించడానికి అనుమతిస్తుంది.
 
-![Azure AI తో LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.te.png)
+![Azure AI తో LLMOps](../../../translated_images/te/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Proof-of-Concept(POC) నుండి పెద్ద స్థాయి అప్లికేషన్ల వరకు PromptFlow తో నిర్మించండి:
 
@@ -86,7 +77,7 @@ Proof-of-Concept(POC) నుండి పెద్ద స్థాయి అప�
 - మీ అప్లికేషన్లను నాణ్యత గల AI కోసం సులభంగా పరీక్షించి, ఫైన్-ట్యూన్ చేయండి.
 - Azure AI Studio ఉపయోగించి క్లౌడ్‌తో ఇంటిగ్రేట్ చేసి, పుష్ చేసి, త్వరిత డిప్లాయ్‌మెంట్ కోసం పునరావృతం చేయండి.
 
-![PromptFlow తో LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.te.png)
+![PromptFlow తో LLMOps](../../../translated_images/te/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## అద్భుతం! మీ అభ్యాసాన్ని కొనసాగించండి!
 

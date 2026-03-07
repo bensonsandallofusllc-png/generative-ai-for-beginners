@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T17:15:21+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "sr"
-}
--->
-[![Интеграција са позивом функције](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.sr.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![Интеграција са позивом функције](../../../translated_images/sr/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # Животни циклус генеративне вештачке интелигенције
 
@@ -30,7 +21,7 @@ LLM-ови су нови алат у арсеналу вештачке инте�
 
 Са тим, потребна нам је нова парадигма да прилагодимо овај алат динамично, са исправним подстицајима. Можемо категорисати старије AI апликације као "ML апликације" и новије AI апликације као "GenAI апликације" или једноставно "AI апликације", одражавајући доминантну технологију и технике коришћене у то време. Ово помера наш наратив на више начина, погледајте следећу поређење.
 
-![Поређење LLMOps и MLOps](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.sr.png)
+![Поређење LLMOps и MLOps](../../../translated_images/sr/01-llmops-shift.29bc933cb3bb0080.webp)
 
 Приметите да у LLMOps више фокусирамо на програмере апликација, користећи интеграције као кључну тачку, користећи "Моделе као услугу" и размишљајући о следећим метрикама.
 
@@ -44,7 +35,7 @@ LLM-ови су нови алат у арсеналу вештачке инте�
 
 Прво, да бисмо разумели животни циклус и измене, погледајмо следећу инфографику.
 
-![Инфографика LLMOps](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.sr.png)
+![Инфографика LLMOps](../../../translated_images/sr/02-llmops.70a942ead05a7645.webp)
 
 Као што можете приметити, ово је другачије од уобичајених животних циклуса из MLOps. LLM-ови имају много нових захтева, као што су подстицање (Prompting), различите технике за побољшање квалитета (фино подешавање, RAG, мета-подстицаји), различите процене и одговорност са одговорним AI, на крају, нове метрике евалуације (Квалитет, Штета, Искреност, Трошак и Латенција).
 
@@ -54,7 +45,7 @@ LLM-ови су нови алат у арсеналу вештачке инте�
 
 Како бисмо могли истражити те кораке? Хајде да уђемо у детаље како бисмо могли изградити животни циклус.
 
-![Радни ток LLMOps](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.sr.png)
+![Радни ток LLMOps](../../../translated_images/sr/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 Ово може изгледати мало компликовано, фокусирајмо се прво на три велика корака.
 
@@ -74,11 +65,11 @@ LLM-ови су нови алат у арсеналу вештачке инте�
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) вам омогућава да користите [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys). AI Studio је веб портал који вам омогућава да истражујете моделе, примере и алате. Управљате својим ресурсима, UI развојним токовима и SDK/CLI опцијама за развој заснован на коду.
 
-![Могућности Azure AI](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.sr.png)
+![Могућности Azure AI](../../../translated_images/sr/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI вам омогућава да користите више ресурса за управљање вашим операцијама, услугама, пројектима, претрагом вектора и потребама база података.
 
-![LLMOps са Azure AI](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.sr.png)
+![LLMOps са Azure AI](../../../translated_images/sr/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Конструишите, од Proof-of-Concept (POC) до апликација великог обима са PromptFlow:
 
@@ -86,7 +77,7 @@ Azure AI вам омогућава да користите више ресурс
 - Тестирајте и фино подешавајте своје апликације за квалитетан AI, лако.
 - Користите Azure AI Studio за интеграцију и итерацију са облаком, пуш и имплементацију за брзу интеграцију.
 
-![LLMOps са PromptFlow](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.sr.png)
+![LLMOps са PromptFlow](../../../translated_images/sr/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## Одлично! Наставите са учењем!
 

@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6b7629b8ee4d7d874a27213e903d86a7",
-  "translation_date": "2025-12-19T19:35:45+00:00",
-  "source_file": "02-exploring-and-comparing-different-llms/README.md",
-  "language_code": "ml"
-}
--->
 # വ്യത്യസ്ത LLM-കൾ അന്വേഷിക്കുകയും താരതമ്യം ചെയ്യുകയും ചെയ്യുന്നു
 
-[![വ്യത്യസ്ത LLM-കൾ അന്വേഷിക്കുകയും താരതമ്യം ചെയ്യുകയും ചെയ്യുന്നു](../../../translated_images/02-lesson-banner.ef94c84979f97f60f07e27d905e708cbcbdf78707120553ccab27d91c947805b.ml.png)](https://youtu.be/KIRUeDKscfI?si=8BHX1zvwzQBn-PlK)
+[![വ്യത്യസ്ത LLM-കൾ അന്വേഷിക്കുകയും താരതമ്യം ചെയ്യുകയും ചെയ്യുന്നു](../../../translated_images/ml/02-lesson-banner.ef94c84979f97f60.webp)](https://youtu.be/KIRUeDKscfI?si=8BHX1zvwzQBn-PlK)
 
 > _ഈ പാഠത്തിന്റെ വീഡിയോ കാണാൻ മുകളിൽ ചിത്രത്തിൽ ക്ലിക്ക് ചെയ്യുക_
 
@@ -59,13 +50,13 @@ LLM-കൾ അവരുടെ ആർക്കിടെക്ചർ, പരിശ
 - **വളരെ വലിയ മോഡലുകളാണ്**, ബില്യൺ കണക്കിന് പാരാമീറ്ററുകളിൽ പരിശീലിപ്പിച്ച വളരെ ആഴത്തിലുള്ള ന്യൂറൽ നെറ്റ്‌വർക്കുകൾ.
 - **അവ സാധാരണയായി മറ്റ് മോഡലുകൾക്ക് ‘അടിസ്ഥാനം’ ആയി സേവനം നൽകാൻ ഉദ്ദേശിച്ചവയാണ്**, അർത്ഥം അവ മറ്റുള്ള മോഡലുകൾ നിർമ്മിക്കാൻ തുടക്കമായി ഉപയോഗിക്കാം, ഫൈൻ-ട്യൂണിംഗ് വഴി.
 
-![ഫൗണ്ടേഷൻ മോഡലുകൾ vs LLM-കൾ](../../../translated_images/FoundationModel.e4859dbb7a825c94b284f17eae1c186aabc21d4d8644331f5b007d809cf8d0f2.ml.png)
+![ഫൗണ്ടേഷൻ മോഡലുകൾ vs LLM-കൾ](../../../translated_images/ml/FoundationModel.e4859dbb7a825c94.webp)
 
 ചിത്രം ഉറവിടം: [Essential Guide to Foundation Models and Large Language Models | by Babar M Bhatti | Medium](https://thebabar.medium.com/essential-guide-to-foundation-models-and-large-language-models-27dab58f7404)
 
 ഈ വ്യത്യാസം കൂടുതൽ വ്യക്തമാക്കാൻ, ChatGPT ഉദാഹരണമായി എടുത്തു നോക്കാം. ChatGPT-യുടെ ആദ്യ പതിപ്പ് നിർമ്മിക്കാൻ, GPT-3.5 എന്ന മോഡൽ ഫൗണ്ടേഷൻ മോഡലായി സേവനം ചെയ്തു. അതായത് OpenAI ചില ചാറ്റ്-സ്പെസിഫിക് ഡാറ്റ ഉപയോഗിച്ച് GPT-3.5-ന്റെ ട്യൂൺ ചെയ്ത പതിപ്പ് സൃഷ്ടിച്ചു, ഇത് ചാറ്റ്ബോട്ടുകൾ പോലുള്ള സംഭാഷണ സാഹചര്യങ്ങളിൽ മികച്ച പ്രകടനം നടത്താൻ പ്രത്യേകിച്ചുള്ളതാണ്.
 
-![ഫൗണ്ടേഷൻ മോഡൽ](../../../translated_images/Multimodal.2c389c6439e0fc51b0b7b226d95d7d900d372ae66902d71b8ce5ec4951b8efbe.ml.png)
+![ഫൗണ്ടേഷൻ മോഡൽ](../../../translated_images/ml/Multimodal.2c389c6439e0fc51.webp)
 
 ചിത്രം ഉറവിടം: [2108.07258.pdf (arxiv.org)](https://arxiv.org/pdf/2108.07258.pdf?WT.mc_id=academic-105485-koreyst)
 
@@ -83,15 +74,15 @@ LLM-കൾ അവയുടെ ഔട്ട്പുട്ട് പ്രകാ�
 
 എംബെഡ്ഡിംഗുകൾ ടെക്സ്റ്റ് സംഖ്യാത്മക രൂപത്തിലേക്ക് മാറ്റുന്ന മോഡലുകളുടെ ഒരു സെറ്റ് ആണ്, ഇത് എൻപുട്ട് ടെക്സ്റ്റിന്റെ സംഖ്യാത്മക പ്രതിനിധാനമാണ്. എംബെഡ്ഡിംഗുകൾ യന്ത്രങ്ങൾക്ക് വാക്കുകൾക്കിടയിലെ ബന്ധങ്ങൾ മനസ്സിലാക്കാൻ എളുപ്പമാക്കുന്നു, മറ്റ് മോഡലുകൾക്ക് (ക്ലാസിഫിക്കേഷൻ മോഡലുകൾ, ക്ലസ്റ്ററിംഗ് മോഡലുകൾ) ഇൻപുട്ടായി ഉപയോഗിക്കാം, ഇവ സംഖ്യാത്മക ഡാറ്റയിൽ മികച്ച പ്രകടനം കാണിക്കുന്നു. എംബെഡ്ഡിംഗ് മോഡലുകൾ ട്രാൻസ്ഫർ ലേണിംഗിനായി ഉപയോഗിക്കപ്പെടുന്നു, ഒരു മോഡൽ ധാരാളം ഡാറ്റയുള്ള ഒരു ഉപകാര്യത്തിനായി നിർമ്മിച്ച്, പിന്നീട് മോഡൽ വെയ്റ്റുകൾ (എംബെഡ്ഡിംഗുകൾ) മറ്റ് ഡൗൺസ്ട്രീം ടാസ്കുകൾക്കായി പുനരുപയോഗിക്കുന്നു. ഈ വിഭാഗത്തിലെ ഉദാഹരണം [OpenAI embeddings](https://platform.openai.com/docs/models/embeddings?WT.mc_id=academic-105485-koreyst).
 
-![എംബെഡ്ഡിംഗ്](../../../translated_images/Embedding.c3708fe988ccf76073d348483dbb7569f622211104f073e22e43106075c04800.ml.png)
+![എംബെഡ്ഡിംഗ്](../../../translated_images/ml/Embedding.c3708fe988ccf760.webp)
 
 ഇമേജ് ജനറേഷൻ മോഡലുകൾ ചിത്രങ്ങൾ സൃഷ്ടിക്കുന്നവയാണ്. ഇവ സാധാരണയായി ഇമേജ് എഡിറ്റിംഗ്, ഇമേജ് സിന്തസിസ്, ഇമേജ് ട്രാൻസ്ലേഷൻ എന്നിവയ്ക്ക് ഉപയോഗിക്കുന്നു. ഇമേജ് ജനറേഷൻ മോഡലുകൾ വലിയ ഇമേജ് ഡാറ്റാസെറ്റുകളിൽ പരിശീലിപ്പിക്കപ്പെടുന്നു, ഉദാഹരണത്തിന് [LAION-5B](https://laion.ai/blog/laion-5b/?WT.mc_id=academic-105485-koreyst), പുതിയ ചിത്രങ്ങൾ സൃഷ്ടിക്കാനും നിലവിലുള്ള ചിത്രങ്ങൾ ഇൻപെയിന്റിംഗ്, സൂപ്പർ-റിസൊല്യൂഷൻ, കളറൈസേഷൻ സാങ്കേതികവിദ്യകൾ ഉപയോഗിച്ച് എഡിറ്റ് ചെയ്യാനും കഴിയും. ഉദാഹരണങ്ങൾ: [DALL-E-3](https://openai.com/dall-e-3?WT.mc_id=academic-105485-koreyst), [Stable Diffusion മോഡലുകൾ](https://github.com/Stability-AI/StableDiffusion?WT.mc_id=academic-105485-koreyst).
 
-![ഇമേജ് ജനറേഷൻ](../../../translated_images/Image.349c080266a763fd255b840a921cd8fc526ed78dc58708fa569ff1873d302345.ml.png)
+![ഇമേജ് ജനറേഷൻ](../../../translated_images/ml/Image.349c080266a763fd.webp)
 
 ടെക്സ്റ്റ് & കോഡ് ജനറേഷൻ മോഡലുകൾ ടെക്സ്റ്റ് അല്ലെങ്കിൽ കോഡ് സൃഷ്ടിക്കുന്നവയാണ്. ഇവ സാധാരണയായി ടെക്സ്റ്റ് സംഗ്രഹം, വിവർത്തനം, ചോദ്യോത്തരങ്ങൾ എന്നിവയ്ക്ക് ഉപയോഗിക്കുന്നു. ടെക്സ്റ്റ് ജനറേഷൻ മോഡലുകൾ വലിയ ടെക്സ്റ്റ് ഡാറ്റാസെറ്റുകളിൽ പരിശീലിപ്പിക്കപ്പെടുന്നു, ഉദാഹരണത്തിന് [BookCorpus](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zhu_Aligning_Books_and_ICCV_2015_paper.html?WT.mc_id=academic-105485-koreyst), പുതിയ ടെക്സ്റ്റ് സൃഷ്ടിക്കാനും ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകാനും കഴിയും. കോഡ് ജനറേഷൻ മോഡലുകൾ, ഉദാഹരണത്തിന് [CodeParrot](https://huggingface.co/codeparrot?WT.mc_id=academic-105485-koreyst), വലിയ കോഡ് ഡാറ്റാസെറ്റുകളിൽ പരിശീലിപ്പിക്കപ്പെടുന്നു, ഉദാഹരണത്തിന് GitHub, പുതിയ കോഡ് സൃഷ്ടിക്കാനും നിലവിലുള്ള കോഡിലെ പിശകുകൾ പരിഹരിക്കാനും കഴിയും.
 
-![ടെക്സ്റ്റ് & കോഡ് ജനറേഷൻ](../../../translated_images/Text.a8c0cf139e5cc2a0cd3edaba8d675103774e6ddcb3c9fc5a98bb17c9a450e31d.ml.png)
+![ടെക്സ്റ്റ് & കോഡ് ജനറേഷൻ](../../../translated_images/ml/Text.a8c0cf139e5cc2a0.webp)
 
 ### എൻകോഡർ-ഡികോഡർ vs ഡികോഡർ മാത്രം
 
@@ -122,23 +113,23 @@ LLM-കളുടെ വ്യത്യസ്ത ആർക്കിടെക്�
 
 - കാറ്റലോഗിൽ താൽപ്പര്യമുള്ള ഫൗണ്ടേഷൻ മോഡൽ കണ്ടെത്തുക - പ്രോപ്രൈറ്ററി അല്ലെങ്കിൽ ഓപ്പൺ സോഴ്‌സ്, ടാസ്ക്, ലൈസൻസ്, അല്ലെങ്കിൽ പേരുപ്രകാരം ഫിൽട്ടർ ചെയ്ത്. തിരയൽ മെച്ചപ്പെടുത്താൻ മോഡലുകൾ Azure OpenAI ശേഖരം, Hugging Face ശേഖരം തുടങ്ങിയ ശേഖരങ്ങളായി ക്രമീകരിച്ചിരിക്കുന്നു.
 
-![Model catalog](../../../translated_images/AzureAIStudioModelCatalog.3cf8a499aa8ba0314f2c73d4048b3225d324165f547525f5b7cfa5f6c9c68941.ml.png)
+![Model catalog](../../../translated_images/ml/AzureAIStudioModelCatalog.3cf8a499aa8ba031.webp)
 
 - മോഡൽ കാർഡ് അവലോകനം ചെയ്യുക, ഉദ്ദേശിച്ച ഉപയോഗവും പരിശീലന ഡാറ്റയും ഉൾപ്പെടെയുള്ള വിശദമായ വിവരണം, കോഡ് സാമ്പിളുകളും ആന്തരിക മൂല്യനിർണയ ലൈബ്രറിയിലെ മൂല്യനിർണയ ഫലങ്ങളും ഉൾപ്പെടെ.
 
-![Model card](../../../translated_images/ModelCard.598051692c6e400d681a713ba7717e8b6e5e65f08d12131556fcec0f1789459b.ml.png)
+![Model card](../../../translated_images/ml/ModelCard.598051692c6e400d.webp)
 
 - വ്യവസായത്തിൽ ലഭ്യമായ മോഡലുകളും ഡാറ്റാസെറ്റുകളും തമ്മിലുള്ള ബെഞ്ച്മാർക്കുകൾ താരതമ്യം ചെയ്ത് ഏത് ബിസിനസ് സീനാരിയോയ്ക്ക് അനുയോജ്യമാണ് എന്ന് വിലയിരുത്താൻ [Model Benchmarks](https://learn.microsoft.com/azure/ai-studio/how-to/model-benchmarks?WT.mc_id=academic-105485-koreyst) പെയിൻ ഉപയോഗിക്കുക.
 
-![Model benchmarks](../../../translated_images/ModelBenchmarks.254cb20fbd06c03a4ca53994585c5ea4300a88bcec8eff0450f2866ee2ac5ff3.ml.png)
+![Model benchmarks](../../../translated_images/ml/ModelBenchmarks.254cb20fbd06c03a.webp)
 
 - Azure AI Studioയുടെ പരീക്ഷണവും ട്രാക്കിംഗും ഉപയോഗിച്ച് പ്രത്യേക ജോലിഭാരത്തിൽ മോഡൽ പ്രകടനം മെച്ചപ്പെടുത്താൻ കസ്റ്റം പരിശീലന ഡാറ്റയിൽ മോഡൽ ഫൈൻ-ട്യൂൺ ചെയ്യുക.
 
-![Model fine-tuning](../../../translated_images/FineTuning.aac48f07142e36fddc6571b1f43ea2e003325c9c6d8e3fc9d8834b771e308dbf.ml.png)
+![Model fine-tuning](../../../translated_images/ml/FineTuning.aac48f07142e36fd.webp)
 
 - പ്രാഥമികമായി പരിശീലിപ്പിച്ച മോഡലോ ഫൈൻ-ട്യൂൺ ചെയ്ത പതിപ്പോ റിമോട്ട് റിയൽ ടൈം ഇൻഫറൻസ് - മാനേജ്ഡ് കംപ്യൂട്ട് - അല്ലെങ്കിൽ സർവർലെസ് API എൻഡ്‌പോയിന്റിലേക്ക് - [pay-as-you-go](https://learn.microsoft.com/azure/ai-studio/how-to/model-catalog-overview#model-deployment-managed-compute-and-serverless-api-pay-as-you-go?WT.mc_id=academic-105485-koreyst) - വിന്യസിച്ച് ആപ്ലിക്കേഷനുകൾക്ക് ഉപയോഗിക്കാൻ സാധ്യമാക്കുക.
 
-![Model deployment](../../../translated_images/ModelDeploy.890da48cbd0bccdb4abfc9257f3d884831e5d41b723e7d1ceeac9d60c3c4f984.ml.png)
+![Model deployment](../../../translated_images/ml/ModelDeploy.890da48cbd0bccdb.webp)
 
 > [!NOTE]
 > കാറ്റലോഗിലുള്ള എല്ലാ മോഡലുകളും ഇപ്പോൾ ഫൈൻ-ട്യൂണിംഗിനും/അല്ലെങ്കിൽ pay-as-you-go വിന്യാസത്തിനും ലഭ്യമല്ല. മോഡലിന്റെ കഴിവുകളും പരിമിതികളും സംബന്ധിച്ച വിശദാംശങ്ങൾക്കായി മോഡൽ കാർഡ് പരിശോധിക്കുക.
@@ -157,7 +148,7 @@ LLM-കളുടെ വ്യത്യസ്ത ആർക്കിടെക്�
 
 - **ഫൈൻ-ട്യൂൺ ചെയ്ത മോഡൽ**. ഇവിടെ, നിങ്ങളുടെ സ്വന്തം ഡാറ്റയിൽ മോഡൽ കൂടുതൽ പരിശീലിപ്പിച്ചിരിക്കുന്നു, അതിനാൽ മോഡൽ കൂടുതൽ കൃത്യവും പ്രതികരണശീലവുമാണ്, പക്ഷേ ചിലവേറിയതായിരിക്കാം.
 
-![LLMs deployment](../../../translated_images/Deploy.18b2d27412ec8c02871386cbe91097c7f2190a8c6e2be88f66392b411609a48c.ml.png)
+![LLMs deployment](../../../translated_images/ml/Deploy.18b2d27412ec8c02.webp)
 
 Img source: [Four Ways that Enterprises Deploy LLMs | Fiddler AI Blog](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms?WT.mc_id=academic-105485-koreyst)
 

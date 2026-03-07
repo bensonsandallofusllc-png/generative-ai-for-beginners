@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6b7629b8ee4d7d874a27213e903d86a7",
-  "translation_date": "2025-12-19T19:34:22+00:00",
-  "source_file": "02-exploring-and-comparing-different-llms/README.md",
-  "language_code": "te"
-}
--->
 # వివిధ LLMలను అన్వేషించడం మరియు పోల్చడం
 
-[![వివిధ LLMలను అన్వేషించడం మరియు పోల్చడం](../../../translated_images/02-lesson-banner.ef94c84979f97f60f07e27d905e708cbcbdf78707120553ccab27d91c947805b.te.png)](https://youtu.be/KIRUeDKscfI?si=8BHX1zvwzQBn-PlK)
+[![వివిధ LLMలను అన్వేషించడం మరియు పోల్చడం](../../../translated_images/te/02-lesson-banner.ef94c84979f97f60.webp)](https://youtu.be/KIRUeDKscfI?si=8BHX1zvwzQBn-PlK)
 
 > _ఈ పాఠం వీడియోను చూడడానికి పై చిత్రాన్ని క్లిక్ చేయండి_
 
@@ -59,13 +50,13 @@ LLMలు వారి నిర్మాణం, శిక్షణ డేటా
 - **వీరు చాలా పెద్ద నమూనాలు**, బిలియన్ల పరామితులపై శిక్షణ పొందిన చాలా లోతైన న్యూరల్ నెట్‌వర్క్‌ల ఆధారంగా ఉంటాయి.
 - **వీరు సాధారణంగా ఇతర నమూనాల ‘ఫౌండేషన్’గా పనిచేయడానికి ఉద్దేశించబడ్డారు**, అంటే వీటిని ఇతర నమూనాలు నిర్మించడానికి ప్రారంభ బిందువుగా ఉపయోగించవచ్చు, ఫైన్-ట్యూనింగ్ ద్వారా చేయవచ్చు.
 
-![ఫౌండేషన్ మోడల్స్ మరియు LLMలు](../../../translated_images/FoundationModel.e4859dbb7a825c94b284f17eae1c186aabc21d4d8644331f5b007d809cf8d0f2.te.png)
+![ఫౌండేషన్ మోడల్స్ మరియు LLMలు](../../../translated_images/te/FoundationModel.e4859dbb7a825c94.webp)
 
 చిత్ర మూలం: [Essential Guide to Foundation Models and Large Language Models | by Babar M Bhatti | Medium](https://thebabar.medium.com/essential-guide-to-foundation-models-and-large-language-models-27dab58f7404)
 
 ఈ తేడాను మరింత స్పష్టంగా చేయడానికి, ChatGPTని ఉదాహరణగా తీసుకుందాం. ChatGPT మొదటి సంస్కరణను నిర్మించడానికి, GPT-3.5 అనే మోడల్ ఫౌండేషన్ మోడల్‌గా పనిచేసింది. అంటే OpenAI చాట్-స్పెసిఫిక్ డేటాను ఉపయోగించి GPT-3.5 యొక్క ట్యూన్ చేసిన సంస్కరణను సృష్టించింది, ఇది చాట్‌బాట్స్ వంటి సంభాషణాత్మక సందర్భాలలో బాగా పనిచేస్తుంది.
 
-![ఫౌండేషన్ మోడల్](../../../translated_images/Multimodal.2c389c6439e0fc51b0b7b226d95d7d900d372ae66902d71b8ce5ec4951b8efbe.te.png)
+![ఫౌండేషన్ మోడల్](../../../translated_images/te/Multimodal.2c389c6439e0fc51.webp)
 
 చిత్ర మూలం: [2108.07258.pdf (arxiv.org)](https://arxiv.org/pdf/2108.07258.pdf?WT.mc_id=academic-105485-koreyst)
 
@@ -83,15 +74,15 @@ LLMలను అవుట్‌పుట్ ఆధారంగా కూడా �
 
 ఎంబెడ్డింగ్స్ అనేవి టెక్స్ట్‌ను సంఖ్యాత్మక రూపంలోకి మార్చగల నమూనాల సమూహం, దీనిని ఎంబెడ్డింగ్ అంటారు, ఇది ఇన్‌పుట్ టెక్స్ట్ యొక్క సంఖ్యాత్మక ప్రాతినిధ్యం. ఎంబెడ్డింగ్స్ యంత్రాలకు పదాలు లేదా వాక్యాల మధ్య సంబంధాలను అర్థం చేసుకోవడాన్ని సులభతరం చేస్తాయి మరియు అవి వర్గీకరణ నమూనాలు లేదా క్లస్టరింగ్ నమూనాలు వంటి ఇతర నమూనాల ఇన్‌పుట్‌గా ఉపయోగించబడతాయి, ఇవి సంఖ్యాత్మక డేటాపై మెరుగైన పనితీరు కలిగి ఉంటాయి. ఎంబెడ్డింగ్ నమూనాలు తరచుగా ట్రాన్స్‌ఫర్ లెర్నింగ్ కోసం ఉపయోగిస్తారు, అంటే ఒక నమూనా ఎక్కువ డేటా ఉన్న ప్రత్యామ్నాయ పనికి నిర్మించబడుతుంది, ఆ తర్వాత నమూనా బరువులు (ఎంబెడ్డింగ్స్) ఇతర డౌన్‌స్ట్రీమ్ పనులకు పునర్వినియోగం చేయబడతాయి. ఈ వర్గానికి ఉదాహరణ [OpenAI ఎంబెడ్డింగ్స్](https://platform.openai.com/docs/models/embeddings?WT.mc_id=academic-105485-koreyst).
 
-![ఎంబెడ్డింగ్](../../../translated_images/Embedding.c3708fe988ccf76073d348483dbb7569f622211104f073e22e43106075c04800.te.png)
+![ఎంబెడ్డింగ్](../../../translated_images/te/Embedding.c3708fe988ccf760.webp)
 
 చిత్ర సృష్టి నమూనాలు చిత్రాలను సృష్టించే నమూనాలు. ఇవి తరచుగా చిత్రం ఎడిటింగ్, చిత్రం సింథసిస్, మరియు చిత్రం అనువాదానికి ఉపయోగిస్తారు. చిత్ర సృష్టి నమూనాలు పెద్ద చిత్ర డేటాసెట్‌లపై శిక్షణ పొందినవి, ఉదాహరణకు [LAION-5B](https://laion.ai/blog/laion-5b/?WT.mc_id=academic-105485-koreyst), మరియు కొత్త చిత్రాలను సృష్టించడానికి లేదా ఇన్‌పెయింటింగ్, సూపర్-రెసల్యూషన్, మరియు కలర్‌యిజేషన్ సాంకేతికతలతో ఉన్న చిత్రాలను సవరించడానికి ఉపయోగించవచ్చు. ఉదాహరణలు: [DALL-E-3](https://openai.com/dall-e-3?WT.mc_id=academic-105485-koreyst) మరియు [స్టేబుల్ డిఫ్యూషన్ మోడల్స్](https://github.com/Stability-AI/StableDiffusion?WT.mc_id=academic-105485-koreyst).
 
-![చిత్ర సృష్టి](../../../translated_images/Image.349c080266a763fd255b840a921cd8fc526ed78dc58708fa569ff1873d302345.te.png)
+![చిత్ర సృష్టి](../../../translated_images/te/Image.349c080266a763fd.webp)
 
 టెక్స్ట్ మరియు కోడ్ సృష్టి నమూనాలు టెక్స్ట్ లేదా కోడ్ సృష్టించే నమూనాలు. ఇవి తరచుగా టెక్స్ట్ సారాంశం, అనువాదం, మరియు ప్రశ్నలకు సమాధానం ఇవ్వడానికి ఉపయోగిస్తారు. టెక్స్ట్ సృష్టి నమూనాలు పెద్ద టెక్స్ట్ డేటాసెట్‌లపై శిక్షణ పొందినవి, ఉదాహరణకు [BookCorpus](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zhu_Aligning_Books_and_ICCV_2015_paper.html?WT.mc_id=academic-105485-koreyst), మరియు కొత్త టెక్స్ట్ సృష్టించడానికి లేదా ప్రశ్నలకు సమాధానం ఇవ్వడానికి ఉపయోగించవచ్చు. కోడ్ సృష్టి నమూనాలు, ఉదాహరణకు [CodeParrot](https://huggingface.co/codeparrot?WT.mc_id=academic-105485-koreyst), పెద్ద కోడ్ డేటాసెట్‌లపై శిక్షణ పొందినవి, ఉదాహరణకు GitHub, మరియు కొత్త కోడ్ సృష్టించడానికి లేదా ఉన్న కోడ్‌లో బగ్స్‌ను సరిచేయడానికి ఉపయోగించవచ్చు.
 
-![టెక్స్ట్ మరియు కోడ్ సృష్టి](../../../translated_images/Text.a8c0cf139e5cc2a0cd3edaba8d675103774e6ddcb3c9fc5a98bb17c9a450e31d.te.png)
+![టెక్స్ట్ మరియు కోడ్ సృష్టి](../../../translated_images/te/Text.a8c0cf139e5cc2a0.webp)
 
 ### ఎంకోడర్-డికోడర్ మరియు డికోడర్-ఒన్లీ
 
@@ -122,23 +113,23 @@ LLMల వివిధ నిర్మాణ రకాల గురించి 
 
 - క్యాటలాగ్‌లో ఆసక్తికరమైన ఫౌండేషన్ మోడల్‌ను కనుగొనండి - ప్రొప్రైటరీ లేదా ఓపెన్ సోర్స్, టాస్క్, లైసెన్స్ లేదా పేరుతో ఫిల్టర్ చేయవచ్చు. శోధన సౌలభ్యాన్ని మెరుగుపరచడానికి, మోడల్స్‌ను Azure OpenAI కలెక్షన్, Hugging Face కలెక్షన్ మరియు మరిన్ని వంటి కలెక్షన్లుగా ఏర్పాటు చేశారు.
 
-![Model catalog](../../../translated_images/AzureAIStudioModelCatalog.3cf8a499aa8ba0314f2c73d4048b3225d324165f547525f5b7cfa5f6c9c68941.te.png)
+![Model catalog](../../../translated_images/te/AzureAIStudioModelCatalog.3cf8a499aa8ba031.webp)
 
 - మోడల్ కార్డ్‌ను సమీక్షించండి, ఇందులో ఉద్దేశించిన ఉపయోగం మరియు శిక్షణ డేటా యొక్క వివరమైన వివరణ, కోడ్ నమూనాలు మరియు అంతర్గత మూల్యాంకన లైబ్రరీపై మూల్యాంకన ఫలితాలు ఉంటాయి.
 
-![Model card](../../../translated_images/ModelCard.598051692c6e400d681a713ba7717e8b6e5e65f08d12131556fcec0f1789459b.te.png)
+![Model card](../../../translated_images/te/ModelCard.598051692c6e400d.webp)
 
 - వ్యాపార పరిస్థితికి సరిపోయే మోడల్‌ను అంచనా వేయడానికి పరిశ్రమలో అందుబాటులో ఉన్న మోడల్స్ మరియు డేటాసెట్‌లపై బెంచ్‌మార్క్‌లను [Model Benchmarks](https://learn.microsoft.com/azure/ai-studio/how-to/model-benchmarks?WT.mc_id=academic-105485-koreyst) ప్యానెల్ ద్వారా పోల్చండి.
 
-![Model benchmarks](../../../translated_images/ModelBenchmarks.254cb20fbd06c03a4ca53994585c5ea4300a88bcec8eff0450f2866ee2ac5ff3.te.png)
+![Model benchmarks](../../../translated_images/te/ModelBenchmarks.254cb20fbd06c03a.webp)
 
 - Azure AI Studio యొక్క ప్రయోగం మరియు ట్రాకింగ్ సామర్థ్యాలను ఉపయోగించి, నిర్దిష్ట వర్క్‌లోడ్‌లో మోడల్ పనితీరును మెరుగుపరచడానికి కస్టమ్ శిక్షణ డేటాపై మోడల్‌ను ఫైన్-ట్యూన్ చేయండి.
 
-![Model fine-tuning](../../../translated_images/FineTuning.aac48f07142e36fddc6571b1f43ea2e003325c9c6d8e3fc9d8834b771e308dbf.te.png)
+![Model fine-tuning](../../../translated_images/te/FineTuning.aac48f07142e36fd.webp)
 
 - ఒరిజినల్ ప్రీ-ట్రెయిన్డ్ మోడల్ లేదా ఫైన్-ట్యూన్ చేసిన వెర్షన్‌ను రిమోట్ రియల్ టైమ్ ఇన్ఫరెన్స్ - మేనేజ్డ్ కంప్యూట్ - లేదా సర్వర్‌లెస్ API ఎండ్‌పాయింట్ - [pay-as-you-go](https://learn.microsoft.com/azure/ai-studio/how-to/model-catalog-overview#model-deployment-managed-compute-and-serverless-api-pay-as-you-go?WT.mc_id=academic-105485-koreyst) - కు డిప్లాయ్ చేయండి, తద్వారా అప్లికేషన్లు దాన్ని వినియోగించగలవు.
 
-![Model deployment](../../../translated_images/ModelDeploy.890da48cbd0bccdb4abfc9257f3d884831e5d41b723e7d1ceeac9d60c3c4f984.te.png)
+![Model deployment](../../../translated_images/te/ModelDeploy.890da48cbd0bccdb.webp)
 
 > [!NOTE]
 > క్యాటలాగ్‌లోని అన్ని మోడల్స్ ప్రస్తుతం ఫైన్-ట్యూనింగ్ మరియు/లేదా pay-as-you-go డిప్లాయ్‌మెంట్ కోసం అందుబాటులో ఉండవు. మోడల్ సామర్థ్యాలు మరియు పరిమితుల వివరాలకు మోడల్ కార్డ్‌ను తనిఖీ చేయండి.
@@ -157,7 +148,7 @@ LLMల వివిధ నిర్మాణ రకాల గురించి 
 
 - **ఫైన్-ట్యూన్ చేసిన మోడల్**. ఇక్కడ మీరు మీ స్వంత డేటాపై మోడల్‌ను మరింత శిక్షణ ఇచ్చారు, ఇది మోడల్‌ను మీ అవసరాలకు మరింత ఖచ్చితంగా మరియు స్పందనాత్మకంగా మార్చింది, కానీ ఇది ఖర్చుతో కూడుకున్నది.
 
-![LLMs deployment](../../../translated_images/Deploy.18b2d27412ec8c02871386cbe91097c7f2190a8c6e2be88f66392b411609a48c.te.png)
+![LLMs deployment](../../../translated_images/te/Deploy.18b2d27412ec8c02.webp)
 
 Img మూలం: [Four Ways that Enterprises Deploy LLMs | Fiddler AI Blog](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms?WT.mc_id=academic-105485-koreyst)
 

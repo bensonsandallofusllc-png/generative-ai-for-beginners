@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T18:39:40+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "kn"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.kn.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/kn/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## ಪರಿಚಯ
 
@@ -41,12 +32,12 @@ LLM ಗಳ ಅಭಿವೃದ್ಧಿ ಸಾಫ್ಟ್‌ವೇರ್ ಅಭ�
 
 **ಖರ್ಚು** - ಈ ಮಾದರಿಗಳನ್ನು ಬಳಸಲು ಮತ್ತು ನಿಯೋಜಿಸಲು ಪ್ರತಿ ಟೋಕನ್‌ಗೆ ಖರ್ಚು ಸ್ವಂತ ಮಾಲೀಕತ್ವದ ಮಾದರಿಗಳಿಗಿಂತ ಕಡಿಮೆ. ಜನರೇಟಿವ್ AI ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿರ್ಮಿಸುವಾಗ, ನಿಮ್ಮ ಬಳಕೆಯ ಮೇಲೆ ಈ ಮಾದರಿಗಳ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ಬೆಲೆಯ ಹೋಲಿಕೆಯನ್ನು ಗಮನಿಸುವುದು ಮುಖ್ಯ.
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.kn.png)
+![Model Cost](../../../translated_images/kn/model-price.3f5a3e4d32ae00b4.webp)
 ಮೂಲ: Artificial Analysis
 
 **ಲವಚಿಕತೆ** - ಮುಕ್ತ ಮಾದರಿಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವುದರಿಂದ ನೀವು ವಿಭಿನ್ನ ಮಾದರಿಗಳನ್ನು ಬಳಸುವ ಅಥವಾ ಅವುಗಳನ್ನು ಸಂಯೋಜಿಸುವ ವಿಷಯದಲ್ಲಿ ಲವಚಿಕರಾಗಿರಬಹುದು. ಉದಾಹರಣೆಗೆ [HuggingChat ಸಹಾಯಕರು](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst) ಬಳಕೆದಾರರು ನೇರವಾಗಿ ಬಳಕೆದಾರ ಇಂಟರ್ಫೇಸ್ನಲ್ಲಿ ಬಳಸುವ ಮಾದರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.kn.png)
+![Choose Model](../../../translated_images/kn/choose-model.f095d15bbac92214.webp)
 
 ## ವಿಭಿನ್ನ ಮುಕ್ತ ಮಾದರಿಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು
 
@@ -74,7 +65,7 @@ LLM ಗಳ ಅಭಿವೃದ್ಧಿ ಸಾಫ್ಟ್‌ವೇರ್ ಅಭ�
 
 ವಿಭಿನ್ನ ಪ್ರಕಾರಗಳ LLM ಗಳನ್ನು ಹೋಲಿಸಲು, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) ಮತ್ತೊಂದು ಉತ್ತಮ ಸಂಪನ್ಮೂಲವಾಗಿದೆ:
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.kn.png)
+![Model Quality](../../../translated_images/kn/model-quality.aaae1c22e00f7ee1.webp)
 ಮೂಲ: Artificial Analysis
 
 ನಿರ್ದಿಷ್ಟ ಬಳಕೆಯ ಮೇಲೆ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದರೆ, ಅದೇ ಕ್ಷೇತ್ರಕ್ಕೆ ಕೇಂದ್ರೀಕರಿಸಿದ ಫೈನ್-ಟ್ಯೂನ್ ಆವೃತ್ತಿಗಳನ್ನು ಹುಡುಕುವುದು ಪರಿಣಾಮಕಾರಿಯಾಗಬಹುದು. ನಿಮ್ಮ ಮತ್ತು ನಿಮ್ಮ ಬಳಕೆದಾರರ ನಿರೀಕ್ಷೆಗಳ ಪ್ರಕಾರ ಅವು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ ಎಂದು ಅನೇಕ ಮುಕ್ತ ಮಾದರಿಗಳೊಂದಿಗೆ ಪ್ರಯೋಗ ಮಾಡುವುದು ಮತ್ತೊಂದು ಉತ್ತಮ ಅಭ್ಯಾಸ.

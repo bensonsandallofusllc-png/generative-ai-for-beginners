@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T18:37:38+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "te"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.te.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/te/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## పరిచయం
 
@@ -41,12 +32,12 @@ LLMల అభివృద్ధి సాఫ్ట్‌వేర్ అభి�
 
 **ఖర్చు** - ఈ మోడల్స్ ఉపయోగించడం మరియు అమలు చేయడం కోసం టోకెన్‌కు ఖర్చు ప్రొప్రైటరీ మోడల్స్ కంటే తక్కువ. జనరేటివ్ AI అప్లికేషన్లు నిర్మిస్తున్నప్పుడు, మీ ఉపయోగానికి ఈ మోడల్స్ పనితీరు మరియు ధరను పరిశీలించడం అవసరం.
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.te.png)  
+![Model Cost](../../../translated_images/te/model-price.3f5a3e4d32ae00b4.webp)  
 మూలం: Artificial Analysis
 
 **సౌలభ్యం** - ఓపెన్ మోడల్స్‌తో పని చేయడం ద్వారా మీరు వివిధ మోడల్స్ ఉపయోగించడంలో లేదా వాటిని కలపడంలో సౌలభ్యం పొందుతారు. ఉదాహరణకు [HuggingChat Assistants](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst)లో యూజర్ ఇంటర్‌ఫేస్‌లో నేరుగా మోడల్ ఎంచుకోవచ్చు:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.te.png)
+![Choose Model](../../../translated_images/te/choose-model.f095d15bbac92214.webp)
 
 ## వివిధ ఓపెన్ మోడల్స్ అన్వేషణ
 
@@ -74,7 +65,7 @@ Falcon యొక్క ఫైన్-ట్యూన్ చేసిన కొన
 
 వివిధ రకాల LLMలను పోల్చాలనుకుంటే, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) మరో గొప్ప వనరు:
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.te.png)  
+![Model Quality](../../../translated_images/te/model-quality.aaae1c22e00f7ee1.webp)  
 మూలం: Artificial Analysis
 
 ఒక నిర్దిష్ట ఉపయోగానికి పని చేస్తున్నప్పుడు, అదే రంగంపై దృష్టి పెట్టిన ఫైన్-ట్యూన్ చేసిన వెర్షన్లను వెతకడం సమర్థవంతం. మీ మరియు మీ వినియోగదారుల అంచనాల ప్రకారం ఎలా పనితీరు చూపిస్తాయో చూడటానికి అనేక ఓపెన్ మోడల్స్‌తో ప్రయోగించడం మంచి ఆచారం.

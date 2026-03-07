@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T17:46:10+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "uk"
-}
--->
-[![Інтеграція з викликом функцій](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.uk.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![Інтеграція з викликом функцій](../../../translated_images/uk/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # Життєвий цикл застосунку генеративного ШІ
 
@@ -30,7 +21,7 @@ LLM — це новий інструмент у арсеналі штучног�
 
 З цим нам потрібна нова парадигма, щоб адаптувати цей інструмент динамічно, з правильними стимулами. Ми можемо класифікувати старіші застосунки ШІ як "ML Apps", а новіші — як "GenAI Apps" або просто "AI Apps", відображаючи основні технології та методи, що використовувалися на той час. Це змінює наш наратив у кількох аспектах, подивіться на наступне порівняння.
 
-![Порівняння LLMOps та MLOps](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.uk.png)
+![Порівняння LLMOps та MLOps](../../../translated_images/uk/01-llmops-shift.29bc933cb3bb0080.webp)
 
 Зверніть увагу, що в LLMOps ми більше зосереджені на розробниках застосунків, використовуючи інтеграції як ключовий момент, застосовуючи "Моделі як сервіс" і розглядаючи наступні показники для метрик.
 
@@ -44,7 +35,7 @@ LLM — це новий інструмент у арсеналі штучног�
 
 Спершу, щоб зрозуміти життєвий цикл і зміни, зверніть увагу на наступну інфографіку.
 
-![Інфографіка LLMOps](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.uk.png)
+![Інфографіка LLMOps](../../../translated_images/uk/02-llmops.70a942ead05a7645.webp)
 
 Як ви можете помітити, це відрізняється від звичних життєвих циклів MLOps. LLM мають багато нових вимог, таких як підказки (Prompting), різні техніки для покращення якості (Fine-Tuning, RAG, Meta-Prompts), різна оцінка та відповідальність з урахуванням відповідального ШІ, нарешті, нові метрики оцінки (Якість, Шкода, Чесність, Вартість і Затримка).
 
@@ -54,7 +45,7 @@ LLM — це новий інструмент у арсеналі штучног�
 
 Як ми можемо дослідити ці кроки? Розглянемо детальніше, як можна побудувати життєвий цикл.
 
-![Робочий процес LLMOps](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.uk.png)
+![Робочий процес LLMOps](../../../translated_images/uk/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 Це може виглядати трохи складно, спочатку зосередьмося на трьох основних кроках.
 
@@ -74,11 +65,11 @@ LLM — це новий інструмент у арсеналі штучног�
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) дозволяє використовувати [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys). AI Studio — це веб-портал, який дозволяє досліджувати моделі, приклади та інструменти. Керувати вашими ресурсами, UI-потоками розробки та SDK/CLI опціями для розробки з пріоритетом коду.
 
-![Можливості Azure AI](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.uk.png)
+![Можливості Azure AI](../../../translated_images/uk/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI дозволяє використовувати різні ресурси для керування операціями, сервісами, проектами, пошуком векторів і базами даних.
 
-![LLMOps з Azure AI](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.uk.png)
+![LLMOps з Azure AI](../../../translated_images/uk/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Створюйте від Proof-of-Concept (POC) до масштабних застосунків з PromptFlow:
 
@@ -86,7 +77,7 @@ Azure AI дозволяє використовувати різні ресурс
 - Тестуйте та тонко налаштовуйте ваші застосунки для якісного ШІ з легкістю.
 - Використовуйте Azure AI Studio для інтеграції та ітерацій з хмарою, швидкого розгортання та інтеграції.
 
-![LLMOps з PromptFlow](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.uk.png)
+![LLMOps з PromptFlow](../../../translated_images/uk/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## Чудово! Продовжуйте навчання!
 

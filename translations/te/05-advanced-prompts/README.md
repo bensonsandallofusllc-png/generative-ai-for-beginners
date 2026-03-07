@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b2651fb16bcfbc62b8e518751ed90fdb",
-  "translation_date": "2025-12-19T19:18:58+00:00",
-  "source_file": "05-advanced-prompts/README.md",
-  "language_code": "te"
-}
--->
 # అధునాతన ప్రాంప్ట్‌ల సృష్టి
 
-[![అధునాతన ప్రాంప్ట్‌ల సృష్టి](../../../translated_images/05-lesson-banner.522610fd4a2cd82dbed66bb7e6fe104ed6da172e085dbb4d9100b28dc73ed435.te.png)](https://youtu.be/BAjzkaCdRok?si=NmUIyRf7-cDgbjtt)
+[![అధునాతన ప్రాంప్ట్‌ల సృష్టి](../../../translated_images/te/05-lesson-banner.522610fd4a2cd82d.webp)](https://youtu.be/BAjzkaCdRok?si=NmUIyRf7-cDgbjtt)
 
 ముందటి అధ్యాయం నుండి కొన్ని నేర్చుకున్న విషయాలను మళ్లీ చూద్దాం:
 

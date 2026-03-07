@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T14:09:03+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "mr"
-}
--->
-[![फंक्शन कॉलिंगसह एकत्रीकरण](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.mr.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![फंक्शन कॉलिंगसह एकत्रीकरण](../../../translated_images/mr/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # जनरेटिव AI अनुप्रयोग जीवनचक्र
 
@@ -30,7 +21,7 @@ LLM हे आर्टिफिशियल इंटेलिजन्सच�
 
 यासाठी, आपल्याला या साधनाला योग्य प्रोत्साहनांसह गतिशील पद्धतीने जुळवून घेण्यासाठी नवीन पॅराडाइमची गरज आहे. आपण जुन्या AI अनुप्रयोगांना "ML Apps" आणि नवीन AI अनुप्रयोगांना "GenAI Apps" किंवा फक्त "AI Apps" म्हणून वर्गीकृत करू शकतो, जे त्या काळातील मुख्य प्रवाहातील तंत्रज्ञान आणि तंत्रे दर्शवतात. यामुळे आपली कथा अनेक प्रकारे बदलते, खालील तुलना पहा.
 
-![LLMOps विरुद्ध MLOps तुलना](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.mr.png)
+![LLMOps विरुद्ध MLOps तुलना](../../../translated_images/mr/01-llmops-shift.29bc933cb3bb0080.webp)
 
 लक्षात घ्या की LLMOps मध्ये, आपण अनुप्रयोग विकासकांवर अधिक लक्ष केंद्रित करतो, एकत्रीकरणांना महत्त्वाचा मुद्दा मानतो, "Models-as-a-Service" वापरतो आणि मेट्रिक्ससाठी खालील मुद्द्यांवर विचार करतो.
 
@@ -44,7 +35,7 @@ LLM हे आर्टिफिशियल इंटेलिजन्सच�
 
 प्रथम, जीवनचक्र आणि त्यातील बदल समजून घेण्यासाठी, पुढील माहितीचित्र पाहूया.
 
-![LLMOps माहितीचित्र](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.mr.png)
+![LLMOps माहितीचित्र](../../../translated_images/mr/02-llmops.70a942ead05a7645.webp)
 
 आपण लक्षात घेऊ शकता की हे पारंपारिक MLOps जीवनचक्रांपेक्षा वेगळे आहे. LLMs कडे अनेक नवीन गरजा आहेत, जसे की प्रॉम्प्टिंग, गुणवत्ता सुधारण्यासाठी वेगवेगळ्या तंत्रांचा वापर (फाईन-ट्यूनिंग, RAG, मेटा-प्रॉम्प्ट्स), जबाबदार AI सह वेगळे मूल्यांकन आणि जबाबदारी, शेवटी नवीन मूल्यांकन मेट्रिक्स (गुणवत्ता, हानी, प्रामाणिकपणा, खर्च आणि विलंब).
 
@@ -54,7 +45,7 @@ LLM हे आर्टिफिशियल इंटेलिजन्सच�
 
 आपण त्या टप्प्यांचा कसा शोध घेऊ शकतो? जीवनचक्र कसे तयार करू शकतो याचा तपशील पाहूया.
 
-![LLMOps कार्यप्रवाह](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.mr.png)
+![LLMOps कार्यप्रवाह](../../../translated_images/mr/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 हे थोडे गुंतागुंतीचे वाटू शकते, तर प्रथम तीन मोठ्या टप्प्यांवर लक्ष केंद्रित करूया.
 
@@ -74,11 +65,11 @@ LLM हे आर्टिफिशियल इंटेलिजन्सच�
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) आपल्याला [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) वापरण्याची परवानगी देते. AI Studio हा एक वेब पोर्टल आहे जो आपल्याला मॉडेल्स, नमुने आणि साधने एक्सप्लोर करण्याची परवानगी देतो. आपले संसाधने व्यवस्थापित करणे, UI विकास प्रवाह आणि SDK/CLI पर्यायांसह कोड-प्रथम विकासासाठी.
 
-![Azure AI शक्यता](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.mr.png)
+![Azure AI शक्यता](../../../translated_images/mr/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI आपल्याला अनेक संसाधने वापरण्याची परवानगी देते, आपले ऑपरेशन्स, सेवा, प्रकल्प, व्हेक्टर शोध आणि डेटाबेस गरजा व्यवस्थापित करण्यासाठी.
 
-![Azure AI सह LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.mr.png)
+![Azure AI सह LLMOps](../../../translated_images/mr/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Proof-of-Concept(POC) पासून मोठ्या प्रमाणावर अनुप्रयोग तयार करा PromptFlow सह:
 
@@ -86,7 +77,7 @@ Proof-of-Concept(POC) पासून मोठ्या प्रमाणा�
 - आपल्या अनुप्रयोगांची गुणवत्ता AI साठी तपासा आणि फाईन-ट्यून करा, सहजतेने.
 - Azure AI Studio वापरून क्लाउडसह एकत्रीकरण आणि पुनरावृत्ती करा, जलद एकत्रीकरणासाठी पुश आणि तैनात करा.
 
-![PromptFlow सह LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.mr.png)
+![PromptFlow सह LLMOps](../../../translated_images/mr/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## छान! आपले शिक्षण सुरू ठेवा!
 

@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T14:21:53+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "pa"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.pa.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/pa/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## ਪਰਿਚਯ
 
@@ -41,12 +32,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 **ਲਾਗਤ** - ਇਹ ਮਾਡਲ ਵਰਤਣ ਅਤੇ ਤਾਇਨਾਤ ਕਰਨ ਦੀ ਲਾਗਤ ਪ੍ਰੋਪ੍ਰਾਇਟਰੀ ਮਾਡਲਾਂ ਨਾਲੋਂ ਘੱਟ ਹੁੰਦੀ ਹੈ। ਜਦੋਂ ਜਨਰੇਟਿਵ AI ਐਪਲੀਕੇਸ਼ਨਾਂ ਦਾ ਨਿਰਮਾਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੋਵੇ, ਤਾਂ ਆਪਣੇ ਵਰਤੋਂ ਕੇਸ ਲਈ ਪ੍ਰਦਰਸ਼ਨ ਅਤੇ ਕੀਮਤ ਦੀ ਤੁਲਨਾ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.pa.png)
+![Model Cost](../../../translated_images/pa/model-price.3f5a3e4d32ae00b4.webp)
 ਸਰੋਤ: Artificial Analysis
 
 **ਲਚਕੀਲਾਪਣ** - ਓਪਨ ਮਾਡਲਾਂ ਨਾਲ ਕੰਮ ਕਰਨ ਨਾਲ ਤੁਸੀਂ ਵੱਖ-ਵੱਖ ਮਾਡਲਾਂ ਨੂੰ ਵਰਤਣ ਜਾਂ ਜੋੜਨ ਵਿੱਚ ਲਚਕੀਲੇ ਹੋ ਸਕਦੇ ਹੋ। ਉਦਾਹਰਨ ਵਜੋਂ [HuggingChat ਸਹਾਇਕ](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst) ਜਿੱਥੇ ਉਪਭੋਗਤਾ ਸਿੱਧਾ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਵਿੱਚ ਮਾਡਲ ਚੁਣ ਸਕਦਾ ਹੈ:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.pa.png)
+![Choose Model](../../../translated_images/pa/choose-model.f095d15bbac92214.webp)
 
 ## ਵੱਖ-ਵੱਖ ਓਪਨ ਮਾਡਲਾਂ ਦੀ ਖੋਜ
 
@@ -74,7 +65,7 @@ Falcon ਦੇ ਕੁਝ ਫਾਈਨ-ਟਿਊਨ ਕੀਤੇ ਸੰਸਕਰ�
 
 ਵੱਖ-ਵੱਖ ਕਿਸਮਾਂ ਦੇ LLMs ਦੀ ਤੁਲਨਾ ਕਰਨ ਲਈ, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) ਇੱਕ ਹੋਰ ਵਧੀਆ ਸਰੋਤ ਹੈ:
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.pa.png)
+![Model Quality](../../../translated_images/pa/model-quality.aaae1c22e00f7ee1.webp)
 ਸਰੋਤ: Artificial Analysis
 
 ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਖਾਸ ਵਰਤੋਂ ਕੇਸ 'ਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਉਸੇ ਖੇਤਰ 'ਤੇ ਕੇਂਦਰਿਤ ਫਾਈਨ-ਟਿਊਨ ਕੀਤੇ ਸੰਸਕਰਣਾਂ ਦੀ ਖੋਜ ਕਰਨਾ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਹੋ ਸਕਦਾ ਹੈ। ਕਈ ਓਪਨ ਮਾਡਲਾਂ ਨਾਲ ਪ੍ਰਯੋਗ ਕਰਕੇ ਦੇਖੋ ਕਿ ਉਹ ਤੁਹਾਡੇ ਅਤੇ ਤੁਹਾਡੇ ਉਪਭੋਗਤਿਆਂ ਦੀਆਂ ਉਮੀਦਾਂ ਅਨੁਸਾਰ ਕਿਵੇਂ ਪ੍ਰਦਰਸ਼ਨ ਕਰਦੇ ਹਨ, ਇਹ ਇੱਕ ਚੰਗੀ ਅਭਿਆਸ ਹੈ।

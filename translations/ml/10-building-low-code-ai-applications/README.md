@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "846ac8e3b7dcfb697d3309fec05f0fea",
-  "translation_date": "2025-12-19T20:32:06+00:00",
-  "source_file": "10-building-low-code-ai-applications/README.md",
-  "language_code": "ml"
-}
--->
 # ലോ കോഡ് എഐ ആപ്ലിക്കേഷനുകൾ നിർമ്മിക്കൽ
 
-[![Building Low Code AI Applications](../../../translated_images/10-lesson-banner.a01ac8fe3fd86310c2e4065c0b3c584879f33b8ce797311821a636992f8a5b2f.ml.png)](https://youtu.be/1vzq3Nd8GBA?si=h6LHWJXdmqf6mhDg)
+[![Building Low Code AI Applications](../../../translated_images/ml/10-lesson-banner.a01ac8fe3fd86310.webp)](https://youtu.be/1vzq3Nd8GBA?si=h6LHWJXdmqf6mhDg)
 
 > _(ഈ പാഠത്തിന്റെ വീഡിയോ കാണാൻ മുകളിൽ ചിത്രത്തിൽ ക്ലിക്ക് ചെയ്യുക)_
 
@@ -92,17 +83,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 1. ഹോം സ്ക്രീനിലെ ടെക്സ്റ്റ് ഏരിയയിൽ നിങ്ങൾ നിർമ്മിക്കാൻ ആഗ്രഹിക്കുന്ന ആപ്പ് വിവരിക്കുക. ഉദാഹരണത്തിന്, **_I want to build an app to track and manage student assignments_**. പ്രോംപ്റ്റ് എഐ കോപൈലറ്റിലേക്ക് അയയ്ക്കാൻ **Send** ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.
 
-![Describe the app you want to build](../../../translated_images/copilot-chat-prompt-powerapps.84250f341d060830a296b68512e6b3b3aa3a4559f4f1c2d7bafeba8ad3fcd17a.ml.png)
+![Describe the app you want to build](../../../translated_images/ml/copilot-chat-prompt-powerapps.84250f341d060830.webp)
 
 1. എഐ കോപൈലറ്റ് നിങ്ങൾ ട്രാക്ക് ചെയ്യാൻ ആഗ്രഹിക്കുന്ന ഡാറ്റ സംഭരിക്കാൻ ആവശ്യമായ ഫീൽഡുകൾ ഉള്ള ഡാറ്റാവേഴ്സ് ടേബിൾ നിർദ്ദേശിക്കുകയും ചില സാമ്പിൾ ഡാറ്റയും നൽകുകയും ചെയ്യും. തുടർന്ന് സംഭാഷണ ഘട്ടങ്ങളിലൂടെ എഐ കോപൈലറ്റ് അസിസ്റ്റന്റ് ഫീച്ചർ ഉപയോഗിച്ച് ടേബിൾ ഇഷ്ടാനുസരിച്ച് ഇഷ്ടമാക്കാം.
 
    > **പ്രധാനമാണ്**: ഡാറ്റാവേഴ്സ് പവർ പ്ലാറ്റ്ഫോമിന്റെ അടിസ്ഥാന ഡാറ്റ പ്ലാറ്റ്ഫോമാണ്. ആപ്പിന്റെ ഡാറ്റ സംഭരിക്കാൻ ലോ-കോഡ് ഡാറ്റ പ്ലാറ്റ്ഫോമാണ്. ഇത് മൈക്രോസോഫ്റ്റ് ക്ലൗഡിൽ സുരക്ഷിതമായി ഡാറ്റ സംഭരിക്കുന്ന ഒരു പൂർണ്ണമായി മാനേജുചെയ്യുന്ന സേവനമാണ്, നിങ്ങളുടെ പവർ പ്ലാറ്റ്ഫോം പരിസ്ഥിതിയിൽ പ്രൊവിഷൻ ചെയ്യപ്പെട്ടതാണ്. ഡാറ്റാ ക്ലാസിഫിക്കേഷൻ, ഡാറ്റ ലിനിയേജ്, ഫൈൻ-ഗ്രെയിൻഡ് ആക്സസ് കൺട്രോൾ തുടങ്ങിയ ബിൽറ്റ്-ഇൻ ഡാറ്റ ഗവർണൻസ് കഴിവുകൾ ഇതിൽ ഉണ്ട്. ഡാറ്റാവേഴ്സ് കുറിച്ച് കൂടുതൽ അറിയാൻ [ഇവിടെ](https://docs.microsoft.com/powerapps/maker/data-platform/data-platform-intro?WT.mc_id=academic-109639-somelezediko) കാണുക.
 
-   ![Suggested fields in your new table](../../../translated_images/copilot-dataverse-table-powerapps.f4cc07b5d5f9327bd3783dd288debb2a959ce3320107512e235137aebd8a1a4c.ml.png)
+   ![Suggested fields in your new table](../../../translated_images/ml/copilot-dataverse-table-powerapps.f4cc07b5d5f9327b.webp)
 
 1. അധ്യാപകർ അസൈൻമെന്റ് സമർപ്പിച്ച വിദ്യാർത്ഥികൾക്ക് ഇമെയിൽ അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നു, അവരുടെ അസൈൻമെന്റുകളുടെ പുരോഗതി അറിയിക്കാൻ. വിദ്യാർത്ഥി ഇമെയിൽ സംഭരിക്കാൻ ടേബിളിൽ പുതിയ ഫീൽഡ് ചേർക്കാൻ കോപൈലറ്റ് ഉപയോഗിക്കാം. ഉദാഹരണത്തിന്, ടേബിളിൽ പുതിയ ഫീൽഡ് ചേർക്കാൻ താഴെപ്പറയുന്ന പ്രോംപ്റ്റ് ഉപയോഗിക്കാം: **_I want to add a column to store student email_**. പ്രോംപ്റ്റ് എഐ കോപൈലറ്റിലേക്ക് അയയ്ക്കാൻ **Send** ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.
 
-![Adding a new field](../../../translated_images/copilot-new-column.35e15ff21acaf2745965d427b130f2be772f0484835b44fe074d496b1a455f2a.ml.png)
+![Adding a new field](../../../translated_images/ml/copilot-new-column.35e15ff21acaf274.webp)
 
 1. എഐ കോപൈലറ്റ് പുതിയ ഫീൽഡ് സൃഷ്ടിക്കും, തുടർന്ന് നിങ്ങൾക്ക് ഫീൽഡ് ഇഷ്ടാനുസരിച്ച് ഇഷ്ടമാക്കാം.
 
@@ -112,7 +103,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 1. അധ്യാപകർക്ക് വിദ്യാർത്ഥികൾക്ക് ഇമെയിൽ അയയ്ക്കാൻ, ആപ്പിൽ പുതിയ സ്ക്രീൻ ചേർക്കാൻ കോപൈലറ്റ് ഉപയോഗിക്കാം. ഉദാഹരണത്തിന്, ആപ്പിൽ പുതിയ സ്ക്രീൻ ചേർക്കാൻ താഴെപ്പറയുന്ന പ്രോംപ്റ്റ് ഉപയോഗിക്കാം: **_I want to add a screen to send emails to students_**. പ്രോംപ്റ്റ് എഐ കോപൈലറ്റിലേക്ക് അയയ്ക്കാൻ **Send** ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.
 
-![Adding a new screen via a prompt instruction](../../../translated_images/copilot-new-screen.2e0bef7132a173928bc621780b39799e03982d315cb5a9ff75a34b08054641d4.ml.png)
+![Adding a new screen via a prompt instruction](../../../translated_images/ml/copilot-new-screen.2e0bef7132a17392.webp)
 
 1. എഐ കോപൈലറ്റ് പുതിയ സ്ക്രീൻ സൃഷ്ടിക്കും, തുടർന്ന് നിങ്ങൾക്ക് സ്ക്രീൻ ഇഷ്ടാനുസരിച്ച് ഇഷ്ടമാക്കാം.
 
@@ -147,15 +138,15 @@ CO_OP_TRANSLATOR_METADATA:
 
 2. ഇടത് നാവിഗേഷൻ ബാറിൽ **Tables** തിരഞ്ഞെടുക്കുക, തുടർന്ന് **Describe the new Table** ക്ലിക്ക് ചെയ്യുക.
 
-![Select new table](../../../translated_images/describe-new-table.0792373eb757281e3c5f542f84cad3b5208bfe0e5c4a7786dd2bd31aa848a23c.ml.png)
+![Select new table](../../../translated_images/ml/describe-new-table.0792373eb757281e.webp)
 
 3. **Describe the new Table** സ്ക്രീനിൽ, നിങ്ങൾ സൃഷ്ടിക്കാൻ ആഗ്രഹിക്കുന്ന ടേബിള് വിവരണം നൽകാൻ ടെക്സ്റ്റ് ഏരിയ ഉപയോഗിക്കുക. ഉദാഹരണത്തിന്, **_I want to create a table to store invoice information_**. AI കോപൈലറ്റിലേക്ക് പ്രോംപ്റ്റ് അയയ്ക്കാൻ **Send** ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.
 
-![Describe the table](../../../translated_images/copilot-chat-prompt-dataverse.feb2f81e5872b9d2b05d45d11bb6830e0f2ef6a2d4742413bc9a1e50a45bbb89.ml.png)
+![Describe the table](../../../translated_images/ml/copilot-chat-prompt-dataverse.feb2f81e5872b9d2.webp)
 
 4. AI കോപൈലറ്റ് നിങ്ങൾക്ക് ആവശ്യമായ ഫീൽഡുകൾ ഉൾപ്പെടുന്ന ഡാറ്റാവേഴ്സ് ടേബിൾ നിർദ്ദേശിക്കും, കൂടാതെ ചില സാമ്പിൾ ഡാറ്റയും നൽകും. പിന്നീട് കോപൈലറ്റ് അസിസ്റ്റന്റ് ഫീച്ചർ ഉപയോഗിച്ച് സംഭാഷണ ഘട്ടങ്ങളിലൂടെ ടേബിൾ നിങ്ങളുടെ ആവശ്യങ്ങൾക്കനുസരിച്ച് ഇഷ്ടാനുസൃതമാക്കാം.
 
-![Suggested Dataverse table](../../../translated_images/copilot-dataverse-table.b3bc936091324d9db1e943d640df1c7a7df598e66d30f5b8a2999048e26a5073.ml.png)
+![Suggested Dataverse table](../../../translated_images/ml/copilot-dataverse-table.b3bc936091324d9d.webp)
 
 5. ഫിനാൻസ് ടീം സപ്ലയർക്ക് അവരുടെ ഇൻവോയ്സ് നിലവിലെ നില അറിയിക്കാൻ ഇമെയിൽ അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നു. സപ്ലയർ ഇമെയിൽ സംഭരിക്കാൻ ടേബിളിൽ പുതിയ ഫീൽഡ് ചേർക്കാൻ കോപൈലറ്റ് ഉപയോഗിക്കാം. ഉദാഹരണത്തിന്, **_I want to add a column to store supplier email_** എന്ന പ്രോംപ്റ്റ് ഉപയോഗിച്ച് പുതിയ ഫീൽഡ് ചേർക്കാൻ **Send** ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.
 
@@ -184,7 +175,7 @@ AI ബിൽഡർ രണ്ട് തരത്തിലുള്ള AI മോ�
 
 കസ്റ്റം AI മോഡലുകൾ ഉപയോഗിച്ച് നിങ്ങളുടെ സ്വന്തം മോഡൽ AI ബിൽഡറിലേക്ക് കൊണ്ടുവരാം, അതിനാൽ അത് AI ബിൽഡറിന്റെ മറ്റ് കസ്റ്റം മോഡലുകളുപോലെ പ്രവർത്തിക്കും, നിങ്ങളുടെ സ്വന്തം ഡാറ്റ ഉപയോഗിച്ച് മോഡൽ പരിശീലിപ്പിക്കാം. ഈ മോഡലുകൾ പവർ ആപ്പ്സിലും പവർ ഓട്ടോമേറ്റിലും പ്രക്രിയകൾ ഓട്ടോമേറ്റ് ചെയ്യാനും ഫലങ്ങൾ പ്രവചിക്കാനും ഉപയോഗിക്കാം. നിങ്ങളുടെ സ്വന്തം മോഡൽ ഉപയോഗിക്കുമ്പോൾ ചില പരിമിതികൾ ബാധകമാണ്. ഈ [പരിമിതികൾ](https://learn.microsoft.com/ai-builder/byo-model#limitations?WT.mc_id=academic-105485-koreyst) കുറിച്ച് കൂടുതൽ വായിക്കുക.
 
-![AI builder models](../../../translated_images/ai-builder-models.8069423b84cfc47f6bb989bc3cd0584b5b2471c80fad80bf504d356928a08c9c.ml.png)
+![AI builder models](../../../translated_images/ml/ai-builder-models.8069423b84cfc47f.webp)
 
 ## അസൈൻമെന്റ് #2 - ഞങ്ങളുടെ സ്റ്റാർട്ടപ്പിന് ഇൻവോയിസ് പ്രോസസ്സിംഗ് ഫ്ലോ നിർമ്മിക്കുക
 
@@ -198,7 +189,7 @@ AI ബിൽഡർ രണ്ട് തരത്തിലുള്ള AI മോ�
 
 2. ഹോം സ്ക്രീനിലെ ടെക്സ്റ്റ് ഏരിയയിൽ നിങ്ങൾ നിർമ്മിക്കാൻ ആഗ്രഹിക്കുന്ന വർക്ക്‌ഫ്ലോ വിവരണം നൽകുക. ഉദാഹരണത്തിന്, **_Process an invoice when it arrives in my mailbox_**. AI കോപൈലറ്റിലേക്ക് പ്രോംപ്റ്റ് അയയ്ക്കാൻ **Send** ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.
 
-   ![Copilot power automate](../../../translated_images/copilot-chat-prompt-powerautomate.f377e478cc8412de4394fab09e5b72f97b3fc9312526b516ded426102f51c30d.ml.png)
+   ![Copilot power automate](../../../translated_images/ml/copilot-chat-prompt-powerautomate.f377e478cc8412de.webp)
 
 3. AI കോപൈലറ്റ് നിങ്ങൾ ഓട്ടോമേറ്റ് ചെയ്യാൻ ആഗ്രഹിക്കുന്ന ടാസ്ക് നിർവഹിക്കാൻ ആവശ്യമായ ആക്ഷനുകൾ നിർദ്ദേശിക്കും. അടുത്ത ഘട്ടങ്ങളിലൂടെ പോകാൻ **Next** ബട്ടൺ ക്ലിക്ക് ചെയ്യാം.
 
@@ -212,7 +203,7 @@ AI ബിൽഡർ രണ്ട് തരത്തിലുള്ള AI മോ�
 
 8. **Condition** ആക്ഷൻ ഫ്ലോയിൽ നിന്ന് നീക്കം ചെയ്യുക, കാരണം ഇത് ഉപയോഗിക്കില്ല. ഇത് താഴെ കാണുന്ന സ്ക്രീൻഷോട്ടുപോലെ ആയിരിക്കണം:
 
-   ![power automate, remove actions](../../../translated_images/powerautomate-remove-actions.7216392fe684ceba4b73c6383edd1cc5e7ded11afd0ca812052a11487d049ef8.ml.png)
+   ![power automate, remove actions](../../../translated_images/ml/powerautomate-remove-actions.7216392fe684ceba.webp)
 
 9. **Add an action** ബട്ടൺ ക്ലിക്ക് ചെയ്ത് **Dataverse** തിരയുക. **Add a new row** ആക്ഷൻ തിരഞ്ഞെടുക്കുക.
 
@@ -227,7 +218,7 @@ AI ബിൽഡർ രണ്ട് തരത്തിലുള്ള AI മോ�
     - Status - **Status** **Pending** ആയി സജ്ജമാക്കുക.
     - Supplier Email - **When a new email arrives** ട്രിഗറിൽ നിന്നുള്ള **From** ഡൈനാമിക് കണ്ടന്റ് ഉപയോഗിക്കുക.
 
-    ![power automate add row](../../../translated_images/powerautomate-add-row.5edce45e5dd3d51e5152688dc140ad43e1423e7a9fef9a206f82a7965ea68d73.ml.png)
+    ![power automate add row](../../../translated_images/ml/powerautomate-add-row.5edce45e5dd3d51e.webp)
 
 12. ഫ്ലോ പൂർത്തിയാക്കിയ ശേഷം, **Save** ബട്ടൺ ക്ലിക്ക് ചെയ്ത് ഫ്ലോ സേവ് ചെയ്യുക. ട്രിഗറിൽ നൽകിയ ഫോൾഡറിലേക്ക് ഇൻവോയിസുള്ള ഇമെയിൽ അയച്ച് ഫ്ലോ ടെസ്റ്റ് ചെയ്യാം.
 
@@ -241,7 +232,7 @@ GPT മോഡലുകൾ വൻ ഡാറ്റാ സെറ്റുകളി�
 
 ഉദാഹരണത്തിന്, ഇമെയിൽ ഡ്രാഫ്റ്റുകൾ, ഉൽപ്പന്ന വിവരണങ്ങൾ തുടങ്ങിയവയ്ക്ക് സ്വയം ടെക്സ്റ്റ് സൃഷ്ടിക്കുന്ന ഫ്ലോകൾ നിർമ്മിക്കാം. കൂടാതെ, ചാറ്റ്ബോട്ടുകൾ, കസ്റ്റമർ സർവീസ് ആപ്പുകൾ പോലുള്ള ആപ്പുകൾക്ക് ടെക്സ്റ്റ് ജനറേറ്റ് ചെയ്യാനും ഉപഭോക്തൃ ചോദനകൾക്ക് ഫലപ്രദമായി മറുപടി നൽകാനും ഈ മോഡൽ ഉപയോഗിക്കാം.
 
-![create a prompt](../../../translated_images/create-prompt-gpt.69d429300c2e870a12ec95556cda9bacf6a173e452cdca02973c90df5f705cee.ml.png)
+![create a prompt](../../../translated_images/ml/create-prompt-gpt.69d429300c2e870a.webp)
 
 പവർ ഓട്ടോമേറ്റിൽ ഈ AI മോഡൽ എങ്ങനെ ഉപയോഗിക്കാമെന്ന് പഠിക്കാൻ [Add intelligence with AI Builder and GPT](https://learn.microsoft.com/training/modules/ai-builder-text-generation/?WT.mc_id=academic-109639-somelezediko) മോഡ്യൂൾ കാണുക.
 

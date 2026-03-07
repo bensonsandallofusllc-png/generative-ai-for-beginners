@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T14:15:24+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "ne"
-}
--->
-[![फंक्शन कलिङसँग एकीकरण](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.ne.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![फंक्शन कलिङसँग एकीकरण](../../../translated_images/ne/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # जेनेरेटिभ AI अनुप्रयोग जीवनचक्र
 
@@ -30,7 +21,7 @@ LLM हरू कृत्रिम बुद्धिमत्ताको न�
 
 यसका लागि, हामीलाई यो उपकरणलाई गतिशील रूपमा अनुकूलन गर्न नयाँ परिप्रेक्ष्य आवश्यक छ, सही प्रोत्साहनहरूसँग। हामी पुराना AI अनुप्रयोगहरूलाई "ML अनुप्रयोगहरू" र नयाँ AI अनुप्रयोगहरूलाई "GenAI अनुप्रयोगहरू" वा केवल "AI अनुप्रयोगहरू" भनेर वर्गीकरण गर्न सक्छौं, जुन त्यस समयमा प्रयोग हुने मुख्य प्रविधि र प्रविधिहरूलाई प्रतिबिम्बित गर्दछ। यसले हाम्रो कथालाई धेरै तरिकाले परिवर्तन गर्दछ, तलको तुलना हेर्नुहोस्।
 
-![LLMOps vs. MLOps तुलना](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.ne.png)
+![LLMOps vs. MLOps तुलना](../../../translated_images/ne/01-llmops-shift.29bc933cb3bb0080.webp)
 
 ध्यान दिनुहोस् कि LLMOps मा, हामी अनुप्रयोग विकासकर्ताहरूमा बढी केन्द्रित छौं, एकीकरणहरूलाई मुख्य बिन्दुको रूपमा प्रयोग गर्दै, "मोडेल-एज-ए-सर्भिस" प्रयोग गर्दै र मेट्रिक्सका लागि तलका बुँदाहरूमा सोच्दै।
 
@@ -44,7 +35,7 @@ LLM हरू कृत्रिम बुद्धिमत्ताको न�
 
 पहिले, जीवनचक्र र संशोधनहरू बुझ्न, तलको इन्फोग्राफिक नोट गर्नुहोस्।
 
-![LLMOps इन्फोग्राफिक](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.ne.png)
+![LLMOps इन्फोग्राफिक](../../../translated_images/ne/02-llmops.70a942ead05a7645.webp)
 
 जसरी तपाईंले देख्न सक्नुहुन्छ, यो सामान्य MLOps जीवनचक्रहरूबाट फरक छ। LLM हरूमा धेरै नयाँ आवश्यकताहरू छन्, जस्तै प्रॉम्प्टिङ, गुणस्तर सुधारका विभिन्न प्रविधिहरू (फाइन-ट्यूनिङ, RAG, मेटा-प्रॉम्प्टहरू), जिम्मेवार AI सँग सम्बन्धित विभिन्न मूल्याङ्कन र जिम्मेवारीहरू, अन्ततः नयाँ मूल्याङ्कन मेट्रिक्सहरू (गुणस्तर, हानि, इमानदारी, लागत र विलम्बता)।
 
@@ -54,7 +45,7 @@ LLM हरू कृत्रिम बुद्धिमत्ताको न�
 
 हामी ती चरणहरू कसरी अन्वेषण गर्न सक्छौं? जीवनचक्र कसरी निर्माण गर्ने बारेमा विस्तारमा जानुहोस्।
 
-![LLMOps कार्यप्रवाह](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.ne.png)
+![LLMOps कार्यप्रवाह](../../../translated_images/ne/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 यो अलिकति जटिल देखिन सक्छ, पहिले तीन ठूला चरणहरूमा ध्यान केन्द्रित गरौं।
 
@@ -74,11 +65,11 @@ LLM हरू कृत्रिम बुद्धिमत्ताको न�
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) ले तपाईंलाई [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) प्रयोग गर्न अनुमति दिन्छ। AI Studio एउटा वेब पोर्टल हो जसले तपाईंलाई मोडेलहरू, नमूनाहरू र उपकरणहरू अन्वेषण गर्न अनुमति दिन्छ। तपाईंका स्रोतहरू व्यवस्थापन गर्ने, UI विकास प्रवाहहरू र SDK/CLI विकल्पहरू कोड-प्रथम विकासका लागि।
 
-![Azure AI सम्भावनाहरू](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.ne.png)
+![Azure AI सम्भावनाहरू](../../../translated_images/ne/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI ले तपाईंलाई विभिन्न स्रोतहरू प्रयोग गर्न अनुमति दिन्छ, तपाईंका अपरेसनहरू, सेवाहरू, परियोजनाहरू, भेक्टर खोज र डाटाबेस आवश्यकताहरू व्यवस्थापन गर्न।
 
-![Azure AI सँग LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.ne.png)
+![Azure AI सँग LLMOps](../../../translated_images/ne/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Proof-of-Concept(POC) देखि ठूलो स्केल अनुप्रयोगहरू सम्म PromptFlow सँग निर्माण गर्नुहोस्:
 
@@ -86,7 +77,7 @@ Proof-of-Concept(POC) देखि ठूलो स्केल अनुप्�
 - सजिलैसँग गुणस्तरीय AI का लागि तपाईंका अनुप्रयोगहरू परीक्षण र फाइन-ट्यून गर्नुहोस्।
 - Azure AI Studio प्रयोग गरेर क्लाउडसँग एकीकृत र पुनरावृत्ति गर्नुहोस्, छिटो एकीकरणका लागि पुश र परिनियोजन गर्नुहोस्।
 
-![PromptFlow सँग LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.ne.png)
+![PromptFlow सँग LLMOps](../../../translated_images/ne/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## उत्कृष्ट! तपाईंको सिकाइ जारी राख्नुहोस्!
 

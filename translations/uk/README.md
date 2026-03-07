@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "12477b7fa0b2fcfa2aafba13be6a1bb4",
-  "translation_date": "2025-12-19T17:43:02+00:00",
-  "source_file": "README.md",
-  "language_code": "uk"
-}
--->
-![Generative AI For Beginners](../../translated_images/repo-thumbnailv4-fixed.11f1ce6a85d01461c33c11943bb61f2b6d6dcce3a3b25cd27e627031f41f8e00.uk.png)
+![Generative AI For Beginners](../../translated_images/uk/repo-thumbnailv4-fixed.11f1ce6a85d01461.webp)
 
-### 21 уроків, які навчають всьому, що потрібно знати, щоб почати створювати додатки з генеративним ШІ
+### 21 уроків, що навчають всьому необхідному для початку створення застосунків генеративного ШІ
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Generative-AI-For-Beginners.svg)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -23,36 +14,56 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-### 🌐 Підтримка кількох мов
+### 🌐 Багатомовна підтримка
 
-#### Підтримується через GitHub Action (автоматично та завжди актуально)
+#### Підтримується через GitHub Action (Автоматично та завжди оновлено)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](./README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](./README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **Віддаєте перевагу клонуванню локально?**
+>
+> Цей репозиторій включає понад 50 мовних перекладів, що значно збільшує розмір завантаження. Щоб клонувати без перекладів, використовуйте sparse checkout:
+>
+> **Bash / macOS / Linux:**
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/microsoft/generative-ai-for-beginners.git
+> cd generative-ai-for-beginners
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+>
+> **CMD (Windows):**
+> ```cmd
+> git clone --filter=blob:none --sparse https://github.com/microsoft/generative-ai-for-beginners.git
+> cd generative-ai-for-beginners
+> git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
+> ```
+>
+> Це дасть вам усе необхідне для проходження курсу з набагато швидшим завантаженням.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 # Генеративний ШІ для початківців (Версія 3) - Курс
 
-Вивчайте основи створення додатків з генеративним ШІ за допомогою нашого комплексного курсу з 21 уроку від Microsoft Cloud Advocates.
+Вивчайте основи створення застосунків генеративного ШІ за допомогою нашого комплексного курсу з 21 уроку від Microsoft Cloud Advocates.
 
 ## 🌱 Початок роботи
 
-Цей курс містить 21 урок. Кожен урок охоплює власну тему, тож починайте з будь-якого, який вам подобається!
+Цей курс має 21 урок. Кожен урок охоплює власну тему, тож починайте звідки вам зручно!
 
-Уроки позначені як "Learn" — уроки, що пояснюють концепцію генеративного ШІ, або "Build" — уроки, які пояснюють концепцію та надають приклади коду на **Python** та **TypeScript**, коли це можливо.
+Уроки позначені як "Learn" – уроки, що пояснюють концепції генеративного ШІ, або "Build" – уроки з поясненням концепції та прикладами коду на **Python** та **TypeScript**, коли це можливо.
 
-Для розробників .NET перегляньте [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)!
+Для розробників .NET перевірте [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)!
 
 Кожен урок також містить розділ "Keep Learning" з додатковими навчальними матеріалами.
 
 ## Що вам потрібно
-### Щоб запускати код цього курсу, ви можете використовувати: 
+### Щоб запускати код курсу, ви можете використовувати: 
  - [Azure OpenAI Service](https://aka.ms/genai-beginners/azure-open-ai?WT.mc_id=academic-105485-koreyst) - **Уроки:** "aoai-assignment"
  - [GitHub Marketplace Model Catalog](https://aka.ms/genai-beginners/gh-models?WT.mc_id=academic-105485-koreyst) - **Уроки:** "githubmodels"
  - [OpenAI API](https://aka.ms/genai-beginners/open-ai?WT.mc_id=academic-105485-koreyst) - **Уроки:** "oai-assignment" 
    
-- Базові знання Python або TypeScript будуть корисними - \*Для абсолютних початківців перегляньте ці курси [Python](https://aka.ms/genai-beginners/python?WT.mc_id=academic-105485-koreyst) та [TypeScript](https://aka.ms/genai-beginners/typescript?WT.mc_id=academic-105485-koreyst)
-- Обліковий запис GitHub, щоб [форкнути цей репозиторій повністю](https://aka.ms/genai-beginners/github?WT.mc_id=academic-105485-koreyst) на свій власний акаунт GitHub
+- Базові знання Python або TypeScript будуть корисними - \*Для абсолютних початківців дивіться ці курси [Python](https://aka.ms/genai-beginners/python?WT.mc_id=academic-105485-koreyst) та [TypeScript](https://aka.ms/genai-beginners/typescript?WT.mc_id=academic-105485-koreyst)
+- Обліковий запис GitHub, щоб [форкнути цей репозиторій](https://aka.ms/genai-beginners/github?WT.mc_id=academic-105485-koreyst) до власного облікового запису GitHub
 
 Ми створили урок **[Course Setup](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst)**, щоб допомогти вам налаштувати середовище розробки.
 
@@ -60,71 +71,71 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🧠 Готові до розгортання?
 
-Якщо ви шукаєте більш просунуті приклади коду, перегляньте нашу [колекцію прикладів коду генеративного ШІ](https://aka.ms/genai-beg-code?WT.mc_id=academic-105485-koreyst) на **Python** та **TypeScript**.
+Якщо ви шукаєте більш просунуті приклади коду, ознайомтеся з нашою [колекцією прикладів коду генеративного ШІ](https://aka.ms/genai-beg-code?WT.mc_id=academic-105485-koreyst) як на **Python**, так і на **TypeScript**.
 
 ## 🗣️ Познайомтесь з іншими учнями, отримайте підтримку
 
-Приєднуйтесь до нашого [офіційного Discord-сервера Azure AI Foundry](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst), щоб познайомитись і поспілкуватись з іншими учнями цього курсу та отримати підтримку.
+Приєднуйтесь до нашого [офіційного сервера Azure AI Foundry Discord](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst), щоб познайомитися та налагодити зв’язки з іншими учнями, що проходять цей курс, та отримати підтримку.
 
-Задавайте питання або діліться відгуками про продукт у нашому [Azure AI Foundry Developer Forum](https://aka.ms/azureaifoundry/forum) на Github.
+Задавайте питання або діліться відгуками щодо продукту на нашому [форумі розробників Azure AI Foundry](https://aka.ms/azureaifoundry/forum) на GitHub.
 
 ## 🚀 Створюєте стартап?
 
-Відвідайте [Microsoft for Startups](https://www.microsoft.com/startups), щоб дізнатись, як почати будувати з кредитами Azure вже сьогодні.
+Відвідайте [Microsoft for Startups](https://www.microsoft.com/startups), щоб дізнатися, як почати розробку з кредитами Azure вже сьогодні.
 
-## 🙏 Хочете допомогти?
+## 🙏 Хотіли б допомогти?
 
-Є пропозиції або знайшли помилки у написанні чи коді? [Створіть issue](https://github.com/microsoft/generative-ai-for-beginners/issues?WT.mc_id=academic-105485-koreyst) або [створіть pull request](https://github.com/microsoft/generative-ai-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
+Є пропозиції або знайшли помилки у коді чи орфографії? [Відкрийте issue](https://github.com/microsoft/generative-ai-for-beginners/issues?WT.mc_id=academic-105485-koreyst) або [створіть pull request](https://github.com/microsoft/generative-ai-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
 
-## 📂 Кожен урок включає:
+## 📂 Кожен урок містить:
 
 - Коротке відео-вступ до теми
-- Письмовий урок у README
-- Приклади коду на Python та TypeScript, що підтримують Azure OpenAI та OpenAI API
-- Посилання на додаткові ресурси для подальшого навчання
+- Писемний урок у файлі README
+- Приклади коду Python та TypeScript, що підтримують Azure OpenAI та OpenAI API
+- Посилання на додаткові ресурси для продовження навчання
 
 ## 🗃️ Уроки
 
-| #   | **Посилання на урок**                                                                                                                        | **Опис**                                                                                      | **Відео**                                                                   | **Додаткове навчання**                                                         |
+| #   | **Посилання на урок**                                                                                                                         | **Опис**                                                                                      | **Відео**                                                                   | **Додаткове навчання**                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 00  | [Налаштування курсу](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst)                                                           | **Вивчіть:** Як налаштувати середовище розробки                                              | Відео скоро з’явиться                                                        | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 01  | [Вступ до генеративного ШІ та великих мовних моделей (LLMs)](./01-introduction-to-genai/README.md?WT.mc_id=academic-105485-koreyst)            | **Вивчіть:** Розуміння, що таке генеративний ШІ та як працюють великі мовні моделі (LLMs).    | [Відео](https://aka.ms/gen-ai-lesson-1-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 02  | [Дослідження та порівняння різних великих мовних моделей](./02-exploring-and-comparing-different-llms/README.md?WT.mc_id=academic-105485-koreyst) | **Вивчіть:** Як обрати правильну модель для вашого випадку використання                      | [Відео](https://aka.ms/gen-ai-lesson2-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 03  | [Відповідальне використання генеративного ШІ](./03-using-generative-ai-responsibly/README.md?WT.mc_id=academic-105485-koreyst)                 | **Вивчіть:** Як відповідально створювати додатки з генеративним ШІ                           | [Відео](https://aka.ms/gen-ai-lesson3-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 04  | [Основи інженерії підказок (Prompt Engineering)](./04-prompt-engineering-fundamentals/README.md?WT.mc_id=academic-105485-koreyst)               | **Вивчіть:** Практичні найкращі практики інженерії підказок                                 | [Відео](https://aka.ms/gen-ai-lesson4-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 05  | [Створення розширених підказок](./05-advanced-prompts/README.md?WT.mc_id=academic-105485-koreyst)                                                | **Вивчіть:** Як застосовувати техніки інженерії підказок для покращення результатів ваших підказок. | [Відео](https://aka.ms/gen-ai-lesson5-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 06  | [Створення додатків для генерації тексту](./06-text-generation-apps/README.md?WT.mc_id=academic-105485-koreyst)                                | **Створіть:** Додаток для генерації тексту з використанням Azure OpenAI / OpenAI API              | [Відео](https://aka.ms/gen-ai-lesson6-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 07  | [Створення чат-додатків](./07-building-chat-applications/README.md?WT.mc_id=academic-105485-koreyst)                                             | **Створіть:** Техніки ефективного створення та інтеграції чат-додатків.                           | [Відео](https://aka.ms/gen-ai-lessons7-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 08  | [Створення пошукових додатків з векторними базами даних](./08-building-search-applications/README.md?WT.mc_id=academic-105485-koreyst)            | **Створіть:** Пошуковий додаток, який використовує Embeddings для пошуку даних.                   | [Відео](https://aka.ms/gen-ai-lesson8-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 09  | [Створення додатків для генерації зображень](./09-building-image-applications/README.md?WT.mc_id=academic-105485-koreyst)                        | **Створіть:** Додаток для генерації зображень                                                  | [Відео](https://aka.ms/gen-ai-lesson9-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 10  | [Створення AI-додатків з низьким кодом](./10-building-low-code-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                       | **Створіть:** Генеративний AI-додаток з використанням інструментів Low Code                       | [Відео](https://aka.ms/gen-ai-lesson10-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 11  | [Інтеграція зовнішніх додатків з викликом функцій](./11-integrating-with-function-calling/README.md?WT.mc_id=academic-105485-koreyst)             | **Створіть:** Що таке виклик функцій і як його використовувати у додатках                        | [Відео](https://aka.ms/gen-ai-lesson11-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 12  | [Проєктування UX для AI-додатків](./12-designing-ux-for-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                               | **Вивчіть:** Як застосовувати принципи UX-дизайну при розробці генеративних AI-додатків          | [Відео](https://aka.ms/gen-ai-lesson12-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 13  | [Захист ваших генеративних AI-додатків](./13-securing-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                                 | **Вивчіть:** Загрози та ризики для AI-систем і методи їх захисту                                 | [Відео](https://aka.ms/gen-ai-lesson13-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 14  | [Життєвий цикл генеративного AI-додатку](./14-the-generative-ai-application-lifecycle/README.md?WT.mc_id=academic-105485-koreyst)                 | **Вивчіть:** Інструменти та метрики для управління життєвим циклом LLM та LLMOps                 | [Відео](https://aka.ms/gen-ai-lesson14-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 15  | [Retrieval Augmented Generation (RAG) та векторні бази даних](./15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-koreyst)            | **Створіть:** Додаток з використанням RAG Framework для отримання embeddings з векторних баз даних | [Відео](https://aka.ms/gen-ai-lesson15-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 16  | [Відкриті моделі та Hugging Face](./16-open-source-models/README.md?WT.mc_id=academic-105485-koreyst)                                            | **Створіть:** Додаток з використанням відкритих моделей, доступних на Hugging Face               | [Відео](https://aka.ms/gen-ai-lesson16-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 17  | [AI-агенти](./17-ai-agents/README.md?WT.mc_id=academic-105485-koreyst)                                                                           | **Створіть:** Додаток з використанням AI Agent Framework                                        | [Відео](https://aka.ms/gen-ai-lesson17-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 18  | [Тонке налаштування LLM](./18-fine-tuning/README.md?WT.mc_id=academic-105485-koreyst)                                                           | **Вивчіть:** Що, чому і як тонко налаштовувати LLM                                             | [Відео](https://aka.ms/gen-ai-lesson18-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 19  | [Створення з SLM](./19-slm/README.md?WT.mc_id=academic-105485-koreyst)                                                                          | **Вивчіть:** Переваги створення з Малими Мовними Моделями                                      | Відео скоро | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 20  | [Створення з моделями Mistral](./20-mistral/README.md?WT.mc_id=academic-105485-koreyst)                                                         | **Вивчіть:** Особливості та відмінності моделей сімейства Mistral                              | Відео скоро | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
-| 21  | [Створення з моделями Meta](./21-meta/README.md?WT.mc_id=academic-105485-koreyst)                                                               | **Вивчіть:** Особливості та відмінності моделей сімейства Meta                                | Відео скоро | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 00  | [Course Setup](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst)                                                                  | **Learn:** Як налаштувати ваше середовище розробки                                           | Відео незабаром                                                             | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 01  | [Вступ до генеративного ШІ та LLM](./01-introduction-to-genai/README.md?WT.mc_id=academic-105485-koreyst)                                      | **Learn:** Розуміння, що таке генеративний ШІ та як працюють великі мовні моделі (LLM)        | [Відео](https://aka.ms/gen-ai-lesson-1-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 02  | [Дослідження та порівняння різних LLM](./02-exploring-and-comparing-different-llms/README.md?WT.mc_id=academic-105485-koreyst)                 | **Learn:** Як обрати правильну модель для вашого випадку використання                        | [Відео](https://aka.ms/gen-ai-lesson2-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 03  | [Відповідальне використання генеративного ШІ](./03-using-generative-ai-responsibly/README.md?WT.mc_id=academic-105485-koreyst)                 | **Learn:** Як відповідально створювати генеративні ШІ застосунки                             | [Відео](https://aka.ms/gen-ai-lesson3-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 04  | [Основи розуміння інженерії запитів](./04-prompt-engineering-fundamentals/README.md?WT.mc_id=academic-105485-koreyst)             | **Вивчайте:** Найкращі практики інженерії запитів на практиці                                           | [Відео](https://aka.ms/gen-ai-lesson4-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 05  | [Створення розширених запитів](./05-advanced-prompts/README.md?WT.mc_id=academic-105485-koreyst)                                                | **Вивчайте:** Як застосовувати техніки інженерії запитів для покращення результату ваших запитів. | [Відео](https://aka.ms/gen-ai-lesson5-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 06  | [Створення додатків для генерації тексту](./06-text-generation-apps/README.md?WT.mc_id=academic-105485-koreyst)                                | **Створіть:** Додаток для генерації тексту з використанням Azure OpenAI / OpenAI API                                | [Відео](https://aka.ms/gen-ai-lesson6-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 07  | [Створення чат-додатків](./07-building-chat-applications/README.md?WT.mc_id=academic-105485-koreyst)                                     | **Створіть:** Техніки ефективного створення та інтеграції чат-додатків.               | [Відео](https://aka.ms/gen-ai-lessons7-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 08  | [Створення пошукових додатків із векторними базами даних](./08-building-search-applications/README.md?WT.mc_id=academic-105485-koreyst)                        | **Створіть:** Пошуковий додаток, який використовує Embeddings для пошуку даних.                        | [Відео](https://aka.ms/gen-ai-lesson8-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 09  | [Створення додатків для генерації зображень](./09-building-image-applications/README.md?WT.mc_id=academic-105485-koreyst)                        | **Створіть:** Додаток для генерації зображень                                                       | [Відео](https://aka.ms/gen-ai-lesson9-gh?WT.mc_id=academic-105485-koreyst)  | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 10  | [Створення додатків із низьким кодом AI](./10-building-low-code-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                       | **Створіть:** Генеративний AI-додаток з використанням інструментів Low Code                                     | [Відео](https://aka.ms/gen-ai-lesson10-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 11  | [Інтеграція зовнішніх додатків із викликом функцій](./11-integrating-with-function-calling/README.md?WT.mc_id=academic-105485-koreyst) | **Створіть:** Що таке виклик функцій і які випадки застосування для додатків                          | [Відео](https://aka.ms/gen-ai-lesson11-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 12  | [Проєктування UX для AI-додатків](./12-designing-ux-for-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                         | **Вивчайте:** Як застосовувати принципи UX-дизайну при розробці генеративних AI-додатків         | [Відео](https://aka.ms/gen-ai-lesson12-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 13  | [Захист ваших генеративних AI-додатків](./13-securing-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                         | **Вивчайте:** Загрози та ризики для AI-систем і способи їхнього захисту             | [Відео](https://aka.ms/gen-ai-lesson13-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 14  | [Життєвий цикл генеративного AI-додатку](./14-the-generative-ai-application-lifecycle/README.md?WT.mc_id=academic-105485-koreyst)           | **Вивчайте:** Інструменти і метрики для керування життєвим циклом LLM та LLMOps                         | [Відео](https://aka.ms/gen-ai-lesson14-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 15  | [Retrieval Augmented Generation (RAG) та векторні бази даних](./15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-koreyst)        | **Створіть:** Додаток, що використовує RAG Framework для отримання embeddings з векторних баз даних  | [Відео](https://aka.ms/gen-ai-lesson15-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 16  | [Відкриті моделі та Hugging Face](./16-open-source-models/README.md?WT.mc_id=academic-105485-koreyst)                                    | **Створіть:** Додаток, що використовує відкриті моделі, доступні на Hugging Face                    | [Відео](https://aka.ms/gen-ai-lesson16-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 17  | [AI агенти](./17-ai-agents/README.md?WT.mc_id=academic-105485-koreyst)                                                                       | **Створіть:** Додаток, що використовує AI Agent Framework                                           | [Відео](https://aka.ms/gen-ai-lesson17-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 18  | [Тонке налаштування LLM](./18-fine-tuning/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **Вивчайте:** Що таке, навіщо і як здійснюється тонке налаштування LLM                                            | [Відео](https://aka.ms/gen-ai-lesson18-gh?WT.mc_id=academic-105485-koreyst) | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 19  | [Створення з SLM](./19-slm/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **Вивчайте:** Переваги створення з Малими Мовними Моделями                                            | Відео незабаром | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 20  | [Створення з моделями Mistral](./20-mistral/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **Вивчайте:** Особливості та відмінності моделей сімейства Mistral                                           | Відео незабаром | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 21  | [Створення з моделями Meta](./21-meta/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **Вивчайте:** Особливості та відмінності моделей сімейства Meta                                           | Відео незабаром | [Дізнатись більше](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
 
 ### 🌟 Особлива подяка
 
-Особлива подяка [**Джону Азізу**](https://www.linkedin.com/in/john0isaac/) за створення всіх GitHub Actions та робочих процесів
+Особлива подяка [**John Aziz**](https://www.linkedin.com/in/john0isaac/) за створення всіх GitHub Actions та робочих процесів
 
-[**Бернхарду Меркле**](https://www.linkedin.com/in/bernhard-merkle-738b73/) за ключовий внесок у кожен урок для покращення досвіду навчання та роботи з кодом.
+[**Bernhard Merkle**](https://www.linkedin.com/in/bernhard-merkle-738b73/) за ключовий внесок у кожен урок для поліпшення досвіду навчання і роботи з кодом. 
 
 ## 🎒 Інші курси
 
-Наша команда створює й інші курси! Перегляньте:
+Наша команда також створює інші курси! Перегляньте:
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### LangChain
 [![LangChain4j для початківців](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
 [![LangChain.js для початківців](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
-
+[![LangChain для початківців](https://img.shields.io/badge/LangChain%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://github.com/microsoft/langchain-for-beginners?WT.mc_id=m365-94501-dwahlin)
 ---
 
 ### Azure / Edge / MCP / Агенти
@@ -144,8 +155,8 @@ CO_OP_TRANSLATOR_METADATA:
 ---
  
 ### Основне навчання
-[![ML для початківців](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
-[![Data Science для початківців](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
 [![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
 [![Cybersecurity for Beginners](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
 [![Web Dev for Beginners](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
@@ -162,7 +173,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## Отримання допомоги
 
-Якщо ви застрягли або маєте питання щодо створення AI-додатків. Приєднуйтесь до інших учнів та досвідчених розробників у обговореннях MCP. Це підтримуюча спільнота, де вітаються питання і знання вільно обмінюються.
+Якщо ви застрягли або маєте питання щодо створення AI-додатків. Приєднуйтесь до інших учнів та досвідчених розробників у обговореннях про MCP. Це дружня спільнота, де вітаються питання та вільно діляться знаннями.
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
@@ -174,5 +185,5 @@ CO_OP_TRANSLATOR_METADATA:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Відмова від відповідальності**:
-Цей документ було перекладено за допомогою сервісу автоматичного перекладу [Co-op Translator](https://github.com/Azure/co-op-translator). Хоча ми прагнемо до точності, будь ласка, майте на увазі, що автоматичні переклади можуть містити помилки або неточності. Оригінальний документ рідною мовою слід вважати авторитетним джерелом. Для критично важливої інформації рекомендується звертатися до професійного людського перекладу. Ми не несемо відповідальності за будь-які непорозуміння або неправильні тлумачення, що виникли внаслідок використання цього перекладу.
+Цей документ було перекладено за допомогою сервісу автоматичного перекладу [Co-op Translator](https://github.com/Azure/co-op-translator). Хоча ми прагнемо до точності, будь ласка, зверніть увагу, що автоматичні переклади можуть містити помилки або неточності. Оригінальний документ рідною мовою слід вважати авторитетним джерелом. Для критично важливої інформації рекомендується звертатися до професійного перекладача. Ми не несемо відповідальності за будь-які непорозуміння або неправильне тлумачення, що виникли внаслідок використання цього перекладу.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

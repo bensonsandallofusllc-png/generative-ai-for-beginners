@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T12:31:34+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "fr"
-}
--->
-[![Modèles Open Source](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.fr.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Modèles Open Source](../../../translated_images/fr/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## Introduction
 
@@ -41,12 +32,12 @@ Pour cette leçon, nous nous référerons aux modèles comme "modèles open" car
 
 **Coût** - Le coût par token pour utiliser et déployer ces modèles est inférieur à celui des modèles propriétaires. Lors de la création d'applications d'IA générative, il est important d'évaluer le rapport performance/prix en travaillant avec ces modèles pour votre cas d'usage.
 
-![Coût du modèle](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.fr.png)
+![Coût du modèle](../../../translated_images/fr/model-price.3f5a3e4d32ae00b4.webp)
 Source : Artificial Analysis
 
 **Flexibilité** - Travailler avec des modèles open permet d'être flexible en termes d'utilisation de différents modèles ou de leur combinaison. Un exemple est les [Assistants HuggingChat](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst) où un utilisateur peut sélectionner le modèle utilisé directement dans l'interface utilisateur :
 
-![Choisir un modèle](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.fr.png)
+![Choisir un modèle](../../../translated_images/fr/choose-model.f095d15bbac92214.webp)
 
 ## Explorer différents modèles open
 
@@ -74,7 +65,7 @@ Il n'y a pas de réponse unique pour choisir un modèle open. Un bon point de d�
 
 Pour comparer les LLM entre différents types, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) est une autre excellente ressource :
 
-![Qualité du modèle](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.fr.png)
+![Qualité du modèle](../../../translated_images/fr/model-quality.aaae1c22e00f7ee1.webp)
 Source : Artificial Analysis
 
 Si vous travaillez sur un cas d'usage spécifique, rechercher des versions affinées axées sur le même domaine peut être efficace. Expérimenter avec plusieurs modèles open pour voir comment ils répondent à vos attentes et à celles de vos utilisateurs est une autre bonne pratique.

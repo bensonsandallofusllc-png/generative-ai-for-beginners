@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a2faf8ee7a0b851efa647a19788f1e5b",
-  "translation_date": "2025-12-19T19:10:23+00:00",
-  "source_file": "13-securing-ai-applications/README.md",
-  "language_code": "ml"
-}
--->
 # നിങ്ങളുടെ ജനറേറ്റീവ് AI ആപ്ലിക്കേഷനുകൾ സുരക്ഷിതമാക്കൽ
 
-[![നിങ്ങളുടെ ജനറേറ്റീവ് AI ആപ്ലിക്കേഷനുകൾ സുരക്ഷിതമാക്കൽ](../../../translated_images/13-lesson-banner.14103e36b4bbf17398b64ed2b0531f6f2c6549e7f7342f797c40bcae5a11862e.ml.png)](https://youtu.be/m0vXwsx5DNg?si=TYkr936GMKz15K0L)
+[![നിങ്ങളുടെ ജനറേറ്റീവ് AI ആപ്ലിക്കേഷനുകൾ സുരക്ഷിതമാക്കൽ](../../../translated_images/ml/13-lesson-banner.14103e36b4bbf173.webp)](https://youtu.be/m0vXwsx5DNg?si=TYkr936GMKz15K0L)
 
 ## പരിചയം
 

@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T14:22:32+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "pa"
-}
--->
-[![ਫੰਕਸ਼ਨ ਕਾਲਿੰਗ ਨਾਲ ਇੰਟੀਗ੍ਰੇਟ ਕਰਨਾ](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.pa.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![ਫੰਕਸ਼ਨ ਕਾਲਿੰਗ ਨਾਲ ਇੰਟੀਗ੍ਰੇਟ ਕਰਨਾ](../../../translated_images/pa/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # ਜਨਰੇਟਿਵ ਏਆਈ ਐਪਲੀਕੇਸ਼ਨ ਲਾਈਫਸਾਈਕਲ
 
@@ -30,7 +21,7 @@ LLM ਨਵਾਂ ਸੰਦ ਹੈ ਕ੍ਰਿਤ੍ਰਿਮ ਬੁੱਧੀ �
 
 ਇਸ ਨਾਲ, ਸਾਨੂੰ ਇਸ ਸੰਦ ਨੂੰ ਗਤੀਸ਼ੀਲ ਤਰੀਕੇ ਨਾਲ, ਸਹੀ ਪ੍ਰੇਰਣਾਵਾਂ ਨਾਲ ਅਨੁਕੂਲਿਤ ਕਰਨ ਲਈ ਇੱਕ ਨਵਾਂ ਪੈਰਾਡਾਈਮ ਚਾਹੀਦਾ ਹੈ। ਅਸੀਂ ਪੁਰਾਣੀਆਂ ਏਆਈ ਐਪਸ ਨੂੰ "ML ਐਪਸ" ਅਤੇ ਨਵੀਆਂ ਏਆਈ ਐਪਸ ਨੂੰ "GenAI ਐਪਸ" ਜਾਂ ਸਿਰਫ "AI ਐਪਸ" ਵਜੋਂ ਵਰਗੀਕ੍ਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ, ਜੋ ਉਸ ਸਮੇਂ ਦੀ ਪ੍ਰਮੁੱਖ ਤਕਨਾਲੋਜੀ ਅਤੇ ਤਕਨੀਕਾਂ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ। ਇਹ ਸਾਡੇ ਕਥਾ ਨੂੰ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਬਦਲਦਾ ਹੈ, ਹੇਠਾਂ ਦਿੱਤੇ ਤੁਲਨਾਤਮਕ ਵੇਖੋ।
 
-![LLMOps vs. MLOps ਤੁਲਨਾ](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.pa.png)
+![LLMOps vs. MLOps ਤੁਲਨਾ](../../../translated_images/pa/01-llmops-shift.29bc933cb3bb0080.webp)
 
 ਧਿਆਨ ਦਿਓ ਕਿ LLMOps ਵਿੱਚ, ਅਸੀਂ ਐਪ ਡਿਵੈਲਪਰਾਂ 'ਤੇ ਜ਼ਿਆਦਾ ਧਿਆਨ ਕੇਂਦਰਿਤ ਕਰਦੇ ਹਾਂ, ਇੰਟੀਗ੍ਰੇਸ਼ਨਾਂ ਨੂੰ ਇੱਕ ਮੁੱਖ ਬਿੰਦੂ ਵਜੋਂ ਵਰਤਦੇ ਹਾਂ, "ਮਾਡਲ-ਐਜ਼-ਏ-ਸਰਵਿਸ" ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਾਂ ਅਤੇ ਮੈਟ੍ਰਿਕਸ ਲਈ ਹੇਠਾਂ ਦਿੱਤੇ ਬਿੰਦੂਆਂ 'ਤੇ ਸੋਚਦੇ ਹਾਂ।
 
@@ -44,7 +35,7 @@ LLM ਨਵਾਂ ਸੰਦ ਹੈ ਕ੍ਰਿਤ੍ਰਿਮ ਬੁੱਧੀ �
 
 ਸਭ ਤੋਂ ਪਹਿਲਾਂ, ਲਾਈਫਸਾਈਕਲ ਅਤੇ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸਮਝਣ ਲਈ, ਅਗਲੇ ਇਨਫੋਗ੍ਰਾਫਿਕ ਨੂੰ ਨੋਟ ਕਰੋ।
 
-![LLMOps ਇਨਫੋਗ੍ਰਾਫਿਕ](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.pa.png)
+![LLMOps ਇਨਫੋਗ੍ਰਾਫਿਕ](../../../translated_images/pa/02-llmops.70a942ead05a7645.webp)
 
 ਜਿਵੇਂ ਤੁਸੀਂ ਨੋਟ ਕਰ ਸਕਦੇ ਹੋ, ਇਹ MLOps ਦੇ ਆਮ ਲਾਈਫਸਾਈਕਲ ਤੋਂ ਵੱਖਰਾ ਹੈ। LLMs ਦੇ ਬਹੁਤ ਸਾਰੇ ਨਵੇਂ ਲੋੜਾਂ ਹਨ, ਜਿਵੇਂ ਕਿ ਪ੍ਰਾਂਪਟਿੰਗ, ਗੁਣਵੱਤਾ ਸੁਧਾਰਨ ਲਈ ਵੱਖ-ਵੱਖ ਤਕਨੀਕਾਂ (ਫਾਈਨ-ਟਿਊਨਿੰਗ, RAG, ਮੈਟਾ-ਪ੍ਰਾਂਪਟਸ), ਜ਼ਿੰਮੇਵਾਰ ਏਆਈ ਨਾਲ ਵੱਖ-ਵੱਖ ਮੁਲਾਂਕਣ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀ, ਆਖ਼ਿਰਕਾਰ ਨਵੇਂ ਮੁਲਾਂਕਣ ਮੈਟ੍ਰਿਕਸ (ਗੁਣਵੱਤਾ, ਨੁਕਸਾਨ, ਇਮਾਨਦਾਰੀ, ਲਾਗਤ ਅਤੇ ਲੇਟੈਂਸੀ)।
 
@@ -54,7 +45,7 @@ LLM ਨਵਾਂ ਸੰਦ ਹੈ ਕ੍ਰਿਤ੍ਰਿਮ ਬੁੱਧੀ �
 
 ਅਸੀਂ ਉਹਨਾਂ ਕਦਮਾਂ ਨੂੰ ਕਿਵੇਂ ਖੋਜ ਸਕਦੇ ਹਾਂ? ਆਓ ਵੇਰਵੇ ਵਿੱਚ ਜਾਈਏ ਕਿ ਅਸੀਂ ਲਾਈਫਸਾਈਕਲ ਕਿਵੇਂ ਬਣਾ ਸਕਦੇ ਹਾਂ।
 
-![LLMOps ਵਰਕਫਲੋ](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.pa.png)
+![LLMOps ਵਰਕਫਲੋ](../../../translated_images/pa/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 ਇਹ ਕੁਝ ਜਟਿਲ ਲੱਗ ਸਕਦਾ ਹੈ, ਆਓ ਪਹਿਲਾਂ ਤਿੰਨ ਵੱਡੇ ਕਦਮਾਂ 'ਤੇ ਧਿਆਨ ਦਈਏ।
 
@@ -74,11 +65,11 @@ LLM ਨਵਾਂ ਸੰਦ ਹੈ ਕ੍ਰਿਤ੍ਰਿਮ ਬੁੱਧੀ �
 
 [Azure AI ਪਲੇਟਫਾਰਮ](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys), ਤੁਹਾਨੂੰ [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ। AI Studio ਇੱਕ ਵੈੱਬ ਪੋਰਟਲ ਹੈ ਜੋ ਤੁਹਾਨੂੰ ਮਾਡਲ, ਨਮੂਨੇ ਅਤੇ ਟੂਲ ਖੋਜਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ। ਆਪਣੇ ਸਰੋਤਾਂ, UI ਵਿਕਾਸ ਫਲੋਜ਼ ਅਤੇ ਕੋਡ-ਪਹਿਲਾ ਵਿਕਾਸ ਲਈ SDK/CLI ਵਿਕਲਪਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਦਾ ਹੈ।
 
-![Azure AI ਸੰਭਾਵਨਾਵਾਂ](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.pa.png)
+![Azure AI ਸੰਭਾਵਨਾਵਾਂ](../../../translated_images/pa/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI, ਤੁਹਾਨੂੰ ਕਈ ਸਰੋਤਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ, ਆਪਣੇ ਓਪਰੇਸ਼ਨਾਂ, ਸੇਵਾਵਾਂ, ਪ੍ਰੋਜੈਕਟਾਂ, ਵੈਕਟਰ ਖੋਜ ਅਤੇ ਡੇਟਾਬੇਸ ਦੀਆਂ ਜ਼ਰੂਰਤਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ।
 
-![Azure AI ਨਾਲ LLMOps](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.pa.png)
+![Azure AI ਨਾਲ LLMOps](../../../translated_images/pa/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 ਪ੍ਰੂਫ-ਆਫ-ਕਾਂਸੈਪਟ(POC) ਤੋਂ ਵੱਡੇ ਪੱਧਰ ਦੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਤੱਕ PromptFlow ਨਾਲ ਬਣਾਓ:
 
@@ -86,7 +77,7 @@ Azure AI, ਤੁਹਾਨੂੰ ਕਈ ਸਰੋਤਾਂ ਦੀ ਵਰਤੋਂ
 - ਆਪਣੀਆਂ ਐਪਸ ਦੀ ਗੁਣਵੱਤਾ ਵਾਲੀ ਏਆਈ ਲਈ ਆਸਾਨੀ ਨਾਲ ਟੈਸਟ ਅਤੇ ਫਾਈਨ-ਟਿਊਨ ਕਰੋ।
 - ਤੇਜ਼ ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਲਈ ਕਲਾਉਡ ਨਾਲ ਇੰਟੀਗ੍ਰੇਟ ਅਤੇ ਦੁਹਰਾਓ, ਪੁਸ਼ ਅਤੇ ਤਾਇਨਾਤ ਕਰਨ ਲਈ Azure AI Studio ਦੀ ਵਰਤੋਂ ਕਰੋ।
 
-![PromptFlow ਨਾਲ LLMOps](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.pa.png)
+![PromptFlow ਨਾਲ LLMOps](../../../translated_images/pa/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## ਵਧੀਆ! ਆਪਣੀ ਸਿੱਖਿਆ ਜਾਰੀ ਰੱਖੋ!
 

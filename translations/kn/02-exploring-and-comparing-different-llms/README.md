@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6b7629b8ee4d7d874a27213e903d86a7",
-  "translation_date": "2025-12-19T19:37:07+00:00",
-  "source_file": "02-exploring-and-comparing-different-llms/README.md",
-  "language_code": "kn"
-}
--->
 # ವಿಭಿನ್ನ LLMಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು ಮತ್ತು ಹೋಲಿಕೆ ಮಾಡುವುದು
 
-[![ವಿಭಿನ್ನ LLMಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು ಮತ್ತು ಹೋಲಿಕೆ ಮಾಡುವುದು](../../../translated_images/02-lesson-banner.ef94c84979f97f60f07e27d905e708cbcbdf78707120553ccab27d91c947805b.kn.png)](https://youtu.be/KIRUeDKscfI?si=8BHX1zvwzQBn-PlK)
+[![ವಿಭಿನ್ನ LLMಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು ಮತ್ತು ಹೋಲಿಕೆ ಮಾಡುವುದು](../../../translated_images/kn/02-lesson-banner.ef94c84979f97f60.webp)](https://youtu.be/KIRUeDKscfI?si=8BHX1zvwzQBn-PlK)
 
 > _ಈ ಪಾಠದ ವೀಡಿಯೋವನ್ನು ನೋಡಲು ಮೇಲಿನ ಚಿತ್ರವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ_
 
@@ -59,13 +50,13 @@ LLMಗಳು ಅವುಗಳ ವಾಸ್ತುಶಿಲ್ಪ, ತರಬೇತ�
 - **ಅವು ಬಹಳ ದೊಡ್ಡ ಮಾದರಿಗಳು**, ಅತಿ ಆಳವಾದ ನ್ಯೂರಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದ್ದು, ಬಿಲಿಯನ್‌ಗಳ ಪರಿಮಾಣಗಳ ಮೇಲೆ ತರಬೇತಿಗೊಂಡಿವೆ.
 - **ಅವು ಸಾಮಾನ್ಯವಾಗಿ ಇತರ ಮಾದರಿಗಳ ‘ಫೌಂಡೇಶನ್’ ಆಗಿ ಸೇವೆ ನೀಡಲು ಉದ್ದೇಶಿಸಲ್ಪಟ್ಟಿವೆ**, ಅಂದರೆ ಇತರ ಮಾದರಿಗಳನ್ನು ನಿರ್ಮಿಸಲು ಪ್ರಾರಂಭಿಕ ಬಿಂದುವಾಗಿ ಬಳಸಬಹುದು, ಅದನ್ನು ಫೈನ್-ಟ್ಯೂನಿಂಗ್ ಮೂಲಕ ಮಾಡಬಹುದು.
 
-![ಫೌಂಡೇಶನ್ ಮಾದರಿಗಳು ಮತ್ತು LLMಗಳು](../../../translated_images/FoundationModel.e4859dbb7a825c94b284f17eae1c186aabc21d4d8644331f5b007d809cf8d0f2.kn.png)
+![ಫೌಂಡೇಶನ್ ಮಾದರಿಗಳು ಮತ್ತು LLMಗಳು](../../../translated_images/kn/FoundationModel.e4859dbb7a825c94.webp)
 
 ಚಿತ್ರ ಮೂಲ: [Essential Guide to Foundation Models and Large Language Models | by Babar M Bhatti | Medium](https://thebabar.medium.com/essential-guide-to-foundation-models-and-large-language-models-27dab58f7404)
 
 ಈ ಭೇದವನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಲು, ChatGPT ಅನ್ನು ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ. ChatGPT ಮೊದಲ ಆವೃತ್ತಿಯನ್ನು ನಿರ್ಮಿಸಲು, GPT-3.5 ಎಂಬ ಮಾದರಿ ಫೌಂಡೇಶನ್ ಮಾದರಿಯಾಗಿ ಸೇವೆ ನೀಡಿತು. ಇದರ ಅರ್ಥ OpenAI ಕೆಲವು ಚಾಟ್-ನಿರ್ದಿಷ್ಟ ಡೇಟಾವನ್ನು ಬಳಸಿಕೊಂಡು GPT-3.5 ನ ಫೈನ್-ಟ್ಯೂನ್ಡ್ ಆವೃತ್ತಿಯನ್ನು ರಚಿಸಿತು, ಇದು ಸಂಭಾಷಣಾ ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಉತ್ತಮ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ವಿಶೇಷಗೊಳಿಸಲ್ಪಟ್ಟಿತ್ತು, ಉದಾಹರಣೆಗೆ ಚಾಟ್‌ಬಾಟ್‌ಗಳು.
 
-![ಫೌಂಡೇಶನ್ ಮಾದರಿ](../../../translated_images/Multimodal.2c389c6439e0fc51b0b7b226d95d7d900d372ae66902d71b8ce5ec4951b8efbe.kn.png)
+![ಫೌಂಡೇಶನ್ ಮಾದರಿ](../../../translated_images/kn/Multimodal.2c389c6439e0fc51.webp)
 
 ಚಿತ್ರ ಮೂಲ: [2108.07258.pdf (arxiv.org)](https://arxiv.org/pdf/2108.07258.pdf?WT.mc_id=academic-105485-koreyst)
 
@@ -83,15 +74,15 @@ LLMಗಳನ್ನು ಅವು ಉತ್ಪಾದಿಸುವ ಔಟ್‌ಪ�
 
 ಎಂಬೆಡ್ಡಿಂಗ್‌ಗಳು ಪಠ್ಯವನ್ನು ಸಂಖ್ಯಾತ್ಮಕ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸುವ ಮಾದರಿಗಳ ಸಮೂಹ, ಇದನ್ನು ಎम्बೆಡ್ಡಿಂಗ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ, ಇದು ಇನ್‌ಪುಟ್ ಪಠ್ಯದ ಸಂಖ್ಯಾತ್ಮಕ ಪ್ರತಿನಿಧಾನ. ಎम्बೆಡ್ಡಿಂಗ್‌ಗಳು ಯಂತ್ರಗಳಿಗೆ ಪದಗಳು ಅಥವಾ ವಾಕ್ಯಗಳ ನಡುವಿನ ಸಂಬಂಧಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸುಲಭವಾಗಿಸುತ್ತವೆ ಮತ್ತು ಇತರ ಮಾದರಿಗಳ ಇನ್‌ಪುಟ್ ಆಗಿ ಬಳಸಬಹುದು, ಉದಾಹರಣೆಗೆ ವರ್ಗೀಕರಣ ಮಾದರಿಗಳು ಅಥವಾ ಸಂಖ್ಯಾತ್ಮಕ ಡೇಟಾದ ಮೇಲೆ ಉತ್ತಮ ಕಾರ್ಯಕ್ಷಮತೆಯ ಕ್ಲಸ್ಟರಿಂಗ್ ಮಾದರಿಗಳು. ಎम्बೆಡ್ಡಿಂಗ್ ಮಾದರಿಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಟ್ರಾನ್ಸ್‌ಫರ್ ಲರ್ನಿಂಗ್‌ಗೆ ಬಳಸಲಾಗುತ್ತದೆ, ಅಲ್ಲಿ ಒಂದು ಮಾದರಿಯನ್ನು ಹೆಚ್ಚಿನ ಡೇಟಾ ಇರುವ ಪರ್ಯಾಯ ಕಾರ್ಯಕ್ಕಾಗಿ ನಿರ್ಮಿಸಿ, ನಂತರ ಆ ಮಾದರಿಯ ತೂಕಗಳನ್ನು (ಎಂಬೆಡ್ಡಿಂಗ್‌ಗಳನ್ನು) ಇತರ ಡೌನ್‌ಸ್ಟ್ರೀಮ್ ಕಾರ್ಯಗಳಿಗೆ ಮರುಬಳಕೆ ಮಾಡಲಾಗುತ್ತದೆ. ಈ ವರ್ಗದ ಉದಾಹರಣೆ [OpenAI embeddings](https://platform.openai.com/docs/models/embeddings?WT.mc_id=academic-105485-koreyst).
 
-![ಎಂಬೆಡ್ಡಿಂಗ್](../../../translated_images/Embedding.c3708fe988ccf76073d348483dbb7569f622211104f073e22e43106075c04800.kn.png)
+![ಎಂಬೆಡ್ಡಿಂಗ್](../../../translated_images/kn/Embedding.c3708fe988ccf760.webp)
 
 ಚಿತ್ರ ರಚನೆ ಮಾದರಿಗಳು ಚಿತ್ರಗಳನ್ನು ರಚಿಸುವ ಮಾದರಿಗಳು. ಇವು ಸಾಮಾನ್ಯವಾಗಿ ಚಿತ್ರ ಸಂಪಾದನೆ, ಚಿತ್ರ ಸಂಶ್ಲೇಷಣೆ ಮತ್ತು ಚಿತ್ರ ಅನುವಾದಕ್ಕೆ ಬಳಸಲಾಗುತ್ತವೆ. ಚಿತ್ರ ರಚನೆ ಮಾದರಿಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ದೊಡ್ಡ ಚಿತ್ರ ಡೇಟಾಸೆಟ್‌ಗಳ ಮೇಲೆ ತರಬೇತಿಗೊಳಿಸಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ [LAION-5B](https://laion.ai/blog/laion-5b/?WT.mc_id=academic-105485-koreyst), ಮತ್ತು ಹೊಸ ಚಿತ್ರಗಳನ್ನು ರಚಿಸಲು ಅಥವಾ ಇನ್ಪೇಂಟಿಂಗ್, ಸೂಪರ್-ರೆಸಲ್ಯೂಶನ್ ಮತ್ತು ಬಣ್ಣೀಕರಣ ತಂತ್ರಗಳನ್ನು ಬಳಸಿ ಇತ್ತೀಚಿನ ಚಿತ್ರಗಳನ್ನು ಸಂಪಾದಿಸಲು ಬಳಸಬಹುದು. ಉದಾಹರಣೆಗಳು: [DALL-E-3](https://openai.com/dall-e-3?WT.mc_id=academic-105485-koreyst) ಮತ್ತು [Stable Diffusion ಮಾದರಿಗಳು](https://github.com/Stability-AI/StableDiffusion?WT.mc_id=academic-105485-koreyst).
 
-![ಚಿತ್ರ ರಚನೆ](../../../translated_images/Image.349c080266a763fd255b840a921cd8fc526ed78dc58708fa569ff1873d302345.kn.png)
+![ಚಿತ್ರ ರಚನೆ](../../../translated_images/kn/Image.349c080266a763fd.webp)
 
 ಪಠ್ಯ ಮತ್ತು ಕೋಡ್ ರಚನೆ ಮಾದರಿಗಳು ಪಠ್ಯ ಅಥವಾ ಕೋಡ್ ರಚಿಸುವ ಮಾದರಿಗಳು. ಇವು ಸಾಮಾನ್ಯವಾಗಿ ಪಠ್ಯ ಸಾರಾಂಶ, ಅನುವಾದ ಮತ್ತು ಪ್ರಶ್ನೋತ್ತರಕ್ಕೆ ಬಳಸಲಾಗುತ್ತವೆ. ಪಠ್ಯ ರಚನೆ ಮಾದರಿಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ದೊಡ್ಡ ಪಠ್ಯ ಡೇಟಾಸೆಟ್‌ಗಳ ಮೇಲೆ ತರಬೇತಿಗೊಳಿಸಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ [BookCorpus](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zhu_Aligning_Books_and_ICCV_2015_paper.html?WT.mc_id=academic-105485-koreyst), ಮತ್ತು ಹೊಸ ಪಠ್ಯವನ್ನು ರಚಿಸಲು ಅಥವಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಲು ಬಳಸಬಹುದು. ಕೋಡ್ ರಚನೆ ಮಾದರಿಗಳು, ಉದಾಹರಣೆಗೆ [CodeParrot](https://huggingface.co/codeparrot?WT.mc_id=academic-105485-koreyst), ಸಾಮಾನ್ಯವಾಗಿ GitHub ನಂತಹ ದೊಡ್ಡ ಕೋಡ್ ಡೇಟಾಸೆಟ್‌ಗಳ ಮೇಲೆ ತರಬೇತಿಗೊಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಹೊಸ ಕೋಡ್ ರಚಿಸಲು ಅಥವಾ ಇತ್ತೀಚಿನ ಕೋಡ್‌ನ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲು ಬಳಸಬಹುದು.
 
-![ಪಠ್ಯ ಮತ್ತು ಕೋಡ್ ರಚನೆ](../../../translated_images/Text.a8c0cf139e5cc2a0cd3edaba8d675103774e6ddcb3c9fc5a98bb17c9a450e31d.kn.png)
+![ಪಠ್ಯ ಮತ್ತು ಕೋಡ್ ರಚನೆ](../../../translated_images/kn/Text.a8c0cf139e5cc2a0.webp)
 
 ### ಎನ್‌ಕೋಡರ್-ಡಿಕೋಡರ್ ಮತ್ತು ಡಿಕೋಡರ್-ಮಾತ್ರ
 
@@ -122,23 +113,23 @@ LLMಗಳ ವಿಭಿನ್ನ ವಾಸ್ತುಶಿಲ್ಪಗಳ ಬಗ�
 
 - ಕ್ಯಾಟಲಾಗ್‌ನಲ್ಲಿ ಆಸಕ್ತಿಯ ಫೌಂಡೇಶನ್ ಮಾದರಿಯನ್ನು ಹುಡುಕುವುದು - ಸ್ವಂತ ಅಥವಾ ಮುಕ್ತ ಮೂಲವಾಗಿರಬಹುದು, ಕಾರ್ಯ, ಪರವಾನಗಿ ಅಥವಾ ಹೆಸರಿನ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಬಹುದು. ಹುಡುಕುವಿಕೆಯನ್ನು ಸುಧಾರಿಸಲು, ಮಾದರಿಗಳನ್ನು ಸಂಗ್ರಹಗಳಾಗಿ ಸಂಘಟಿಸಲಾಗಿದೆ, ಉದಾಹರಣೆಗೆ Azure OpenAI ಸಂಗ್ರಹ, Hugging Face ಸಂಗ್ರಹ ಮತ್ತು ಇನ್ನಷ್ಟು.
 
-![Model catalog](../../../translated_images/AzureAIStudioModelCatalog.3cf8a499aa8ba0314f2c73d4048b3225d324165f547525f5b7cfa5f6c9c68941.kn.png)
+![Model catalog](../../../translated_images/kn/AzureAIStudioModelCatalog.3cf8a499aa8ba031.webp)
 
 - ಮಾದರಿ ಕಾರ್ಡ್ ಪರಿಶೀಲನೆ, ಇದರಲ್ಲಿ ಉದ್ದೇಶಿತ ಬಳಕೆ ಮತ್ತು ತರಬೇತಿ ಡೇಟಾದ ವಿವರವಾದ ವಿವರಣೆ, ಕೋಡ್ ಮಾದರಿಗಳು ಮತ್ತು ಆಂತರಿಕ ಮೌಲ್ಯಮಾಪನ ಗ್ರಂಥಾಲಯದ ಮೌಲ್ಯಮಾಪನ ಫಲಿತಾಂಶಗಳು ಸೇರಿವೆ.
 
-![Model card](../../../translated_images/ModelCard.598051692c6e400d681a713ba7717e8b6e5e65f08d12131556fcec0f1789459b.kn.png)
+![Model card](../../../translated_images/kn/ModelCard.598051692c6e400d.webp)
 
 - ಉದ್ಯಮದಲ್ಲಿ ಲಭ್ಯವಿರುವ ಮಾದರಿಗಳು ಮತ್ತು ಡೇಟಾಸೆಟ್‌ಗಳ ನಡುವಿನ ಬೆಂಚ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಹೋಲಿಸಿ, ಯಾವುದು ವ್ಯವಹಾರ ದೃಶ್ಯಾವಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ ಎಂದು ಅಂದಾಜಿಸಲು [Model Benchmarks](https://learn.microsoft.com/azure/ai-studio/how-to/model-benchmarks?WT.mc_id=academic-105485-koreyst) ಪೇನ್ ಮೂಲಕ.
 
-![Model benchmarks](../../../translated_images/ModelBenchmarks.254cb20fbd06c03a4ca53994585c5ea4300a88bcec8eff0450f2866ee2ac5ff3.kn.png)
+![Model benchmarks](../../../translated_images/kn/ModelBenchmarks.254cb20fbd06c03a.webp)
 
 - ಕಸ್ಟಮ್ ತರಬೇತಿ ಡೇಟಾದ ಮೇಲೆ ಮಾದರಿಯನ್ನು ಫೈನ್-ಟ್ಯೂನ್ ಮಾಡಿ, ನಿರ್ದಿಷ್ಟ ಕೆಲಸದಲ್ಲಿ ಮಾದರಿ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಸುಧಾರಿಸಲು, Azure AI Studioಯ ಪ್ರಯೋಗ ಮತ್ತು ಟ್ರ್ಯಾಕಿಂಗ್ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಉಪಯೋಗಿಸಿ.
 
-![Model fine-tuning](../../../translated_images/FineTuning.aac48f07142e36fddc6571b1f43ea2e003325c9c6d8e3fc9d8834b771e308dbf.kn.png)
+![Model fine-tuning](../../../translated_images/kn/FineTuning.aac48f07142e36fd.webp)
 
 - ಮೂಲ ಪೂರ್ವ-ತರಬೇತಿಗೊಂಡ ಮಾದರಿ ಅಥವಾ ಫೈನ್-ಟ್ಯೂನ್ ಮಾಡಲಾದ ಆವೃತ್ತಿಯನ್ನು ದೂರದ实时 ಇನ್ಫರೆನ್ಸ್ - ನಿರ್ವಹಿತ ಕಂಪ್ಯೂಟ್ - ಅಥವಾ ಸರ್ವರ್‌ಲೆಸ್ API ಎಂಡ್‌ಪಾಯಿಂಟ್ - [ಪೇ-ಆಸ್-ಯು-ಗೋ](https://learn.microsoft.com/azure/ai-studio/how-to/model-catalog-overview#model-deployment-managed-compute-and-serverless-api-pay-as-you-go?WT.mc_id=academic-105485-koreyst) - ಗೆ ನಿಯೋಜಿಸಿ, ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಅದನ್ನು ಉಪಯೋಗಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.
 
-![Model deployment](../../../translated_images/ModelDeploy.890da48cbd0bccdb4abfc9257f3d884831e5d41b723e7d1ceeac9d60c3c4f984.kn.png)
+![Model deployment](../../../translated_images/kn/ModelDeploy.890da48cbd0bccdb.webp)
 
 > [!NOTE]
 > ಕ್ಯಾಟಲಾಗ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಮಾದರಿಗಳು ಪ್ರಸ್ತುತ ಫೈನ್-ಟ್ಯೂನಿಂಗ್ ಮತ್ತು/ಅಥವಾ ಪೇ-ಆಸ್-ಯು-ಗೋ ನಿಯೋಜನೆಗೆ ಲಭ್ಯವಿರುವುದಿಲ್ಲ. ಮಾದರಿ ಸಾಮರ್ಥ್ಯಗಳು ಮತ್ತು ಮಿತಿಗಳನ್ನು ವಿವರಿಸಲು ಮಾದರಿ ಕಾರ್ಡ್ ಪರಿಶೀಲಿಸಿ.
@@ -157,7 +148,7 @@ LLMಗಳ ವಿಭಿನ್ನ ವಾಸ್ತುಶಿಲ್ಪಗಳ ಬಗ�
 
 - **ಫೈನ್-ಟ್ಯೂನ್ ಮಾಡಲಾದ ಮಾದರಿ**. ಇಲ್ಲಿ, ನೀವು ನಿಮ್ಮ ಸ್ವಂತ ಡೇಟಾದ ಮೇಲೆ ಮಾದರಿಯನ್ನು ಮತ್ತಷ್ಟು ತರಬೇತಿಗೊಳಿಸಿದ್ದೀರಿ, ಇದರಿಂದ ಮಾದರಿ ನಿಮ್ಮ ಅಗತ್ಯಗಳಿಗೆ ಹೆಚ್ಚು ನಿಖರ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯಾಶೀಲವಾಗುತ್ತದೆ ಆದರೆ ಇದು ವೆಚ್ಚವಾಗಬಹುದು.
 
-![LLMs deployment](../../../translated_images/Deploy.18b2d27412ec8c02871386cbe91097c7f2190a8c6e2be88f66392b411609a48c.kn.png)
+![LLMs deployment](../../../translated_images/kn/Deploy.18b2d27412ec8c02.webp)
 
 ಚಿತ್ರ ಮೂಲ: [Four Ways that Enterprises Deploy LLMs | Fiddler AI Blog](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms?WT.mc_id=academic-105485-koreyst)
 

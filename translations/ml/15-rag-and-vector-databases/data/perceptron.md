@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "59021c5f419d3feda19075910a74280a",
-  "translation_date": "2025-12-19T20:48:56+00:00",
-  "source_file": "15-rag-and-vector-databases/data/perceptron.md",
-  "language_code": "ml"
-}
--->
 # ന്യൂറൽ നെറ്റ്വർക്കുകളിലേക്ക് പരിചയം: പേഴ്സെപ്ട്രോൺ
 
 ആധുനിക ന്യൂറൽ നെറ്റ്വർക്കിനോട് സമാനമായ ഒന്നിനെ നടപ്പിലാക്കാനുള്ള ആദ്യ ശ്രമങ്ങളിൽ ഒന്നാണ് 1957-ൽ കോർണൽ എയറോണോട്ടിക്കൽ ലബോറട്ടറിയിലെ ഫ്രാങ്ക് റോസൻബ്ര്ലാറ്റ് നടത്തിയത്. ഇത് "മാർക്ക്-1" എന്ന ഹാർഡ്‌വെയർ നടപ്പിലാക്കലായിരുന്നു, ട്രയാംഗിളുകൾ, ചതുരങ്ങൾ, വൃത്തങ്ങൾ പോലുള്ള പ്രാഥമിക ജ്യാമിതീയ ആകൃതികൾ തിരിച്ചറിയാൻ രൂപകൽപ്പന ചെയ്തതായിരുന്നു.
 
 |      |      |
 |--------------|-----------|
-|<img src='../../../../translated_images/Rosenblatt-wikipedia.1d205667acda28c0f97ad594eb6dadfa0485605f3fb2155eca46a0255e98efac.ml.jpg' alt='Frank Rosenblatt'/> | <img src='../../../../translated_images/Mark_I_perceptron_wikipedia.434e46ca39e2be801976110f8b1b75b13d1197f69e3a5f8b7537b43d35413e6f.ml.jpg' alt='The Mark 1 Perceptron' />|
+|<img src='../../../../translated_images/ml/Rosenblatt-wikipedia.1d205667acda28c0f97ad594eb6dadfa0485605f3fb2155eca46a0255e98efac.jpg' alt='Frank Rosenblatt'/> | <img src='../../../../translated_images/ml/Mark_I_perceptron_wikipedia.434e46ca39e2be801976110f8b1b75b13d1197f69e3a5f8b7537b43d35413e6f.jpg' alt='The Mark 1 Perceptron' />|
 
 > ചിത്രങ്ങൾ വിക്കിപീഡിയയിൽ നിന്നാണ്
 

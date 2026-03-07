@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df44972d5575ea8cef3c52ee31696d04",
-  "translation_date": "2025-12-19T18:40:44+00:00",
-  "source_file": "14-the-generative-ai-application-lifecycle/README.md",
-  "language_code": "ml"
-}
--->
-[![ഫംഗ്ഷൻ കോളിങ്ങുമായി സംയോജിപ്പിക്കൽ](../../../translated_images/14-lesson-banner.066d74a31727ac121eeac06376a068a397d8e335281e63ce94130d11f516e46b.ml.png)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
+[![ഫംഗ്ഷൻ കോളിങ്ങുമായി സംയോജിപ്പിക്കൽ](../../../translated_images/ml/14-lesson-banner.066d74a31727ac12.webp)](https://youtu.be/ewtQY_RJrzs?si=dyJ2bjiljH7UUHCh)
 
 # ജനറേറ്റീവ് AI അപ്ലിക്കേഷൻ ലൈഫ്‌സൈക്കിൾ
 
@@ -30,7 +21,7 @@ LLMകൾ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് �
 
 ഇതിനാൽ, ഈ ഉപകരണം ഡൈനാമിക് ആയി, ശരിയായ പ്രേരണകളോടെ അനുയോജ്യമായി ഉപയോഗിക്കാൻ ഒരു പുതിയ പാരഡൈം ആവശ്യമുണ്ട്. പഴയ AI അപ്ലിക്കേഷനുകൾ "ML Apps" എന്ന്, പുതിയ AI അപ്ലിക്കേഷനുകൾ "GenAI Apps" അല്ലെങ്കിൽ "AI Apps" എന്ന് വർഗ്ഗീകരിക്കാം, ആ സമയത്ത് ഉപയോഗിച്ചിരുന്ന പ്രധാന സാങ്കേതികവിദ്യകളും സാങ്കേതികങ്ങളും പ്രതിഫലിപ്പിക്കുന്നു. ഇത് നമ്മുടെ കഥ പറയൽ പലവിധത്തിൽ മാറ്റുന്നു, താഴെ കാണുന്ന താരതമ്യം നോക്കൂ.
 
-![LLMOps vs. MLOps comparison](../../../translated_images/01-llmops-shift.29bc933cb3bb0080a562e1655c0c719b71a72c3be6252d5c564b7f598987e602.ml.png)
+![LLMOps vs. MLOps comparison](../../../translated_images/ml/01-llmops-shift.29bc933cb3bb0080.webp)
 
 LLMOps-ൽ, നാം അപ്ലിക്കേഷൻ ഡെവലപ്പർമാരിൽ കൂടുതൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നു, ഇന്റഗ്രേഷനുകൾ പ്രധാനപ്പെട്ട പോയിന്റായി ഉപയോഗിക്കുന്നു, "Models-as-a-Service" ഉപയോഗിക്കുന്നു, മെട്രിക്‌സുകൾക്കായി താഴെ പറയുന്ന കാര്യങ്ങൾ ചിന്തിക്കുന്നു.
 
@@ -44,7 +35,7 @@ LLMOps-ൽ, നാം അപ്ലിക്കേഷൻ ഡെവലപ്പർ
 
 ആദ്യം, ലൈഫ്‌സൈക്കിൾയും മാറ്റങ്ങളും മനസ്സിലാക്കാൻ, അടുത്ത ഇൻഫോഗ്രാഫിക് ശ്രദ്ധിക്കുക.
 
-![LLMOps infographic](../../../translated_images/02-llmops.70a942ead05a7645db740f68727d90160cb438ab71f0fb20548bc7fe5cad83ff.ml.png)
+![LLMOps infographic](../../../translated_images/ml/02-llmops.70a942ead05a7645.webp)
 
 നിങ്ങൾ ശ്രദ്ധിച്ചേക്കാം, ഇത് സാധാരണ MLOps ലൈഫ്‌സൈക്കിളുകളിൽ നിന്ന് വ്യത്യസ്തമാണ്. LLMകൾക്ക് പുതിയ ആവശ്യങ്ങൾ 많ുണ്ട്, ഉദാഹരണത്തിന് പ്രോംപ്റ്റിംഗ്, ഗുണമേന്മ മെച്ചപ്പെടുത്താനുള്ള വ്യത്യസ്ത സാങ്കേതികങ്ങൾ (ഫൈൻ-ട്യൂണിംഗ്, RAG, മെറ്റാ-പ്രോംപ്റ്റുകൾ), ഉത്തരവാദിത്വമുള്ള AI-യുമായി ബന്ധപ്പെട്ട വ്യത്യസ്ത വിലയിരുത്തലുകളും ഉത്തരവാദിത്വവും, ഒടുവിൽ പുതിയ വിലയിരുത്തൽ മെട്രിക്‌സുകൾ (ഗുണമേന്മ, ഹാനി, സത്യസന്ധത, ചെലവ്, ലാറ്റൻസി).
 
@@ -54,7 +45,7 @@ LLMOps-ൽ, നാം അപ്ലിക്കേഷൻ ഡെവലപ്പർ
 
 ആ ഘട്ടങ്ങൾ എങ്ങനെ അന്വേഷിക്കാം? ഒരു ലൈഫ്‌സൈക്കിൾ എങ്ങനെ നിർമ്മിക്കാമെന്ന് വിശദമായി നോക്കാം.
 
-![LLMOps Workflow](../../../translated_images/03-llm-stage-flows.3a1e1c401235a6cfa886ed6ba04aa52a096a545e1bc44fa54d7d5983a7201892.ml.png)
+![LLMOps Workflow](../../../translated_images/ml/03-llm-stage-flows.3a1e1c401235a6cf.webp)
 
 ഇത് കുറച്ച് സങ്കീർണ്ണമായി തോന്നാം, ആദ്യം മൂന്ന് വലിയ ഘട്ടങ്ങളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാം.
 
@@ -74,11 +65,11 @@ LLMOps-ൽ, നാം അപ്ലിക്കേഷൻ ഡെവലപ്പർ
 
 [Azure AI Platform](https://azure.microsoft.com/solutions/ai/?WT.mc_id=academic-105485-koreys) ഉപയോഗിച്ച് [AI Studio](https://ai.azure.com/?WT.mc_id=academic-105485-koreys) ഉപയോഗിക്കാം. AI Studio ഒരു വെബ് പോർട്ടലാണ്, മോഡലുകൾ, സാമ്പിളുകൾ, ടൂളുകൾ എന്നിവ അന്വേഷിക്കാൻ, നിങ്ങളുടെ റിസോഴ്‌സുകൾ മാനേജ് ചെയ്യാൻ, UI ഡെവലപ്പ്മെന്റ് ഫ്ലോകൾ, SDK/CLI ഓപ്ഷനുകൾ കോഡ്-ഫസ്റ്റ് ഡെവലപ്പ്മെന്റിനായി നൽകുന്നു.
 
-![Azure AI possibilities](../../../translated_images/04-azure-ai-platform.80203baf03a12fa8b166e194928f057074843d1955177baf0f5b53d50d7b6153.ml.png)
+![Azure AI possibilities](../../../translated_images/ml/04-azure-ai-platform.80203baf03a12fa8.webp)
 
 Azure AI, നിങ്ങളുടെ ഓപ്പറേഷനുകൾ, സേവനങ്ങൾ, പ്രോജക്ടുകൾ, വെക്ടർ സെർച്ച്, ഡാറ്റാബേസ് ആവശ്യങ്ങൾ എന്നിവ മാനേജ് ചെയ്യാൻ നിരവധി റിസോഴ്‌സുകൾ ഉപയോഗിക്കാൻ അനുവദിക്കുന്നു.
 
-![LLMOps with Azure AI](../../../translated_images/05-llm-azure-ai-prompt.a5ce85cdbb494bdf95420668e3464aae70d8b22275a744254e941dd5e73ae0d2.ml.png)
+![LLMOps with Azure AI](../../../translated_images/ml/05-llm-azure-ai-prompt.a5ce85cdbb494bdf.webp)
 
 Proof-of-Concept(POC) മുതൽ വലിയ സ്കെയിൽ അപ്ലിക്കേഷനുകൾ വരെ PromptFlow ഉപയോഗിച്ച് നിർമ്മിക്കുക:
 
@@ -86,7 +77,7 @@ Proof-of-Concept(POC) മുതൽ വലിയ സ്കെയിൽ അപ്�
 - നിങ്ങളുടെ ആപ്ലിക്കേഷനുകൾ ഗുണമേന്മയുള്ള AI-ക്കായി എളുപ്പത്തിൽ പരീക്ഷിച്ച് ഫൈൻ-ട്യൂൺ ചെയ്യുക
 - Azure AI Studio ഉപയോഗിച്ച് ക്ലൗഡുമായി ഇന്റഗ്രേറ്റ് ചെയ്ത് ആവർത്തിക്കുക, പുഷ് ചെയ്ത് വിനിയോഗിക്കുക
 
-![LLMOps with PromptFlow](../../../translated_images/06-llm-promptflow.a183eba07a3a7fdf4aa74db92a318b8cbbf4a608671f6b166216358d3203d8d4.ml.png)
+![LLMOps with PromptFlow](../../../translated_images/ml/06-llm-promptflow.a183eba07a3a7fdf.webp)
 
 ## മികച്ചത്! നിങ്ങളുടെ പഠനം തുടരുക!
 

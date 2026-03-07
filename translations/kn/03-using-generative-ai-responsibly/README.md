@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4d57fad773cbeb69c5dd62e65c34200d",
-  "translation_date": "2025-12-19T19:33:47+00:00",
-  "source_file": "03-using-generative-ai-responsibly/README.md",
-  "language_code": "kn"
-}
--->
 # ಜನೆರೇಟಿವ್ AI ಅನ್ನು ಜವಾಬ್ದಾರಿಯಾಗಿ ಬಳಸುವುದು
 
-[![ಜನೆರೇಟಿವ್ AI ಅನ್ನು ಜವಾಬ್ದಾರಿಯಾಗಿ ಬಳಸುವುದು](../../../translated_images/03-lesson-banner.1ed56067a452d97709d51f6cc8b6953918b2287132f4909ade2008c936cd4af9.kn.png)](https://youtu.be/YOp-e1GjZdA?si=7Wv4wu3x44L1DCVj)
+[![ಜನೆರೇಟಿವ್ AI ಅನ್ನು ಜವಾಬ್ದಾರಿಯಾಗಿ ಬಳಸುವುದು](../../../translated_images/kn/03-lesson-banner.1ed56067a452d977.webp)](https://youtu.be/YOp-e1GjZdA?si=7Wv4wu3x44L1DCVj)
 
 > _ಈ ಪಾಠದ ವೀಡಿಯೋವನ್ನು ನೋಡಲು ಮೇಲಿನ ಚಿತ್ರವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ_
 
@@ -85,7 +76,7 @@ AI ಮತ್ತು ವಿಶೇಷವಾಗಿ ಜನೆರೇಟಿವ್ AI �
 
 ಈಗ ನಾವು ಜವಾಬ್ದಾರಿಯುತ ಜನೆರೇಟಿವ್ AI ಯ ಮಹತ್ವವನ್ನು ಗುರುತಿಸಿದ್ದೇವೆ, ನಮ್ಮ AI ಪರಿಹಾರಗಳನ್ನು ಜವಾಬ್ದಾರಿಯಾಗಿ ನಿರ್ಮಿಸಲು ನಾವು ತೆಗೆದುಕೊಳ್ಳಬಹುದಾದ 4 ಹಂತಗಳನ್ನು ನೋಡೋಣ:
 
-![Mitigate Cycle](../../../translated_images/mitigate-cycle.babcd5a5658e1775d5f2cb47f2ff305cca090400a72d98d0f9e57e9db5637c72.kn.png)
+![Mitigate Cycle](../../../translated_images/kn/mitigate-cycle.babcd5a5658e1775.webp)
 
 ### ಸಾಧ್ಯವಿರುವ ಹಾನಿಗಳನ್ನು ಅಳೆಯಿರಿ
 
@@ -97,7 +88,7 @@ AI ಮತ್ತು ವಿಶೇಷವಾಗಿ ಜನೆರೇಟಿವ್ AI �
 
 ಈಗ ಮಾದರಿ ಮತ್ತು ಅದರ ಪ್ರತಿಕ್ರಿಯೆಗಳ ಮೂಲಕ ಸಂಭವಿಸಬಹುದಾದ ಹಾನಿಯನ್ನು ತಡೆಯಲು ಅಥವಾ ಕಡಿಮೆ ಮಾಡಲು ಮಾರ್ಗಗಳನ್ನು ಹುಡುಕುವ ಸಮಯವಾಗಿದೆ. ನಾವು ಇದನ್ನು 4 ವಿಭಿನ್ನ ಪದರಗಳಲ್ಲಿ ನೋಡಬಹುದು:
 
-![Mitigation Layers](../../../translated_images/mitigation-layers.377215120b9a1159a8c3982c6bbcf41b6adf8c8fa04ce35cbaeeb13b4979cdfc.kn.png)
+![Mitigation Layers](../../../translated_images/kn/mitigation-layers.377215120b9a1159.webp)
 
 - **ಮಾದರಿ**. ಸರಿಯಾದ ಬಳಕೆಗೆ ಸರಿಯಾದ ಮಾದರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು. GPT-4 ಮುಂತಾದ ದೊಡ್ಡ ಮತ್ತು ಹೆಚ್ಚು ಸಂಕೀರ್ಣ ಮಾದರಿಗಳು ಸಣ್ಣ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಬಳಕೆಗಳಿಗೆ ಅನ್ವಯಿಸಿದಾಗ ಹಾನಿಕರ ವಿಷಯದ ಅಪಾಯ ಹೆಚ್ಚಾಗಬಹುದು. ನಿಮ್ಮ ತರಬೇತಿ ಡೇಟಾವನ್ನು ಬಳಸಿಕೊಂಡು ಫೈನ್-ಟ್ಯೂನಿಂಗ್ ಮಾಡುವುದು ಹಾನಿಕರ ವಿಷಯದ ಅಪಾಯವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.
 

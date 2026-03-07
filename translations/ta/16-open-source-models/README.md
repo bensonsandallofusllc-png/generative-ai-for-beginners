@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T18:00:21+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "ta"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.ta.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/ta/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## அறிமுகம்
 
@@ -41,12 +32,12 @@ LLM களை உருவாக்கும் செயல்முறை ம�
 
 **செலவு** - இந்த மாதிரிகளை பயன்படுத்துவதற்கும் செயல்படுத்துவதற்குமான டோக்கன் ஒன்றின் செலவு சொந்த உரிமை கொண்ட மாதிரிகளுக்கு விட குறைவாகும். ஜெனரேட்டிவ் AI பயன்பாடுகளை உருவாக்கும்போது, உங்கள் பயன்பாட்டிற்கு இந்த மாதிரிகளின் செயல்திறன் மற்றும் விலை விகிதாசாரத்தை கவனிக்க வேண்டும்.
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.ta.png)  
+![Model Cost](../../../translated_images/ta/model-price.3f5a3e4d32ae00b4.webp)  
 மூலம்: Artificial Analysis
 
 **நெகிழ்வுத்தன்மை** - திறந்த மாதிரிகளுடன் பணியாற்றுவது, வெவ்வேறு மாதிரிகளை பயன்படுத்துவதிலும் அல்லது அவற்றை இணைப்பதிலும் நெகிழ்வுத்தன்மையை வழங்குகிறது. உதாரணமாக, [HuggingChat உதவியாளர்கள்](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst) இல் பயனர் நேரடியாக UI இல் பயன்படுத்தப்படும் மாதிரியை தேர்வு செய்ய முடியும்:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.ta.png)
+![Choose Model](../../../translated_images/ta/choose-model.f095d15bbac92214.webp)
 
 ## வெவ்வேறு திறந்த மாதிரிகளை ஆராய்தல்
 
@@ -74,7 +65,7 @@ Falcon இன் சிறப்பாகத் திருத்தப்ப�
 
 விதிவிலக்கான LLM களை ஒப்பிடும் போது, [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst) மற்றொரு சிறந்த வளமாகும்:
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.ta.png)  
+![Model Quality](../../../translated_images/ta/model-quality.aaae1c22e00f7ee1.webp)  
 மூலம்: Artificial Analysis
 
 குறிப்பிட்ட பயன்பாட்டிற்கு வேலை செய்யும் போது, அதே துறையில் கவனம் செலுத்திய சிறப்பாகத் திருத்தப்பட்ட பதிப்புகளை தேடுவது பயனுள்ளதாக இருக்கும். பல திறந்த மாதிரிகளுடன் முயற்சி செய்து, உங்கள் மற்றும் உங்கள் பயனர்களின் எதிர்பார்ப்புகளுக்கு ஏற்ப அவை எப்படி செயல்படுகின்றன என்பதை பார்க்கும் பழக்கம் நல்லது.

@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "846ac8e3b7dcfb697d3309fec05f0fea",
-  "translation_date": "2025-12-19T20:30:26+00:00",
-  "source_file": "10-building-low-code-ai-applications/README.md",
-  "language_code": "te"
-}
--->
 # లో కోడ్ AI అప్లికేషన్లు నిర్మించడం
 
-[![లో కోడ్ AI అప్లికేషన్లు నిర్మించడం](../../../translated_images/10-lesson-banner.a01ac8fe3fd86310c2e4065c0b3c584879f33b8ce797311821a636992f8a5b2f.te.png)](https://youtu.be/1vzq3Nd8GBA?si=h6LHWJXdmqf6mhDg)
+[![లో కోడ్ AI అప్లికేషన్లు నిర్మించడం](../../../translated_images/te/10-lesson-banner.a01ac8fe3fd86310.webp)](https://youtu.be/1vzq3Nd8GBA?si=h6LHWJXdmqf6mhDg)
 
 > _(ఈ పాఠం వీడియోను చూడడానికి పై చిత్రాన్ని క్లిక్ చేయండి)_
 
@@ -92,17 +83,17 @@ AI బిల్డర్ అనేది పవర్ ప్లాట్‌ఫ�
 
 1. హోమ్ స్క్రీన్‌లోని టెక్స్ట్ ఏరియాలో మీరు నిర్మించదలచిన యాప్‌ను వివరించండి. ఉదాహరణకు, **_నేను విద్యార్థి అసైన్‌మెంట్లను ట్రాక్ చేయడానికి మరియు నిర్వహించడానికి యాప్ నిర్మించాలనుకుంటున్నాను_**. AI కోపైలట్‌కు ప్రాంప్ట్ పంపడానికి **Send** బటన్‌ను క్లిక్ చేయండి.
 
-![మీరు నిర్మించదలచిన యాప్‌ను వివరించండి](../../../translated_images/copilot-chat-prompt-powerapps.84250f341d060830a296b68512e6b3b3aa3a4559f4f1c2d7bafeba8ad3fcd17a.te.png)
+![మీరు నిర్మించదలచిన యాప్‌ను వివరించండి](../../../translated_images/te/copilot-chat-prompt-powerapps.84250f341d060830.webp)
 
 1. AI కోపైలట్ మీరు ట్రాక్ చేయదలచిన డేటాను నిల్వ చేయడానికి అవసరమైన ఫీల్డ్స్ మరియు కొన్ని నమూనా డేటాతో డేటావర్స్ టేబుల్‌ను సూచిస్తుంది. మీరు ఆ టేబుల్‌ను AI కోపైలట్ సహాయకుడు ఫీచర్ ద్వారా సంభాషణాత్మక దశలతో మీ అవసరాలకు అనుగుణంగా అనుకూలీకరించవచ్చు.
 
    > **ముఖ్యమైనది**: డేటావర్స్ పవర్ ప్లాట్‌ఫారమ్ కోసం అంతర్గత డేటా ప్లాట్‌ఫారమ్. ఇది యాప్ డేటాను నిల్వ చేయడానికి లో-కోడ్ డేటా ప్లాట్‌ఫారమ్. ఇది మైక్రోసాఫ్ట్ క్లౌడ్‌లో డేటాను సురక్షితంగా నిల్వ చేసే పూర్తిగా నిర్వహించబడే సేవ మరియు మీ పవర్ ప్లాట్‌ఫారమ్ వాతావరణంలో ప్రొవిజన్ చేయబడుతుంది. ఇది డేటా వర్గీకరణ, డేటా లినియేజ్, సున్నితమైన యాక్సెస్ నియంత్రణ వంటి బిల్ట్-ఇన్ డేటా గవర్నెన్స్ సామర్థ్యాలతో వస్తుంది. మీరు డేటావర్స్ గురించి మరింత తెలుసుకోవచ్చు [ఇక్కడ](https://docs.microsoft.com/powerapps/maker/data-platform/data-platform-intro?WT.mc_id=academic-109639-somelezediko).
 
-   ![మీ కొత్త టేబుల్‌లో సూచించిన ఫీల్డ్స్](../../../translated_images/copilot-dataverse-table-powerapps.f4cc07b5d5f9327bd3783dd288debb2a959ce3320107512e235137aebd8a1a4c.te.png)
+   ![మీ కొత్త టేబుల్‌లో సూచించిన ఫీల్డ్స్](../../../translated_images/te/copilot-dataverse-table-powerapps.f4cc07b5d5f9327b.webp)
 
 1. విద్యా నిపుణులు తమ అసైన్‌మెంట్లు సమర్పించిన విద్యార్థులకు ఇమెయిల్స్ పంపడానికి కోరుకుంటున్నారు. మీరు విద్యార్థి ఇమెయిల్ నిల్వ చేయడానికి టేబుల్‌కు కొత్త ఫీల్డ్ జోడించడానికి కోపైలట్ ఉపయోగించవచ్చు. ఉదాహరణకు, మీరు ఈ క్రింది ప్రాంప్ట్ ఉపయోగించి టేబుల్‌కు కొత్త కాలమ్ జోడించవచ్చు: **_నేను విద్యార్థి ఇమెయిల్ నిల్వ చేయడానికి కాలమ్ జోడించాలనుకుంటున్నాను_**. AI కోపైలట్‌కు ప్రాంప్ట్ పంపడానికి **Send** బటన్‌ను క్లిక్ చేయండి.
 
-![కొత్త ఫీల్డ్ జోడించడం](../../../translated_images/copilot-new-column.35e15ff21acaf2745965d427b130f2be772f0484835b44fe074d496b1a455f2a.te.png)
+![కొత్త ఫీల్డ్ జోడించడం](../../../translated_images/te/copilot-new-column.35e15ff21acaf274.webp)
 
 1. AI కోపైలట్ కొత్త ఫీల్డ్‌ను సృష్టిస్తుంది, మీరు ఆ ఫీల్డ్‌ను మీ అవసరాలకు అనుగుణంగా అనుకూలీకరించవచ్చు.
 
@@ -112,7 +103,7 @@ AI బిల్డర్ అనేది పవర్ ప్లాట్‌ఫ�
 
 1. విద్యా నిపుణులు విద్యార్థులకు ఇమెయిల్స్ పంపడానికి, మీరు యాప్‌కు కొత్త స్క్రీన్ జోడించడానికి కోపైలట్ ఉపయోగించవచ్చు. ఉదాహరణకు, మీరు ఈ క్రింది ప్రాంప్ట్ ఉపయోగించి యాప్‌కు కొత్త స్క్రీన్ జోడించవచ్చు: **_నేను విద్యార్థులకు ఇమెయిల్స్ పంపడానికి స్క్రీన్ జోడించాలనుకుంటున్నాను_**. AI కోపైలట్‌కు ప్రాంప్ట్ పంపడానికి **Send** బటన్‌ను క్లిక్ చేయండి.
 
-![ప్రాంప్ట్ సూచన ద్వారా కొత్త స్క్రీన్ జోడించడం](../../../translated_images/copilot-new-screen.2e0bef7132a173928bc621780b39799e03982d315cb5a9ff75a34b08054641d4.te.png)
+![ప్రాంప్ట్ సూచన ద్వారా కొత్త స్క్రీన్ జోడించడం](../../../translated_images/te/copilot-new-screen.2e0bef7132a17392.webp)
 
 1. AI కోపైలట్ కొత్త స్క్రీన్‌ను సృష్టిస్తుంది, మీరు ఆ స్క్రీన్‌ను మీ అవసరాలకు అనుగుణంగా అనుకూలీకరించవచ్చు.
 
@@ -147,15 +138,15 @@ Copilot ఉపయోగించి Dataverse లో టేబుల్ సృ�
 
 2. ఎడమ నావిగేషన్ బార్‌లో **Tables** ఎంచుకుని, తరువాత **Describe the new Table** పై క్లిక్ చేయండి.
 
-![Select new table](../../../translated_images/describe-new-table.0792373eb757281e3c5f542f84cad3b5208bfe0e5c4a7786dd2bd31aa848a23c.te.png)
+![Select new table](../../../translated_images/te/describe-new-table.0792373eb757281e.webp)
 
 3. **Describe the new Table** స్క్రీన్‌లో, మీరు సృష్టించాలనుకునే టేబుల్‌ను వివరించడానికి టెక్స్ట్ ఏరియా ఉపయోగించండి. ఉదాహరణకు, **_నేను ఇన్వాయిస్ సమాచారాన్ని నిల్వ చేయడానికి ఒక టేబుల్ సృష్టించాలనుకుంటున్నాను_**. AI Copilot కు ప్రాంప్ట్ పంపడానికి **Send** బటన్ పై క్లిక్ చేయండి.
 
-![Describe the table](../../../translated_images/copilot-chat-prompt-dataverse.feb2f81e5872b9d2b05d45d11bb6830e0f2ef6a2d4742413bc9a1e50a45bbb89.te.png)
+![Describe the table](../../../translated_images/te/copilot-chat-prompt-dataverse.feb2f81e5872b9d2.webp)
 
 4. AI Copilot మీరు ట్రాక్ చేయాలనుకునే డేటాను నిల్వ చేయడానికి అవసరమైన ఫీల్డ్స్‌తో Dataverse టేబుల్‌ను సూచిస్తుంది మరియు కొన్ని నమూనా డేటాను కూడా చూపిస్తుంది. మీరు AI Copilot అసిస్టెంట్ ఫీచర్ ద్వారా సంభాషణాత్మక దశల ద్వారా టేబుల్‌ను మీ అవసరాలకు అనుగుణంగా అనుకూలీకరించవచ్చు.
 
-![Suggested Dataverse table](../../../translated_images/copilot-dataverse-table.b3bc936091324d9db1e943d640df1c7a7df598e66d30f5b8a2999048e26a5073.te.png)
+![Suggested Dataverse table](../../../translated_images/te/copilot-dataverse-table.b3bc936091324d9d.webp)
 
 5. ఫైనాన్స్ టీమ్ సరఫరాదారునికి వారి ఇన్వాయిస్ ప్రస్తుత స్థితిని అప్‌డేట్ చేయడానికి ఇమెయిల్ పంపాలనుకుంటుంది. మీరు Copilot ఉపయోగించి సరఫరాదారు ఇమెయిల్ నిల్వ చేయడానికి టేబుల్‌కు కొత్త ఫీల్డ్‌ను జోడించవచ్చు. ఉదాహరణకు, టేబుల్‌కు కొత్త కాలమ్ జోడించడానికి ఈ క్రింది ప్రాంప్ట్ ఉపయోగించవచ్చు: **_నేను సరఫరాదారు ఇమెయిల్ నిల్వ చేయడానికి ఒక కాలమ్ జోడించాలనుకుంటున్నాను_**. AI Copilot కు ప్రాంప్ట్ పంపడానికి **Send** బటన్ పై క్లిక్ చేయండి.
 
@@ -184,7 +175,7 @@ Power Platform లో అందుబాటులో ఉన్న కొన్�
 
 కస్టమ్ AI మోడల్స్‌తో మీరు మీ స్వంత మోడల్‌ను AI Builder లోకి తీసుకురాగలరు, తద్వారా అది ఏదైనా AI Builder కస్టమ్ మోడల్‌లా పనిచేస్తుంది, మీ స్వంత డేటాతో మోడల్‌ను శిక్షణ ఇవ్వగలుగుతారు. మీరు ఈ మోడల్స్‌ను Power Apps మరియు Power Automate రెండింటిలోనూ ప్రక్రియలను ఆటోమేట్ చేయడానికి మరియు ఫలితాలను అంచనా వేయడానికి ఉపయోగించవచ్చు. మీ స్వంత మోడల్ ఉపయోగించినప్పుడు కొన్ని పరిమితులు వర్తిస్తాయి. ఈ పరిమితుల గురించి మరింత చదవండి [limitations](https://learn.microsoft.com/ai-builder/byo-model#limitations?WT.mc_id=academic-105485-koreyst).
 
-![AI builder models](../../../translated_images/ai-builder-models.8069423b84cfc47f6bb989bc3cd0584b5b2471c80fad80bf504d356928a08c9c.te.png)
+![AI builder models](../../../translated_images/te/ai-builder-models.8069423b84cfc47f.webp)
 
 ## అసైన్‌మెంట్ #2 - మా స్టార్టప్ కోసం ఇన్వాయిస్ ప్రాసెసింగ్ ఫ్లో నిర్మించండి
 
@@ -198,7 +189,7 @@ AI Builder లోని ఇన్వాయిస్ ప్రాసెసిం�
 
 2. హోమ్ స్క్రీన్‌లోని టెక్స్ట్ ఏరియాలో మీరు నిర్మించాలనుకునే వర్క్‌ఫ్లోను వివరించండి. ఉదాహరణకు, **_నా మెయిల్‌బాక్స్‌లో ఇన్వాయిస్ వచ్చినప్పుడు దాన్ని ప్రాసెస్ చేయండి_**. AI Copilot కు ప్రాంప్ట్ పంపడానికి **Send** బటన్ పై క్లిక్ చేయండి.
 
-   ![Copilot power automate](../../../translated_images/copilot-chat-prompt-powerautomate.f377e478cc8412de4394fab09e5b72f97b3fc9312526b516ded426102f51c30d.te.png)
+   ![Copilot power automate](../../../translated_images/te/copilot-chat-prompt-powerautomate.f377e478cc8412de.webp)
 
 3. AI Copilot మీరు ఆటోమేట్ చేయదలచుకున్న పనిని నిర్వహించడానికి అవసరమైన చర్యలను సూచిస్తుంది. తదుపరి దశల కోసం **Next** బటన్ పై క్లిక్ చేయండి.
 
@@ -212,7 +203,7 @@ AI Builder లోని ఇన్వాయిస్ ప్రాసెసిం�
 
 8. ఫ్లో నుండి **Condition** చర్యను తీసివేయండి ఎందుకంటే మీరు దాన్ని ఉపయోగించరు. ఇది క్రింది స్క్రీన్‌షాట్‌లా కనిపించాలి:
 
-   ![power automate, remove actions](../../../translated_images/powerautomate-remove-actions.7216392fe684ceba4b73c6383edd1cc5e7ded11afd0ca812052a11487d049ef8.te.png)
+   ![power automate, remove actions](../../../translated_images/te/powerautomate-remove-actions.7216392fe684ceba.webp)
 
 9. **Add an action** బటన్ పై క్లిక్ చేసి **Dataverse** కోసం శోధించండి. **Add a new row** చర్యను ఎంచుకోండి.
 
@@ -227,7 +218,7 @@ AI Builder లోని ఇన్వాయిస్ ప్రాసెసిం�
     - Status - **Status** ను **Pending** గా సెట్ చేయండి.
     - Supplier Email - **When a new email arrives** ట్రిగ్గర్ నుండి **From** డైనమిక్ కంటెంట్ ఉపయోగించండి.
 
-    ![power automate add row](../../../translated_images/powerautomate-add-row.5edce45e5dd3d51e5152688dc140ad43e1423e7a9fef9a206f82a7965ea68d73.te.png)
+    ![power automate add row](../../../translated_images/te/powerautomate-add-row.5edce45e5dd3d51e.webp)
 
 12. ఫ్లో పూర్తి అయిన తర్వాత, ఫ్లో సేవ్ చేయడానికి **Save** బటన్ పై క్లిక్ చేయండి. మీరు ట్రిగ్గర్‌లో పేర్కొన్న ఫోల్డర్‌కు ఇన్వాయిస్ ఉన్న ఇమెయిల్ పంపి ఫ్లోను పరీక్షించవచ్చు.
 
@@ -241,7 +232,7 @@ GPT మోడల్స్ విస్తృత డేటా మీద శిక
 
 ఉదాహరణకు, మీరు వివిధ ఉపయోగాల కోసం ఆటోమేటిక్‌గా టెక్స్ట్‌ను ఉత్పత్తి చేసే ఫ్లోస్‌ను నిర్మించవచ్చు, ఉదాహరణకు: ఇమెయిల్ డ్రాఫ్ట్స్, ఉత్పత్తి వివరణలు, మరియు మరిన్ని. మీరు చాట్‌బాట్స్ మరియు కస్టమర్ సర్వీస్ యాప్స్ వంటి అనేక యాప్స్ కోసం కూడా ఈ మోడల్‌ను ఉపయోగించి కస్టమర్ ప్రశ్నలకు సమర్థవంతంగా మరియు సమర్థవంతంగా స్పందించగల కస్టమర్ సర్వీస్ ఏజెంట్లకు సహాయం చేయవచ్చు.
 
-![create a prompt](../../../translated_images/create-prompt-gpt.69d429300c2e870a12ec95556cda9bacf6a173e452cdca02973c90df5f705cee.te.png)
+![create a prompt](../../../translated_images/te/create-prompt-gpt.69d429300c2e870a.webp)
 
 Power Automate లో ఈ AI మోడల్‌ను ఎలా ఉపయోగించాలో తెలుసుకోవడానికి, [Add intelligence with AI Builder and GPT](https://learn.microsoft.com/training/modules/ai-builder-text-generation/?WT.mc_id=academic-109639-somelezediko) మాడ్యూల్‌ను చూడండి.
 

@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8e8d1f6a63da606af7176a87ff8e92b6",
-  "translation_date": "2025-12-19T20:01:03+00:00",
-  "source_file": "17-ai-agents/README.md",
-  "language_code": "kn"
-}
--->
-[![Open Source Models](../../../translated_images/17-lesson-banner.a5b918fb0920e4e6d8d391a100f5cb1d5929f4c2752c937d40392905dec82592.kn.png)](https://youtu.be/yAXVW-lUINc?si=bOtW9nL6jc3XJgOM)
+[![Open Source Models](../../../translated_images/kn/17-lesson-banner.a5b918fb0920e4e6.webp)](https://youtu.be/yAXVW-lUINc?si=bOtW9nL6jc3XJgOM)
 
 ## ಪರಿಚಯ
 
@@ -33,7 +24,7 @@ AI ಏಜೆಂಟ್‌ಗಳು ಜನರೇಟಿವ್ AI ಜಗತ್ತಿ
 
 AI ಏಜೆಂಟ್‌ಗಳು ದೊಡ್ಡ ಭಾಷಾ ಮಾದರಿಗಳಿಗೆ (LLMs) **ಸ್ಥಿತಿ** ಮತ್ತು **ಸಾಧನಗಳು** ಗೆ ಪ್ರವೇಶ ನೀಡುವ ಮೂಲಕ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಅನುಮತಿಸುತ್ತವೆ.
 
-![Agent Model](../../../translated_images/what-agent.21f2893bdfd01e6a7fd09b0416c2b15594d97f44bbb2ab5a1ff8bf643d2fcb3d.kn.png)
+![Agent Model](../../../translated_images/kn/what-agent.21f2893bdfd01e6a.webp)
 
 ಈ ಪದಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸೋಣ:
 
@@ -53,7 +44,7 @@ AI ಏಜೆಂಟ್‌ಗಳು ದೊಡ್ಡ ಭಾಷಾ ಮಾದರಿ�
 
 `Agent Executor` ಚಾಟ್ ಇತಿಹಾಸವನ್ನು ಸಂಗ್ರಹಿಸಿ ಚಾಟ್‌ನ ಸನ್ನಿವೇಶವನ್ನು ಒದಗಿಸುತ್ತದೆ.
 
-![Langchain Agents](../../../translated_images/langchain-agents.edcc55b5d5c437169a2037211284154561183c58bcec6d4ac2f8a79046fac9af.kn.png)
+![Langchain Agents](../../../translated_images/kn/langchain-agents.edcc55b5d5c43716.webp)
 
 LangChain ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಆಮದು ಮಾಡಿಕೊಳ್ಳಬಹುದಾದ [ಸಾಧನಗಳ ಕ್ಯಾಟಲಾಗ್](https://integrations.langchain.com/tools?WT.mc_id=academic-105485-koreyst) ಅನ್ನು ನೀಡುತ್ತದೆ, ಇದನ್ನು ಸಮುದಾಯ ಮತ್ತು LangChain ತಂಡವು ರಚಿಸಿದೆ.
 
@@ -85,7 +76,7 @@ user_proxy = UserProxyAgent(name="user_proxy")
 
 ಪ್ರಕ್ರಿಯೆಯ ಉದಾಹರಣೆ ಇಲ್ಲಿದೆ:
 
-![AutoGen](../../../translated_images/autogen.dee9a25a45fde584fedd84b812a6e31de5a6464687cdb66bb4f2cb7521391856.kn.png)
+![AutoGen](../../../translated_images/kn/autogen.dee9a25a45fde584.webp)
 
 #### ಸಿಸ್ಟಮ್ ಸಂದೇಶದೊಂದಿಗೆ LLM ನಿರ್ಧರಿಸಲಾಗಿದೆ
 
@@ -129,7 +120,7 @@ chatbot (to user_proxy):
 
 ಕಾರ್ಯಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು `Planner` ಗೆ `Plugins` ಎಂಬ ಸಾಧನಗಳ ಸಂಗ್ರಹಕ್ಕೆ ಪ್ರವೇಶವಿದೆ. ಇದು Python ವರ್ಗಗಳು ಅಥವಾ ಸಾಮಾನ್ಯ ಕೋಡ್ ಇಂಟರ್ಪ್ರೀಟರ್ ಆಗಿರಬಹುದು. ಈ ಪ್ಲಗಿನ್‌ಗಳನ್ನು ಎम्बೆಡ್ಡಿಂಗ್‌ಗಳಾಗಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ, ಇದರಿಂದ LLM ಸರಿಯಾದ ಪ್ಲಗಿನ್ ಅನ್ನು ಉತ್ತಮವಾಗಿ ಹುಡುಕಬಹುದು.
 
-![Taskweaver](../../../translated_images/taskweaver.da8559999267715a95b7677cf9b7d7dd8420aee6f3c484ced1833f081988dcd5.kn.png)
+![Taskweaver](../../../translated_images/kn/taskweaver.da8559999267715a.webp)
 
 ಅನೋಮಲಿ ಪತ್ತೆ ಮಾಡಲು ಪ್ಲಗಿನ್ ಉದಾಹರಣೆ ಇಲ್ಲಿದೆ:
 
@@ -143,7 +134,7 @@ class AnomalyDetectionPlugin(Plugin): def __call__(self, df: pd.DataFrame, time_
 
 ಕೊನೆಯ ಏಜೆಂಟ್ ಫ್ರೇಮ್ವರ್ಕ್ ನಾವು ಅನ್ವೇಷಿಸುವುದು [JARVIS](https://github.com/microsoft/JARVIS?tab=readme-ov-file?WT.mc_id=academic-105485-koreyst). JARVIS ವಿಶೇಷವೆಂದರೆ ಇದು ಸಂಭಾಷಣೆಯ `ಸ್ಥಿತಿಯನ್ನು` ನಿರ್ವಹಿಸಲು LLM ಅನ್ನು ಬಳಸುತ್ತದೆ ಮತ್ತು `ಸಾಧನಗಳು` ಇತರ AI ಮಾದರಿಗಳು. ಪ್ರತಿ AI ಮಾದರಿ ನಿರ್ದಿಷ್ಟ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುವ ವಿಶೇಷ ಮಾದರಿಗಳು, ಉದಾಹರಣೆಗೆ ವಸ್ತು ಪತ್ತೆ, ಲಿಪ್ಯಂತರಣೆ ಅಥವಾ ಚಿತ್ರ ಶೀರ್ಷಿಕೆ.
 
-![JARVIS](../../../translated_images/jarvis.762ddbadbd1a3a3364d4ca3db1a7a9c0d2180060c0f8da6f7bd5b5ea2a115aa7.kn.png)
+![JARVIS](../../../translated_images/kn/jarvis.762ddbadbd1a3a33.webp)
 
 LLM, ಸಾಮಾನ್ಯ ಉದ್ದೇಶದ ಮಾದರಿ ಆಗಿದ್ದು, ಬಳಕೆದಾರರಿಂದ ವಿನಂತಿಯನ್ನು ಸ್ವೀಕರಿಸಿ ನಿರ್ದಿಷ್ಟ ಕಾರ್ಯ ಮತ್ತು ಕಾರ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಬೇಕಾದ ಯಾವುದೇ ಆರ್ಗ್ಯುಮೆಂಟ್‌ಗಳು/ಡೇಟಾವನ್ನು ಗುರುತಿಸುತ್ತದೆ.
 

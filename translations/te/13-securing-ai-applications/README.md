@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a2faf8ee7a0b851efa647a19788f1e5b",
-  "translation_date": "2025-12-19T19:03:06+00:00",
-  "source_file": "13-securing-ai-applications/README.md",
-  "language_code": "te"
-}
--->
 # మీ జనరేటివ్ AI అనువర్తనాలను సురక్షితం చేయడం
 
-[![మీ జనరేటివ్ AI అనువర్తనాలను సురక్షితం చేయడం](../../../translated_images/13-lesson-banner.14103e36b4bbf17398b64ed2b0531f6f2c6549e7f7342f797c40bcae5a11862e.te.png)](https://youtu.be/m0vXwsx5DNg?si=TYkr936GMKz15K0L)
+[![మీ జనరేటివ్ AI అనువర్తనాలను సురక్షితం చేయడం](../../../translated_images/te/13-lesson-banner.14103e36b4bbf173.webp)](https://youtu.be/m0vXwsx5DNg?si=TYkr936GMKz15K0L)
 
 ## పరిచయం
 
@@ -131,7 +122,7 @@ LLMలు ఉపయోగించే డేటా గోప్యత మరి�
 
 > AI రెడ్ టీమింగ్ ఆచారం విస్తృతమైన అర్థాన్ని పొందింది: ఇది కేవలం భద్రతా లోపాలను పరిశీలించడం మాత్రమే కాకుండా, ఇతర సిస్టమ్ వైఫల్యాలను కూడా పరిశీలిస్తుంది, ఉదాహరణకు, హానికరమైన కంటెంట్ ఉత్పత్తి. AI వ్యవస్థలు కొత్త ప్రమాదాలతో వస్తాయి, మరియు రెడ్ టీమింగ్ ఆ కొత్త ప్రమాదాలను అర్థం చేసుకోవడంలో కీలకం, ఉదాహరణకు ప్రాంప్ట్ ఇంజెక్షన్ మరియు ఆధారరహిత కంటెంట్ ఉత్పత్తి. - [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/?WT.mc_id=academic-105485-koreyst)
 
-[![Guidance and resources for red teaming](../../../translated_images/13-AI-red-team.642ed54689d7e8a4d83bdf0635768c4fd8aa41ea539d8e3ffe17514aec4b4824.te.png)]()
+[![Guidance and resources for red teaming](../../../translated_images/te/13-AI-red-team.642ed54689d7e8a4.webp)]()
 
 క్రింద మైక్రోసాఫ్ట్ యొక్క AI రెడ్ టీమ్ ప్రోగ్రామ్‌ను ఆకారపరచిన ముఖ్యమైన అవగాహనలను చూడండి.
 

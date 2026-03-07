@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "85b754d4dc980f270f264d17116d9a5f",
-  "translation_date": "2025-12-19T16:43:36+00:00",
-  "source_file": "16-open-source-models/README.md",
-  "language_code": "cs"
-}
--->
-[![Open Source Models](../../../translated_images/16-lesson-banner.6b56555e8404fda1716382db4832cecbe616ccd764de381f0af6cfd694d05f74.cs.png)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
+[![Open Source Models](../../../translated_images/cs/16-lesson-banner.6b56555e8404fda1.webp)](https://youtu.be/CuICgfuHFSg?si=x8SpFRUsIxM9dohN)
 
 ## Úvod
 
@@ -41,12 +32,12 @@ Pro tuto lekci budeme modely nadále označovat jako "open modely", protože v d
 
 **Cena** – Cena za token při používání a nasazení těchto modelů je nižší než u proprietárních modelů. Při budování aplikací Generativní AI byste měli zvážit poměr výkonu a ceny při práci s těmito modely pro váš konkrétní případ použití.
 
-![Model Cost](../../../translated_images/model-price.3f5a3e4d32ae00b465325159e1f4ebe7b5861e95117518c6bfc37fe842950687.cs.png)
+![Model Cost](../../../translated_images/cs/model-price.3f5a3e4d32ae00b4.webp)
 Zdroj: Artificial Analysis
 
 **Flexibilita** – Práce s open modely vám umožňuje být flexibilní v používání různých modelů nebo jejich kombinování. Příkladem jsou [HuggingChat asistenti](https://huggingface.co/chat?WT.mc_id=academic-105485-koreyst), kde si uživatel může přímo v uživatelském rozhraní vybrat používaný model:
 
-![Choose Model](../../../translated_images/choose-model.f095d15bbac922141591fd4fac586dc8d25e69b42abf305d441b84c238e293f2.cs.png)
+![Choose Model](../../../translated_images/cs/choose-model.f095d15bbac92214.webp)
 
 ## Prozkoumání různých Open Modelů
 
@@ -74,7 +65,7 @@ Neexistuje jednoznačná odpověď na výběr open modelu. Dobré místo pro za�
 
 Při porovnávání LLM napříč různými typy je dalším skvělým zdrojem [Artificial Analysis](https://artificialanalysis.ai/?WT.mc_id=academic-105485-koreyst):
 
-![Model Quality](../../../translated_images/model-quality.aaae1c22e00f7ee1cd9dc186c611ac6ca6627eabd19e5364dce9e216d25ae8a5.cs.png)
+![Model Quality](../../../translated_images/cs/model-quality.aaae1c22e00f7ee1.webp)
 Zdroj: Artificial Analysis
 
 Pokud pracujete na konkrétním případu použití, může být efektivní hledat doladěné verze zaměřené na stejnou oblast. Experimentování s více open modely, abyste viděli, jak si vedou podle vašich a uživatelských očekávání, je další dobrá praxe.
